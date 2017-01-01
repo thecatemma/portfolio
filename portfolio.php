@@ -13,8 +13,7 @@
 	</header>
 
 <p id="texte_sap">
-Brève présentation du stage (dates, lieu, entreprise, missions, rapport de stage) <br>
-Mes dates de stage chez SAP sont du 18 février au 17 août, à Levallois. <br>
+Chez SAP mes dates de stage sont du 18 février au 17 août, à Levallois. <br>
 Mes missions ont étées de travailler sur le design d'une interface d'un produit SAP nommé Smart Predict. <br>
 Présentation de l’entreprise dans son ensemble (positionnement, marché, structure, stratégie, SWOT, offre, enjeux, valeurs, etc.) <br>
 -L'entreprise est une entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateur sur le site sur lequel j'étais, elle offre des services aux industries afin de les aider dans leur activité, les valeurs... <br>

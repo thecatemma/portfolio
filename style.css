@@ -16,7 +16,6 @@ Description: Portfolio.
 	width: 125px; 
 	padding-top: 45px; 
 	padding-bottom: 45px;
-	border-bottom: 10px solid white; 
 	text-align: center;
 	background: linear-gradient(to top, white 0%, rosybrown 100%);
 	display: flex;
@@ -89,7 +88,10 @@ h3{
 }
 
 /* --- COULEUR / SPAN ---*/
-/*.jaune {background-color:#ffee00;}*/
+.jaune {
+	background-color:rosybrown;
+	opacity: 0.5;
+}
 
 /* --- MARGIN / PADDING --- */
 
@@ -482,11 +484,26 @@ input[type="submit"]:hover     {opacity:0.5;} */
 	margin-bottom:20px;
 }
 
-/* --- PAGE BLOG --- */
-.videos ul 		{display: block; margin-right: 0px;}
-.videos li		{display:inline; padding: 20px;}
-#video1 		{float: left; z-index: 0;}
-#video2 		{float: right;z-index: 0;}
+/* --- PAGE APROPOS --- */
+.videos ul 		{
+	display: block; 
+	margin-right: 0px;
+}
+
+.videos li {
+	display:inline; 
+	padding: 20px;
+}
+
+#video1 {
+	float: left; 
+	z-index: 0;
+}
+
+#video2 {
+	float: right;
+	z-index: 0;
+}
 
 /* --- PAGE ABOUT --- */
 #CV h1 {
