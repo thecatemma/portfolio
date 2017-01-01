@@ -46,7 +46,7 @@
 		<main>
 			<div class="frame">
 			</div>
-			<div class="content">
+			 <div class="content">
 				<div class="content__img-wrap">
 					<div class="content__img"></div>
 					<div class="content__img"></div>
@@ -55,7 +55,7 @@
 				<div class="content__text">
 					<span class="content__text-inner">.011</span>
 				</div>
-			</div>
+			 </div>
 		</main>
 		<script src="js2/blotter.min.js"></script>
         <script src="js2/materials/liquidDistortMaterial.js"></script>

@@ -32,7 +32,9 @@ dfn{
 	font-style:italic;
 }
 hr{
-	-moz-box-sizing:content-box;box-sizing:content-box;height:0;
+	-moz-box-sizing:content-box;
+	box-sizing:content-box;
+	height:0;
 }
 mark{
 	background:#ff0;color:#000;
@@ -123,7 +125,6 @@ body {
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: Futura, 'IBM Plex Sans', Arial, sans-serif;
-	font-weight: 500;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -241,6 +242,7 @@ a:focus {
 	position: relative;
 	justify-content: flex-start;
 	align-items: center;
+	width: 90%;
 }
 
 .content__img-wrap {
@@ -383,6 +385,7 @@ a:focus {
 	.content {
 		height: 100vh;
 		justify-content: center;
+		width: 90%;
 	}
 	.grid {
 		padding: 70vh 4rem;
