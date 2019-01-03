@@ -48,7 +48,7 @@
 			
 			<div id="social">
 				<a href="#" title="facebook"><img src="images/header-facebook.png" alt="Mon facebook"></a>
-				<a href="https://twitter.com/EmmaSalander" title="Twitter"><img src="images/header-twitter.png" alt="Mon Twitter"></a>
+				<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
 				<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Google +"><img src="images/header-behance.png" alt="Behance"></a>
 			</div>
 		</div> 
