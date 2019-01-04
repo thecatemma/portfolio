@@ -40,6 +40,8 @@
 		<div id="header-top">
 			<div id="recherche">
 				<div id="wrap">
+					
+			<a href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
 				<!--  <form action="" autocomplete="on">
   				 <input id="search" name="search" type="text" placeholder="Vous recherchez ?"><input id="search_submit" value="Rechercher" type="submit">
                  </form> -->
@@ -47,6 +49,7 @@
 			</div>
 			
 			<div id="social">
+				
 				<a href="#" title="facebook"><img src="images/header-facebook.png" alt="Mon facebook"></a>
 				<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
 				<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Google +"><img src="images/header-behance.png" alt="Behance"></a>
