@@ -11,6 +11,7 @@ include('./header.php'); //contient le doctype, et head.
             <input type="password" name="mot_de_passe" />
             <input type="submit" value="Valider" />
             </p>
+		 <a href="index.php"> <h3>Retour</h3> </a>
         </form>
 
 	<?php

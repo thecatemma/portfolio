@@ -1,23 +1,22 @@
 <!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<html>
+<html lang="fr">
 <head>
 	<meta charset="UTF-8" />
 	<title>HEMASN : Mon Portfolio</title>
 	<link rel="icon" type="images/png" href="images/favicon.ico">
-<!--- Pages --->
-	<link rel="stylesheet" type="text/css" about.php/>
-	<link rel="stylesheet" type="text/css" portfolio.php/>
-	<link rel="stylesheet" type="text/css" blog.php/>
-	<link rel="stylesheet" type="text/css" contact.php/>
-<!--- CSS  --->
+<!-- Pages -->
+	<link rel="stylesheet" type="text/css" href="about.php"/>
+	<link rel="stylesheet" type="text/css" href="portfolio.php"/>
+	<link rel="stylesheet" type="text/css" href="blog.php"/>
+	<link rel="stylesheet" type="text/css" href="contact.php"/>
+<!-- CSS  -->
 	<link rel="stylesheet" href="style.css" type="text/css" /><!-- Appel de la feuille de stlyle générique -->
 	<link rel="stylesheet" href="style/normalize.css" type="text/css"><!-- réinitialisation des valeurs à 0 sur des propriétés CSS  -->
     <link rel="stylesheet" type="text/css" href="style/jquery.bxslider.css" /><!-- Appel du carousel clients / projets -->
-<!--- Bootstrap  --->
+<!-- Bootstrap  -->
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css" />
-<!--- JS --->
+<!-- JS -->
 	<script src="js/modernizr.custom.js"></script><!-- Bibliothèque JavaScript conçue pour détecter des fonctionnalités spécifiques de HTML et CSS dans les navigateurs -->
 	<script  src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js"></script><!-- Librairie JQUERY -->
 	<script src="js/jquery.bxslider.min.js"></script><!-- Appel JS du carousel -->
@@ -51,7 +50,7 @@
 				
 				<a href="#" title="facebook"><img src="images/header-facebook.png" alt="Mon facebook"></a>
 				<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
-				<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Google +"><img src="images/header-behance.png" alt="Behance"></a>
+				<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Behance+"><img src="images/header-behance.png" alt="Behance"></a>
 			</div>
 		</div> 
   

@@ -26,7 +26,7 @@
 
 <section id="CV">
 
-<h1>FORMATIONS <a href="https://www.sap.com" title="loading"><img src="images/bx_loader.gif" alt="Future"></a> </h1>
+<h1>FORMATIONS <a href="https://www.sap.com" title="loading"><img src="images/header-loupe.png" alt="Future"></a> </h1>
 
 <h3><b>2018/2019</b><br>First year Master Degree - Digital Creation UIUX<br>
     2018<br>BTS Web Development<br>
