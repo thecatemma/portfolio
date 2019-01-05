@@ -18,22 +18,22 @@
 		
       <div id="Infos">
   		<div>
-    	<img src="images/emma.jpg">
-			<h3><b>HE</b>MASN</h3>
-    	<p>Welcome ! <br> I'm Emmanuelle, <br> A cat from countryside <br> Find here more informations about me</p>
+    	<img src="images/emma.jpg" alt="profile_photo">
+		 <h3><b>HE</b>MASN</h3>
+    	  <p>Welcome ! <br> I'm Emmanuelle, <br> A cat from countryside <br> Find here more informations about me</p>
   		</div>
-   		<a href="#"><span class="glyphicon glyphicon-plus"></span>MORE</a>
+   		 <a href="#"><span class="glyphicon glyphicon-plus"></span>MORE +</a>
 	  </div>
 		
 		<section id="contenu-accueil">
 			<article>
 				<h1><span class="jaune">HELLO</span>WORLD</h1>
 				<h2>Digital Designer</h2>
-				<span class="voir-portfolio"><a href="#" title="Voir le portfolio">See projects</a></span>
+				<span class="voir-portfolio"><a href="portfolio.php" title="Voir le portfolio">See projects</a></span>
 			</article>
 		</section>
 		
-	</header>
+</header>
 	
 
    <div id="slide-accueil">
@@ -55,27 +55,25 @@
 		<article class="article-boucle">
 			<ul>
 				<li><h2>Last post: portfolio mis à jour</h2></li>
-				<li class="meta-acc">Le 12 avril 2017 par <b>Hemasn</b> dans <a href="#">Photo du jour</a> 312 vues</li>
+				<li class="meta-acc">Le 18 février 2017 par <b>Hemasn</b> dans <a href="#">Photo du jour</a> 50 vues</li>
 				<li><p>Description... <a href="#">Read more</a></p></li>
 			</ul>
 			
 			<ul>
-				<li><a href="#"><img src="images/art1.jpg"></a></li>
+				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
 			</ul>
-		
 		</article>
 		
 		<article class="article-boucle">
 			<ul>
 				<li><h2>Last post: portfolio mis à jour</h2></li>
-				<li class="meta-acc">Le 12 avril 2017 par <b>Hemasn</b> dans <a href="#">Photo du jour</a> 312 vues</li>
+				<li class="meta-acc">Le 12 avril 2018 par <b>Hemasn</b> dans <a href="#">Photo du jour</a> 312 vues</li>
 				<li><p>Description... <a href="#">Read more</a></p></li>
 			</ul>
 			
 			<ul>
-				<li><a href="#"><img src="images/art2.jpg"></a></li>
+				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
 			</ul>
-		
 		</article>
 		
 		<div class="clearboth"></div>
