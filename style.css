@@ -201,6 +201,8 @@ input[type="submit"]:hover     {opacity:0.5;} */
 
 #CV							{padding-bottom: 15px;}
 
+.picto_about {width:10px;}
+
 /* MAP - FORMULAIRE ------------------------------------------------------------------------------ */
 #map 						{text-align: center; }
 
