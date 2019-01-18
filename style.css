@@ -209,9 +209,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 
 /*------------- FORMULAIRE ------------*/
 
-form {
-	text-align: center;
-}
+form { text-align: center;}
 
 #formulaire {
 	text-align: center;
@@ -219,17 +217,11 @@ form {
 	padding-bottom: 30px;
 }
 
-#post_comment {
-	color: rosybrown;
-}
+#post_comment {color: rosybrown;}
 
-#author {
-	color: rosybrown;
-}
+#author {color: rosybrown;}
 
-#entrer_email {
-	color: rosybrown;
-}
+#entrer_email {color: rosybrown;}
 
 #email {
 	margin-top: 10px;
@@ -245,9 +237,7 @@ form {
 	width: 200px;
 }
 
-#text_comment {
-	color: rosybrown;
-}
+#text_comment {color: rosybrown;}
 
 #comment {
 	margin-top: 10px;
