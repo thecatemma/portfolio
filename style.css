@@ -9,8 +9,15 @@ Version: 1.3
 
 
 
-html, body		{ height: 100%;}
-body			{ font-family: 'Raleway' , sans-serif; font-weight: 400; color:#222; font-size: 14px; background:url()repeat-x; padding-top:5px; }
+html, body	{ height: 100%;}
+
+body { font-family: 'Raleway' , sans-serif; 
+	   font-weight: 400; 
+	   color:#222; 
+       font-size: 14px; 
+       background:url()repeat-x; 
+	   padding-top:5px; 
+}
 
 a 				{color:blue; text-decoration:none; transition:0.5s;}
 a:hover 		{color:#222; text-decoration: underline;}
@@ -59,13 +66,13 @@ input[type="submit"]:hover     {opacity:0.5;} */
 #menu li			    {display:inline;margin-right:30px;font-size:20px;}
 #menu li:last-child	    {margin-right:0px;}
 
-#menu li a					   {padding:10px;color:rgb(50, 77, 93);line-height:1em;text-decoration:none;text-align:right;transition:0.5s;}
+#menu li a			    {padding:10px;color:rgb(50, 77, 93);line-height:1em;text-decoration:none;text-align:right;transition:0.5s;}
 #menu li a:hover			   {color:black;background:#eee;}
 #menu li a.active			   {color:white;background:blue;padding: 10px;}
 
-#contenu-accueil               {width:100%;}
-.voir-portfolio a              {text-decoration:none;font-size:20px;border-bottom:5px dotted blue;color:blue; transition:0.5s;background:url(images/1x/heart-2.png) no-repeat 0 3px;font-weight:700px;padding-left:35px;}
-.voir-portfolio a:hover        {border-bottom:1px dotted purple; color:purple;background:url(images/he.png) no-repeat 15px 3px;font-weight:700px;}
+#contenu-accueil        {width:100%;}
+.voir-portfolio a       {text-decoration:none;font-size:20px;border-bottom:5px dotted blue;color:blue; transition:0.5s;background:url(images/1x/heart-2.png) no-repeat 0 3px;font-weight:700px;padding-left:35px;}
+.voir-portfolio a:hover {border-bottom:1px dotted purple; color:purple;background:url(images/he.png) no-repeat 15px 3px;font-weight:700px;}
 
 /* INFOS ------------------------------------------------------------------------------ */
 #Infos{position: fixed;left: 0;top: 65px;z-index: 1000;margin-left: -590px;transition: margin-left ease-in 0.5s;}
@@ -76,7 +83,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 #Infos a{display: inline-block;color:darkgoldenrod;background-color:black;padding:5px;text-align:center;transform:rotate(-90deg);margin:-65px;width: 150px;vertical-align: top;margin-top: 60px;}
 
 /* SLIDER ------------------------------------------------------------------------------*/
-#slide-accueil                 {width:1020%px;margin-bottom: 30px;}
+#slide-accueil	{width:1020%px;margin-bottom: 30px;}
 
 .cbp-fwslider {
 	position: relative;
@@ -284,6 +291,17 @@ form { text-align: center;}
 
 /* Media QUERIES------------------------------------------------------------------------------ */
 
+@media screen and (max-device-width: 375px) {
+. {
+	width:90% !important;
+}	
+
+.col-sm-12 {
+	width: 95%;
+}
+	
+}
+
 @media screen and (max-width:1025px) {
 /* on force l'affichage pour les résolutions < 1024 */
 #conteneur, #slide-accueil, #footer, #footer-top, #footer2              {width:1024px;}
@@ -305,3 +323,338 @@ form { text-align: center;}
 	height: 320px;
 	padding:0;
 }
+	
+/* Portfolio --------------------------------------------------------------------------- */
+
+	
+.dw
+  animation fade 2s
+  
+@keyframes fade
+  from
+    opacity 0
+  to
+    opacity 1
+
+config = {
+  "responses": {
+    "breakpoints": {
+      "sm": "430px",
+      "md": "768px",
+      "lg": "992px",
+      "xl": "1500px"
+    },
+    "cols": {
+      "sm": 1,
+      "md": 2,
+      "lg": 3,
+      "xl": 4
+    },
+    "collapse": "sm"
+  },
+  "features": {
+    "focus": true,
+    "flip": true,
+    "pulse": true
+  },
+  "aesthetics": {
+    "panelGap": "5px",
+    "panelPadding": "20px",
+    "borderRadius": "10px",
+    "flipSizes": {
+      "sm": "200px",
+      "md": "300px",
+      "lg": "400px"
+    }
+  },
+  "blocks": {
+    "layout": {
+      "lbl": "dw",
+      "els": {
+        "focus-curtain": "fcs-crtn"
+      }
+    },
+    "panel": {
+      "lbl": "dw-pnl",
+      "els": {
+        "content": "cntnt"
+      }
+    },
+    "flip": {
+      "lbl": "dw-flp",
+      "els": {
+        "panel": "pnl",
+        "content": "cntnt"
+      }
+    },
+    "cluster": {
+      "lbl": "dw-clstr",
+      "els": {
+        "segment": "sgmnt"
+      }
+    }
+  },
+  "mods": {
+    "cluster": "clstr",
+    "segment": "sgmnt",
+    "small": "sm",
+    "medium": "md",
+    "large": "lg",
+    "vertical": "vrt",
+    "horizontal": "hrz",
+    "quarter": "qrt",
+    "half": "hlf",
+    "flip": "flp",
+    "front": "frnt",
+    "back": "bck",
+    "focus": "fcs",
+    "pulse": "pls",
+    "column": "clmn",
+    "row": "rw"
+  }
+}
+
+// BEM mixins.
+el(elName)
+  define('content', lookup(elName))
+  &__{elName}
+    {block}
+    {content}
+
+mod(modName)
+  define('content', lookup(modName))
+  &--{modName}
+    {block}
+    {content}
+
+// create shortcuts
+$blocks     = config.blocks
+$mods       = config.mods
+$responses  = config.responses
+$aesthetics = config.aesthetics
+
+define('$clusterCollapse', unquote($responses.breakpoints[$responses.collapse]))
+
+// generate aesthetic variables based on config
+for $aesthetic, $value in $aesthetics
+  if $aesthetic != 'flipSizes'
+    define('$value', unquote($value))
+  define('$' + $aesthetic, $value)
+
+// generate feature flags
+for $feature, $enabled in config.features
+  define('$' + $feature, $enabled)
+
+// layout container block
+.{$blocks.layout.lbl}
+  box-sizing border-box
+  column-gap 0
+  position   relative
+
+  *
+    box-sizing border-box
+
+  if $focus
+    +el($blocks.layout.els.focus-curtain)
+      background-color black
+      bottom           0
+      display          none
+      left             0
+      opacity          .75
+      position         fixed
+      right            0
+      top              0
+      z-index          2
+
+  // generate column-count for different breakpoints as dictated by config
+  for $breakpoint, $value in $responses.breakpoints
+    define('$columnCount', $responses.cols[$breakpoint])
+    define('$breakpointVal', unquote($value))
+    if $columnCount != 1
+      @media(min-width: $breakpointVal)
+
+        // NOTE: space required to please linter.
+        column-count $columnCount
+
+// panel block
+.{$blocks.panel.lbl}
+  margin 0
+  padding $panelGap
+
+  if $focus
+    +mod($mods.focus)
+      position relative
+
+      &:hover
+        z-index  3
+
+      // use CSS3 sibling combinator syntax to show focus curtain when a focus
+      // panel is hovered over
+      &:hover ~ .{$blocks.layout.lbl}__{$blocks.layout.els.focus-curtain}
+        display block
+
+  if $pulse
+    +mod($mods.pulse)
+      transform-style preserve-3d
+      perspective     1000
+      transition      transform .25s ease 0s
+      &:hover
+        transform scale(1.02)
+
+  +el($blocks.panel.els.content)
+    border-radius $borderRadius
+    overflow      hidden
+    padding       $panelPadding
+    width         100%
+
+// NOTE: Iterates through responsive breakpoints in order to set break-inside
+// property on the smallest possible breakpoint where columns > 1
+$set = true
+for $breakpoint, $value in $responses.breakpoints
+  define('$columnCount', $responses.cols[$breakpoint])
+  define('$breakpointVal', unquote($value))
+
+  if $columnCount != 1
+    if $set
+      $set = false
+      .{$blocks.panel.lbl}
+        @media (min-width: $breakpointVal)
+          break-inside avoid
+
+if $flip
+  .{$blocks.flip.lbl}
+    perspective 1000
+
+    &:hover
+      .{$blocks.flip.lbl}__{$blocks.flip.els.content}
+        transform rotateY(180deg)
+
+    // NOTE: generates flip panel sizes.
+    // important as flip panel must have a defined height in order to render
+    // properly.
+    for $size, $value in $flipSizes
+      define('$heightVal', unquote($value))
+
+      +mod($size)
+        height $heightVal
+
+    +el($blocks.flip.els.panel)
+      backface-visibility hidden
+      border-radius       $borderRadius
+      height              100%
+      left                0
+      overflow            visible
+      padding             $panelPadding
+      position            absolute
+      top                 0
+      width               100%
+
+      +mod($mods.front)
+        transform rotateY(0deg)
+        z-index   2
+
+      +mod($mods.back)
+        transform rotateY(180deg)
+
+    +el($blocks.flip.els.content)
+      height          100%
+      overflow        visible
+      position        relative
+      transform-style preserve-3d
+      transition      .25s
+
+.{$blocks.cluster.lbl}
+  display flex
+  padding 0
+
+  +mod($mods.vertical)
+    @media(max-width: $clusterCollapse)
+      flex-direction column
+
+  +mod($mods.horizontal)
+    flex-direction column
+
+  +el($blocks.cluster.els.segment)
+    display flex
+    flex    1 1 auto
+
+    +mod($mods.row)
+      display        flex
+
+      @media(max-width: $clusterCollapse)
+        flex-direction column
+
+    +mod($mods.column)
+      flex-direction column
+
+    @media(min-width: $clusterCollapse)
+      +mod($mods.half)
+        flex-basis 50%
+
+      +mod($mods.quarter)
+        flex-basis 25%
+        
+        
+/**
+  * Theming
+*/
+$black   = #000
+$red     = #e74c3c
+$green   = #26a65b
+$grey    = #6c7a89
+$purple  = #8e44ad
+$blue    = #1e8bc3
+$white   = #ecf0f1
+$darkred = #cf000f
+
+$colorPallette = {
+  black  : $black
+  red    : $red
+  blue   : $blue
+  green  : $green
+  grey   : $grey
+  purple : $purple
+  white  : $white
+}
+
+*
+  box-sizing border-box
+
+for alignment in left right center
+  .tx--{alignment}
+    text-align alignment
+
+
+body
+  font-family 'Open Sans', sans-serif
+
+h3
+  margin-top   0
+
+/**
+* Colors
+*/
+for color, value in $colorPallette
+  .bd--{color}
+    border           4px solid value
+
+  .bg--{color}
+    background-color value
+
+  .tx--{color}
+    color            value
+
+$blocks   = config.blocks
+
+/**
+* Images
+*/
+img
+  max-height 300px
+
+  &.{$blocks.panel.lbl}__{$blocks.panel.els.content}
+  &.{$blocks.flip.lbl}__{$blocks.flip.els.panel}
+    padding 0
+
+  &.{$blocks.flip.lbl}__{$blocks.flip.els.panel}
+    max-height 100%
