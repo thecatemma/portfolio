@@ -14,8 +14,8 @@
 	<link rel="stylesheet" href="style/normalize.css" type="text/css"><!-- réinitialisation des valeurs à 0 sur des propriétés CSS  -->
     <link rel="stylesheet" type="text/css" href="style/jquery.bxslider.css" /><!-- Appel du carousel clients / projets -->
 <!-- Bootstrap  -->
-	<link rel="stylesheet" type="text/css" href="style/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="style/bootstrap-theme.min.css" />
+	<link rel="stylesheet" type="text/css" href="./bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="./bootstrap-theme.min.css" />
 <!-- JS -->
 <!-- Bibliothèque JS conçue pour détecter fonctionnalités spécifiques de HTML et CSS dans les navigateurs -->
 	<script src="js/modernizr.custom.js"></script>

@@ -36,11 +36,39 @@
 </h3>
 
 <h1>TOOLS <img class="picto_about"src="images/picto-pencil.png" alt="Tools"></h1>
+	
+<table>
+	<tr>
+		<th><h2>Programs</h2></th>
+		<td><h3>Photoshop</h3></td>
+	    <td><h3>Illustrator</h3></td>
+		<td><h3>InDesign</h3></td>
+		<td><h3>After Effect</h3></td>
+		<td><h3>Premiere</h3></td>
+	</tr>
+	<tr>
+		<th><h2>Sketching</h2></th>
+		<td><h3>Adobe XD</h3></td>
+	    <td><h3>Sketch</h3></td>
+		<td><h3>Figma</h3></td>
+		<td><h3>Principle</h3></td>
+		<td><h3>Zeplin</h3></td>
+	</tr>
+		<tr>
+		<th><h2>Coding</h2></th>
+		<td><h3>html</h3></td>
+	    <td><h3>css</h3></td>
+		<td><h3>js</h3></td>
+		<td><h3>php</h3></td>
+		<td><h3>mysql</h3></td>
+	</tr>
 
-<h3>Photoshop<br>Illustrator<br>InDesign<br>After Effect<br>Sketch<br>Adobe XD<br>Premiere<br>HTML<br>CSS<br></h3>
+</table>
+<br>
+	
 
 <h1>EXPERIENCE <img class="picto_about"src="images/picto-graphic.png" alt="Xperience"></h1>
-<h3>Two internships<br>Free-lance</h3>
+<h3>Two internships<br>Free-lance<br>projects<br>life<br></h3>
 
 <h1>INTERESTS <img class="picto_about"src="images/picto-search.png" alt="Like"></h1>
 <h3>Travels <br> Environment <br> Nature</h3>
