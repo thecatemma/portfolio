@@ -26,7 +26,7 @@
 
 <section id="CV">
 
-<h1>FORMATIONS <a href="https://www.sap.com" title="loading"><img class="picto_about"src="images/picto-brain.png" alt="Future"></a> </h1>
+<h1>FORMATIONS </h1>
 
 <h3><b>2018/2019</b><br>First year Master Degree - Digital Creation UIUX<br>
     2018<br>BTS Web Development<br>
@@ -35,7 +35,7 @@
 	2013/2014<br>Foundation Year in Applied Arts<br>
 </h3>
 
-<h1>TOOLS <img class="picto_about"src="images/picto-pencil.png" alt="Tools"></h1>
+<h1>TOOLS </h1>
 	
 <table>
 	<tr>
@@ -67,13 +67,13 @@
 <br>
 	
 
-<h1>EXPERIENCE <img class="picto_about"src="images/picto-graphic.png" alt="Xperience"></h1>
+<h1>EXPERIENCE</h1>
 <h3>Two internships<br>Free-lance<br>projects<br>life<br></h3>
 
-<h1>INTERESTS <img class="picto_about"src="images/picto-search.png" alt="Like"></h1>
+<h1>INTERESTS</h1>
 <h3>Travels <br> Environment <br> Nature</h3>
 
-<h1>LANGUAGES <img class="picto_about"src="images/picto_flag.png" alt="Speak"></h1>
+<h1>LANGUAGES</h1>
 <h3>French<br>English</h3>
 </div>
 
