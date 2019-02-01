@@ -28,7 +28,7 @@ a:hover 		{color:#222; text-decoration: underline;}
 /* [TITRES]------------------------------------------------------------------------------ */
 h1		 	{font-family: 'Playfair Display SC', serif;font-size:50px;color:#324d5d;font-weight:200;margin:0px 0px 5px 0px;padding:0;}
 h2		 	{font-size:24px;font-family: 'Pattaya', sans-serif;color:rosybrown;font-weight:300;margin:0px 0px 5px 0px;}
-h3		 	{font-size:16px;font-family: 'Raleway' , sans-serif;color:#999;font-weight:400;margin:5px 0px 5px 5px;}
+h3		 	{font-size:16px;font-family: 'Raleway' , sans-serif;color:black;font-weight:400;margin:5px 0px 5px 5px;}
 
 /* [ACCUEIL]------------------------------------------------------------------------------ */
 
@@ -219,7 +219,7 @@ th {
 }
 
 tr {
-    border-bottom: 5px solid lightblue;
+    border-bottom: 3px solid BLANCHEDALMOND;
 }
 
 /* MAP - FORMULAIRE  ------------------ */
@@ -270,14 +270,15 @@ form { text-align: center;}
 	border-color: rosybrown;
 	border-radius: 3px;
 	padding: 10px;
-	color: white;
-	background-color: lightblue;
+	color: #324d5d;
+	background-color: BLANCHEDALMOND;
 	font-size: 15px;
 }
 
 
 /* FOOTER ------------------------------------------------------------------------------ */
-#footer							{width:auto; height:350; background-image: linear-gradient(to top, #5f72bd 0%, rosybrown 100%); color:white;}
+#footer	 {width:auto; height:350; background-image: linear-gradient(to top, white 0%, rosybrown 100%); color:white;}
+
 #footer-top						{width:1020px;margin:auto;height:auto;padding-top:45px;padding-bottom:45px;}
 #footer-top	ul					{width:299px;padding:20px;margin:0; float:left;border-right:1px solid white;}
 #footer-top	ul:last-child		{border:0;}
