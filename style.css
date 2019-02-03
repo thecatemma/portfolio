@@ -322,6 +322,12 @@ form { text-align: center;}
 #header-accueil, #header, #header-top, #header-accueil, #footer-bottom  {width:1000px;}
 }
 
+@media screen and (max-width:600px) {
+/* on force l'affichage pour les résolutions < 1024 */
+#conteneur, #slide-accueil, #footer, #footer-top, #footer2              {width:590px;}
+#header-accueil, #header, #header-top, #header-accueil, #footer-bottom  {width:590px;}
+}
+
 @media screen and (max-width: 640px) {
   /*quand l'écran est tro petit ASIDE disparait*/
   aside{display:none;}

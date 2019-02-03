@@ -27,11 +27,11 @@
 		
 	</header>
 
-</div>	
+</div>
 
 
 <div id="conteneur">
-
+	
 	<section id="client-acc">
 	  <h1>Some ideas</h1>
 		
@@ -58,13 +58,10 @@
 	  });
 	});
 </script>
-		
-		
-<!-- Fin Options du carousel clients / projets -->
-	
-	</section>
-</div>
 
+</div>
+</section>
+	
 
 <?php		
 	include 'footer.php';

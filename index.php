@@ -54,27 +54,19 @@
 	
 		<article class="article-boucle">
 			<ul>
-				<li><h2>Last post: portfolio mis à jour</h2></li>
-				<li class="meta-acc">Le 18 février 2017 par <b>Hemasn</b> dans <a href="#">Photo du jour</a> 50 vues</li>
-				<li><p>Description... <a href="#">Read more</a></p></li>
+				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
+				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
 			</ul>
-			
 			<ul>
 				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
+				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
 			</ul>
-		</article>
-		
-		<article class="article-boucle">
 			<ul>
-				<li><h2>Last post: portfolio mis à jour</h2></li>
-				<li class="meta-acc">Le 12 avril 2018 par <b>Hemasn</b> dans <a href="#">Photo du jour</a> 312 vues</li>
-				<li><p>Description... <a href="#">Read more</a></p></li>
-			</ul>
-			
-			<ul>
+				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
 				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
 			</ul>
 		</article>
+		
 		
 		<div class="clearboth"></div>
 	
