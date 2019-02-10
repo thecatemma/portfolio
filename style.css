@@ -25,12 +25,12 @@ a:hover 		{color:#222; text-decoration: underline;}
 
 .clearboth		{ clear:both}
 
-/* [TITRES]------------------------------------------------------------------------------ */
+/* TITRES------------------------------------------------------------------------------ */
 h1		 	{font-family: 'Playfair Display SC', serif;font-size:50px;color:#324d5d;font-weight:200;margin:0px 0px 5px 0px;padding:0;}
 h2		 	{font-size:24px;font-family: 'Pattaya', sans-serif;color:rosybrown;font-weight:300;margin:0px 0px 5px 0px;}
-h3		 	{font-size:16px;font-family: 'Raleway' , sans-serif;color:black;font-weight:400;margin:5px 0px 5px 5px;}
+h3		 	{font-size:16px;font-family: 'Raleway' , sans-serif;color:#324d5d;font-weight:400;margin:5px 0px 5px 5px;}
 
-/* [ACCUEIL]------------------------------------------------------------------------------ */
+/* ACCUEIL------------------------------------------------------------------------------ */
 
 /* COULEUR / SPAN -------------------------------------*/
 .jaune {background-color:#ffee00;}
@@ -136,7 +136,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 .cbp-fwslider nav span:hover {
-	background:#8e54e9;
+	background: lightgrey;
 	color: #fff;
 }
 
