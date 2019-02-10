@@ -31,6 +31,10 @@
 
 
 <div id="conteneur">
+
+<p>
+	<a href="images/slide1.jpg"><img src="images/logo-client-1.jpg" alt="Photo de montagne" title="Cliquez pour agrandir"/></a>
+</p>
 	
 	<section id="client-acc">
 	  <h1>Some ideas</h1>
@@ -60,6 +64,7 @@
 </script>
 
 </div>
+	
 </section>
 	
 
