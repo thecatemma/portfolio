@@ -39,11 +39,12 @@
    <div id="slide-accueil">
 	<div id="cbp-fwslider" class="cbp-fwslider">
 	<ul>
+		<li><a href="#"><img src="images/slider_1.png" alt="img01"/></a></li>
 		<li><a href="#"><img src="images/slide3.jpg" alt="img01"/></a></li>
 		<li><a href="#"><img src="images/slide2.jpg" alt="img01"/></a></li>
 		<li><a href="#"><img src="images/slide1.jpg" alt="img01"/></a></li>
-		<li><a href="#"><img src="images/slide4.jpg" alt="img01"/></a></li>
-		<li><a href="#"><img src="images/slide5.jpg" alt="img01"/></a></li>
+		<li><a href="#"><img src="images/slider-7.png" alt="img01"/></a></li>
+		<li><a href="#"><img src="images/slider_3.png" alt="img01"/></a></li>
 	</ul>
     </div>
    </div>
@@ -61,10 +62,7 @@
 				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
 				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
 			</ul>
-			<ul>
-				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
-				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
-			</ul>
+
 		</article>
 		
 		
