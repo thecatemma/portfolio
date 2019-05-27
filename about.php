@@ -27,15 +27,15 @@
 <section id="CV">
 
 <h1>FORMATIONS </h1>
-
-<h3><b>2018/2019</b><br>First year Master Degree - Digital Creation UIUX<br>
-    2018<br>BTS Web Development<br>
+<h3><b>2019/2020</b><br>Second year Master Degree - UX Design<br>
+	2018/2019<br>First year Master Degree - Digital Creation UIUX<br>
+    2018/2019<br>BTS Web Development<br>
     2016/2017<br>Numeric<br>
 	2014/2015<br>Graphic Design<br>
 	2013/2014<br>Foundation Year in Applied Arts<br>
 </h3>
 
-<h1>TOOLS </h1>
+<h1>TOOLS</h1>
 	
 <table>
 	<tr>
@@ -68,7 +68,8 @@
 	
 
 <h1>EXPERIENCE</h1>
-<h3>Two internships<br>Free-lance<br>projects<br>life<br></h3>
+<h3>Three internships (SAP, Communication Agency,Agency)<br>
+Free-lance<br>Projects<br>Life<br></h3>
 
 <h1>INTERESTS</h1>
 <h3>Travels <br> Environment <br> Nature</h3>

@@ -173,7 +173,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 .cbp-fwdots span.cbp-fwcurrent {
-	background: purple;
+	background: #324d5d;
 	transition: box-shadow 0.2s ease-in-out;
 }
 

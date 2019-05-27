@@ -39,6 +39,7 @@
    <div id="slide-accueil">
 	<div id="cbp-fwslider" class="cbp-fwslider">
 	<ul>
+		<li><a href="#"><img src="images/slider_11.png" alt="img01"/></a></li>
 		<li><a href="#"><img src="images/slider_1.png" alt="img01"/></a></li>
 		<li><a href="#"><img src="images/slide3.jpg" alt="img01"/></a></li>
 		<li><a href="#"><img src="images/slide2.jpg" alt="img01"/></a></li>
