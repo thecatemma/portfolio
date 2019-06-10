@@ -34,6 +34,9 @@
 
 <p>
 	<a href="images/slide1.jpg"><img src="images/logo-client-1.jpg" alt="Photo de montagne" title="Cliquez pour agrandir"/></a>
+	
+	Ajouter une croix puis mettre en display none
+	Faire un évènement onclick en js et voilà --> faire attention aux conflits
 </p>
 	
 	<section id="client-acc">
