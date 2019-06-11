@@ -21,22 +21,42 @@
 		<section id="contenu-accueil">
 			<article>
 				<h1><span class="jaune">CREATIVE</span>PORTFOLIO</h1>
-				<span class="voir-portfolio"><a href="#" title="Voir le portfolio">See projects</a></span>
+				<span class="voir-portfolio"><a href="#" title="Voir le portfolio">SAP + Projects </a></span>
 			</article>
 		</section>
 		
 	</header>
 
-</div>
+<p>
+Brève présentation du stage (dates, lieu, entreprise, missions, rapport de stage) <br>
+-J'ai réalisé mon stage chez SAP du 18 février au 17 août, à Levallois. Mes mission ont étées de travailler sur le design d'une interface d'un produit SAP nommé Smart Predict. <br>
+Présentation de l’entreprise dans son ensemble (positionnement, marché, structure, stratégie, SWOT, offre, enjeux, valeurs, etc.) <br>
+-L'entreprise est une entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateur sur le site sur lequel j'étais, elle offre des services aux industries afin de les aider dans leur activité, les valeurs... <br>
+Présentation de votre mission <br>
+Le service et son contexte, <br>
+Détails de vos missions <br>
+Quelques réalisations concrètes et illustrées <br>
+Bilan et perspectives <br>
+Vos résultats (avec des données objectives, quanti et quali) <br>
+Votre plus grande réussite <br>
+Votre plus grande leçon <br>
+Quelles compétences avez-vous acquises <br>
+Qu’avez-vous appris d’un point de vue humain, équipe, management ? <br>
+Comment cette expérience va alimenter votre projet professionnel ? <br>
+Témoignage(s) : celui de votre tuteur, d’un collègue, d’un client... <br>
+Remerciements <br>
+Présentation de l’étudiant (petite bio + CV) <br>
+</p>
 
+</div>
 
 <div id="conteneur">
 
 <p>
-	<a href="images/slide1.jpg"><img src="images/logo-client-1.jpg" alt="Photo de montagne" title="Cliquez pour agrandir"/></a>
+<!--	<a href="images/slide1.jpg"><img src="images/logo-client-1.jpg" alt="Photo de montagne" title="Cliquez pour agrandir"/></a>
 	
 	Ajouter une croix puis mettre en display none
-	Faire un évènement onclick en js et voilà --> faire attention aux conflits
+	Faire un évènement onclick en js et voilà faire attention aux conflits -->
 </p>
 	
 	<section id="client-acc">
