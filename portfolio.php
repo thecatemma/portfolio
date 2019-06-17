@@ -36,17 +36,27 @@ Présentation de votre mission <br>
 Le service et son contexte, <br>
 Détails de vos missions <br>
 Quelques réalisations concrètes et illustrées <br>
+- Smart Predict <br>
+- Illustrations <br>
 Bilan et perspectives <br>
 Vos résultats (avec des données objectives, quanti et quali) <br>
 Votre plus grande réussite <br>
+-
 Votre plus grande leçon <br>
+-
 Quelles compétences avez-vous acquises <br>
+-Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
 Qu’avez-vous appris d’un point de vue humain, équipe, management ? <br>
+-ALIEN, work, fun <br>
 Comment cette expérience va alimenter votre projet professionnel ? <br>
+-Cela m'a ouvert sur de nouveaux horizons dans ce domaine <br>
 Témoignage(s) : celui de votre tuteur, d’un collègue, d’un client... <br>
 Remerciements <br>
 Présentation de l’étudiant (petite bio + CV) <br>
 </p>
+
+<h3> Autres Articles </h3>
+<?php include('./index-articles.php'); ?>
 
 </div>
 
