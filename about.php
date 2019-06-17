@@ -29,10 +29,10 @@
 <h1>FORMATIONS </h1>
 <h3><b>2019/2020</b><br>Second year Master Degree - UX Design<br>
 	2018/2019<br>First year Master Degree - Digital Creation UIUX<br>
-    2018/2019<br>BTS Web Development<br>
-    2016/2017<br>Numeric<br>
-	2014/2015<br>Graphic Design<br>
-	2013/2014<br>Foundation Year in Applied Arts<br>
+    2018/2019<br>Formation Web Development +2<br>
+    2016/2017<br>Numeric Year (UX, UI, Code, Management) +1<br>
+	2014/2015<br>Graphic Design +1<br>
+	2013/2014<br>Foundation Year in Applied Arts MANAA<br>
 </h3>
 
 <h1>TOOLS</h1>
