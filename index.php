@@ -2,7 +2,7 @@
 	include 'header.php';
 
 ?>
-		<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
+	<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
 		
 		<nav id="menu">
 			<ul>
@@ -63,14 +63,12 @@
 				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
 				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
 			</ul>
-
 		</article>
 		
 		
 		<div class="clearboth"></div>
 	
 	</section>
-	
 	
 <!-- //////  Options du slider d'images -->
 <script src="js/jquery.cbpFWSlider.min.js"></script>
@@ -85,7 +83,6 @@
 <div class="clearboth"></div>
 
 </div>	
-
 
 <?php		
 	include 'footer.php';
