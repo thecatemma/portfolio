@@ -5,7 +5,7 @@ include('./header.php'); //contient le doctype, et head.
 
 ?>
 
-	 <form action="secret.php" method="post">
+	 <form action="admin/index.php" method="post">
 		 <h2>Mot de passe :</h2>
             <p>
             <input type="password" name="mot_de_passe" />
