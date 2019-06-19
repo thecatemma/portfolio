@@ -13,7 +13,6 @@
 		
 	 <ul>
 	  <li><div class="titre-footer">Follow</div></li>
-	
 	  <li id="img_footer">
 	   <a href="#"><img src="images/icon-facebook-footer.png" alt="Facebook"></a>
 	   <a href="#"><img src="images/icon-twitter-footer.png" alt="Twitter"></a>
@@ -46,7 +45,6 @@
 		
 	</div>
 </footer>
-
 
 </body>
 </html>
