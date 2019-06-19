@@ -60,16 +60,8 @@ else
 			<h1><?= $article->title ?></h1>
 			<time><?= $article->date ?></time>
 		 	
-<!-----SLIDER----->
-	<script src="./carroussel.js" defer></script>
-		<div id="carrousel">
-			<ul>
-				<li><img src="images/img1.jpg"/></li>
-				<li><img src="images/img2.jpg" /></li>
-				<li><img src="images/img3.jpg" /></li>
-			</ul>
-		  </div>
-<!-----FIN SLIDER----->
+
+<!--- ARTICLE CONTENT --->
 		
 		
 			<p><?= $article->content ?></p>
