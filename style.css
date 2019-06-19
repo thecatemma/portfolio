@@ -446,7 +446,8 @@ th {
 }
 
 tr {
-    border-bottom: 3px solid BLANCHEDALMOND;
+    border-bottom: 5px dotted BLANCHEDALMOND;
+	
 }
 
 /* --- MAP --- */
