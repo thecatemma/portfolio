@@ -68,14 +68,14 @@
 	
 
 <h1>EXPERIENCE</h1>
-<h3>Three internships (SAP, Communication Agency,Agency)<br>
+<h3>Three internships<br>
 Free-lance<br>Projects<br>Life<br></h3>
 
 <h1>INTERESTS</h1>
 <h3>Travels <br> Environment <br> Nature</h3>
 
 <h1>LANGUAGES</h1>
-<h3>French<br>English</h3>
+<h3>French<br>English<br>++</h3>
 </div>
 
 <?php		
