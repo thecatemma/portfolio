@@ -87,7 +87,7 @@
 
 		if(this.length == 0) return this;
 
-		// support mutltiple elements
+		// support multiple elements
 		if(this.length > 1){
 			this.each(function(){$(this).bxSlider(options)});
 			return this;
