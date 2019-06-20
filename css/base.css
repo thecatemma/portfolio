@@ -24,17 +24,6 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.demo-1::before {
-	content: '\00D7';
-	font-size: 300vw;
-	color: rgba(0,0,0,0.05);
-	position: fixed;
-	top: 0vh;
-	left: -50%;
-	line-height: 0.2;
-	font-weight: normal;
-}
-
 .demo-2 {
 	--color-text: #000;
 	--color-bg: #a99894;

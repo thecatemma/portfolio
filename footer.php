@@ -9,7 +9,7 @@
 	 <ul>
 	  <li><div class="titre-footer">Skills</div></li>
 	  <li><p>UIUX<br/>Design<br/>Analytic Drawing<br/>Art Direction<br/>Code</p></li>
-	  <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague... <br/>and France of course</p></li>
+	  <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague... and France of course</p></li>
 	 </ul>	
 		
 	 <ul>
