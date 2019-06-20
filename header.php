@@ -33,10 +33,12 @@
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <!-- Optimisation en largeur pour correspondre à la largeur de l'écran du périphérique -->
     <meta name="viewport" content="width=device-width" />
-	
-	
-	
+
+<!-- NOUVEL ELEMENT JS -->
+	<link rel="stylesheet" type="text/css" href="css/base.css" />
 	<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|IBM+Plex+Sans:500" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
 </head>
 
 <body>
