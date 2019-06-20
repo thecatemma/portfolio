@@ -63,7 +63,6 @@ else
 
 <!--- ARTICLE CONTENT --->
 		
-		
 			<p><?= $article->content ?></p>
 			<hr />
 
