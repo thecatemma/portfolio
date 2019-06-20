@@ -24,6 +24,25 @@
 		
 	</header>
 
+
+	<body class="demo-2 loading">
+		<main>
+			<div class="message">Please view on desktop to see the effect</div>
+
+			<div class="content">
+				<div class="content__img-wrap">
+					<div class="content__img"></div>
+					<div class="content__img"></div>
+					<div class="content__img"></div>
+				</div>
+				<div class="content__text"><span class="content__text-inner">.011</span></div>
+			</div>
+		</main>
+		<script src="js2/blotter.min.js"></script>
+        <script src="js2/materials/liquidDistortMaterial.js"></script>
+		<script src="js2/imagesloaded.pkgd.min.js"></script>
+		<script src="js2/demo2.js"></script>
+
 <section id="CV">
 
 <h1>FORMATIONS </h1>
