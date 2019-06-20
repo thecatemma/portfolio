@@ -55,7 +55,7 @@ Remerciements <br>
 Présentation de l’étudiant (petite bio + CV) <br>
 </p>
 
-<h3> Autres Articles </h3>
+<h2> Articles </h2>
 <?php include('./index-articles.php'); ?>
 
 </div>
@@ -63,7 +63,7 @@ Présentation de l’étudiant (petite bio + CV) <br>
 <div id="conteneur">
 
 <p>
-<!--	<a href="images/slide1.jpg"><img src="images/logo-client-1.jpg" alt="Photo de montagne" title="Cliquez pour agrandir"/></a>
+<!-- <a href="images/slide1.jpg"><img src="images/logo-client-1.jpg" alt="Photo de montagne" title="Cliquez pour agrandir"/></a>
 	
 	Ajouter une croix puis mettre en display none
 	Faire un évènement onclick en js et voilà faire attention aux conflits -->
@@ -81,7 +81,7 @@ Présentation de l’étudiant (petite bio + CV) <br>
 			<div class="slide"><img src="images/logo-client-6.jpg"></div>
 		</div>
 		
-<!-- ////// Options du carousel clients / projets -->
+<!-- Carousel -->
 <script>
 	$(document).ready(function(){
 	  $('.slider5').bxSlider({
@@ -100,7 +100,6 @@ Présentation de l’étudiant (petite bio + CV) <br>
 	
 </section>
 	
-
 <?php		
 	include 'footer.php';
 ?>
