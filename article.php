@@ -92,7 +92,7 @@ else
 				<h5><?= $com->author ?><time><?= $com->date ?></time></h5>
 				<p><?= $com->comment ?></p>
 			<?php endforeach; ?>
-			  <a href="index.php">Retour aux articles</a>
+			  <a href="portfolio.php">Retour aux articles</a>
 		</div>
 	</body>
 </html>
