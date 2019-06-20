@@ -2,12 +2,13 @@
 	<div id="footer-top">
 	 <ul>
 	  <li><div class="titre-footer">PORT<b>FOLIO</b></div></li>
-	  <li><p>Emmanuelle Husson, est née passionnée par l'Art, la création et le Design. Elle pense que l'humain ne doit créer que s'il arrive à hauteur de la nature en terme d'esthétisme. S'il n'y arrive pas, alors il faut laisser tomber. La nature n'a pas besoin de lui, elle se créée seule. Il faut que la création n'ait pas d'impact négatif. Les dommages sont collosaux mais elle garde espoir.</p></li>
+	  <li><p>Emmanuelle Husson, est née passionnée par l'Art, la création et le Design. Elle pense que l'humain ne doit créer que s'il arrive à hauteur de la nature en terme d'esthétisme. S'il n'y arrive pas, alors il faut laisser tomber. La nature n'a pas besoin de lui, elle se créée seule. Il faut que la création n'ait pas d'impact négatif. Les dommages sont collosaux mais elle garde espoir.
+	Après exploration approfondie en informatique, elle souhaite poursuivre sa réalisation de projets artistiques.</p></li>
 	 </ul>
 		
 	 <ul>
 	  <li><div class="titre-footer">Skills</div></li>
-	  <li><p>Design<br/>UIUX<br/>Analytic Drawing<br/>Art Direction<br/>Code</p></li>
+	  <li><p>UIUX<br/>Design<br/>Analytic Drawing<br/>Art Direction<br/>Code</p></li>
 	  <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague... <br/>and France of course</p></li>
 	 </ul>	
 		
