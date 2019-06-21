@@ -41,7 +41,7 @@
 			<li><a href="#">Portfolio</a> | </li>
 			<li><a href="#">Contact</a> | </li>
 			<li><a href="#">Mentions légales</a> | </li>
-			<li><a href="#">Map</a>  </li>
+			<li><a href="#">Map </a>  </li>
 		</ul>
 		
 	</div>

@@ -53,23 +53,30 @@
 	
 	<section id="articles">
 		<h1>Last posts</h1>
-	
-		<article class="article-boucle">
-			<ul>
-				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
-				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
-			</ul>
-			<ul>
-				<li><a href="#"><img src="images/art1.jpg" alt="art01"></a></li>
-				<li><a href="#"><img src="images/art2.jpg" alt="art02"></a></li>
-			</ul>
-		</article>
-		
-		
 		<div class="clearboth"></div>
-	
 	</section>
-	
+
+		<main>
+			<div class="message">Please view on desktop to see the effect</div>
+			<div class="frame">
+			</div>
+			<div class="content">
+				<div class="content__img-wrap">
+					<div class="content__img"></div>
+					<div class="content__img"></div>
+					<div class="content__img"></div>
+				</div>
+				<div class="content__text">
+					<span class="content__text-inner">.011</span>
+				</div>
+			</div>
+		</main>
+		<script src="js2/blotter.min.js"></script>
+        <script src="js2/materials/liquidDistortMaterial.js"></script>
+		<script src="js2/imagesloaded.pkgd.min.js"></script>
+		<script src="js2/demo2.js"></script>
+
+
 <!-- //////  Options du slider d'images -->
 <script src="js/jquery.cbpFWSlider.min.js"></script>
 <script>
@@ -78,7 +85,6 @@
 		$( '#cbp-fwslider' ).cbpFWSlider('interval');
 		} );
 </script>
-<!-- Fin Options du slider d'images -->
 	
 <div class="clearboth"></div>
 
