@@ -108,19 +108,6 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
 	<h2 id="post_comment">Contact Me</h2>
 
-
-<!--	<form action="" method="post">
-		<p><label for="Name" id="author">Name</label> <br />
-		
-		<input type="text" id="pseudo" value> </p>
-		
-		<p> <Label for="comment" id="text_comment">Message</Label> <br />			
-			
-		<textarea name="comment" id="comment"><?php if(isset($comment)) echo $comment ?></textarea> </p>
-		
-		<button type="submit" class="btn-success">Envoyer</button>
-	</form> -->
-
   <form method="post" action="<?php echo strip_tags($_SERVER['REQUEST_URI']); ?>">
 	  
     <p><label for="Name" id="author">Name</label> <br />
@@ -140,9 +127,9 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 </div>
 
 
-<div id="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127" width="600" height="450" frameborder="0" style="border:30" allowfullscreen></iframe>
-</div>
+<iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
+
+
 
 </div>	
 		
