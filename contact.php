@@ -86,11 +86,16 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
 		
 		<nav id="menu">
+			<input id="check" type="checkbox">
+			<span></span>
+			<span></span>
+			<span></span>
+			
 			<ul>
 				<li><a  href="index.php" title="">Hello</a></li>
 				<li><a href="about.php" title="">About</a></li>
 				<li><a href="portfolio.php" title="">Porte folie</a></li>
-				<li><a href="blog.php" title="">-Mia ? -Miaowww</a></li>
+				<li><a href="blog.php">-Mia ? -Miaowww</a></li>
 				<li><a class="active" href="contact.php" title="">Keep in touch</a></li>
 			</ul>
 		</nav>
