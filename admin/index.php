@@ -2,12 +2,13 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Codes d'accès au serveur central de la NASA</title>
+        <title>Codes d'accès au serveur central de la NASA - HEMASN</title>
     </head>
     <body>
     
         <?php
-    if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] ==  "escargot") // Si le mot de passe est bon
+    if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] == "escargot") 
+	// Si mot de passe est bon
     {
     // On affiche les codes
     
@@ -18,7 +19,6 @@
         echo '<p>Mot de passe incorrect</p>';
     }
     ?>
-    
-        
+            
     </body>
 </html>

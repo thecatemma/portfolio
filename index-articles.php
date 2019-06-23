@@ -9,19 +9,23 @@ require_once('./functions.php');
 $articles = getArticles();
 
 ?>
-		
-		<div class="container">
-			
-			<?php foreach($articles as $article): ?>
-			<?php /*  print_r($article); */ ?>
-				<h3><?= $article->title ?></h2>
-			
-			
-				<a id="buttoninfo" href="article.php?id=<?= $article->id ?>" class="btn btn-primary"> Lire l'article</a>
-				<br/><br/>_______ <br/>
-			<?php endforeach; ?>
-		</div>
 
+<div id= container>
+		 
+		<figure>
+			
+		  <?php foreach($articles as $article): ?>
+		  <?php /*  print_r($article); */ ?>
+		  <h3><?= $article->title ?></h3> <br>
+			
+		  <a href="article.php? id=<?= $article->id ?>"> Lire l'article</a>
+			
+		</figure>
+			
+		<?php endforeach; ?>
+
+
+	 </div>
 
 	</body>
 

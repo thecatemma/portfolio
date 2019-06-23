@@ -29,8 +29,6 @@
 	<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,700,800' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700,900" rel="stylesheet" type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Pattaya" rel="stylesheet">
-<!-- Autorise l'usage des nouveaux éléments HTML5 sur IE <9 --><!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <!-- Optimisation en largeur pour correspondre à la largeur de l'écran du périphérique -->
     <meta name="viewport" content="width=device-width" />
 
@@ -49,11 +47,7 @@
 		<div id="header-top">
 			<div id="recherche">
 				<div id="wrap">
-					
-			<a href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
-				<!--  <form action="" autocomplete="on">
-  				 <input id="search" name="search" type="text" placeholder="Vous recherchez ?"><input id="search_submit" value="Rechercher" type="submit">
-                 </form> -->
+					<a href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
                 </div>
 			</div>
 			
@@ -63,5 +57,4 @@
 				<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
 				<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Behance+"><img src="images/header-behance.png" alt="Behance"></a>
 			</div>
-		</div> 
-  
+		</div>

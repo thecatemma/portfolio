@@ -3,7 +3,6 @@
 
 ?>
 
-
 		<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
 		
 		<nav id="menu">
