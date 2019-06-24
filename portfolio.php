@@ -12,7 +12,7 @@
 		
 	</header>
 
-<p>
+<p id="texte_sap">
 Brève présentation du stage (dates, lieu, entreprise, missions, rapport de stage) <br>
 Mes dates de stage chez SAP sont du 18 février au 17 août, à Levallois. <br>
 Mes missions ont étées de travailler sur le design d'une interface d'un produit SAP nommé Smart Predict. <br>

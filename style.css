@@ -6,19 +6,31 @@ Author URI: https://hemasn.org/
 Description: Portfolio.
 */
 
-#article_bdd {
-	width: 100px; 
-	padding-top: 50px; 
-	padding-bottom: 50px;
-	border: 3px solid purple; 
+#texte_sap {
 	text-align: center;
-	background: #C0C0C0;
+	padding: 100px;
+   /*background: linear-gradient(to top, rosybrown 0%, #2b313e 100%);*/
+}
+
+#article_bdd {
+	width: 125px; 
+	padding-top: 45px; 
+	padding-bottom: 45px;
+	border-bottom: 10px solid white; 
+	text-align: center;
+	background: linear-gradient(to top, white 0%, rosybrown 100%);
 	display: flex;
-	margin: 20px;
+	margin: 50px;
+}
+
+#article_bdd hover {
+	color: aliceblue;
 }
 
 #container {
 	display: block;
+	display: flex;
+    flex-wrap: wrap;
 }
 
 /*CORPS*/
@@ -506,7 +518,7 @@ th {
 }
 
 tr {
-    border-bottom: 5px dotted BLANCHEDALMOND;
+    border-bottom: 1px dotted BLANCHEDALMOND;
 	
 }
 
@@ -514,6 +526,7 @@ tr {
 
 #map {
 	width: 100%;
+	border: 10px dotted white; 
 }
 
 /* --- FORMULAIRE --- */
