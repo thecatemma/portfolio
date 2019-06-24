@@ -38,7 +38,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|IBM+Plex+Sans:500" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
 </head>
-
 	
 <body>
 <div id="header"> </div>
@@ -58,3 +57,17 @@
 				<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Behance+"><img src="images/header-behance.png" alt="Behance"></a>
 			</div>
 		</div>
+		
+				<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
+		
+		<nav id="menu">
+			<ul>
+				<li><a href="index.php" title="">Hello</a></li>
+				<li><a href="about.php" title="">About</a></li>
+				<li><a href="portfolio.php" title="">Porte folie</a></li> <!-- class="active" -->
+				<li><a href="blog.php" title="">-Mia ? -Miaowww</a></li>
+				<li><a href="contact.php" title="">Keep in touch</a></li>
+			</ul>
+		</nav>
+		
+		<div class="clearboth"></div>

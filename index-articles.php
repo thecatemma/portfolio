@@ -12,19 +12,12 @@ $articles = getArticles();
 
 <div id= container>
 		 
-		<figure>
-			
 		  <?php foreach($articles as $article): ?>
 		  <?php /*  print_r($article); */ ?>
 		  <h3><?= $article->title ?></h3> 
-			<br>
-			
 		  <a href="article.php? id=<?= $article->id ?>"> Lire l'article</a>
-			
-		</figure>
-			
+						
 		<?php endforeach; ?>
-
 
 	 </div>
 

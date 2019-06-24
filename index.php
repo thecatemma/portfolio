@@ -2,20 +2,7 @@
 	include 'header.php';
 
 ?>
-	<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
-		
-		<nav id="menu">
-			<ul>
-				<li><a class="active" href="index.php" title="Index">Hello</a></li>
-				<li><a href="about.php" title="About">About</a></li>
-				<li><a href="portfolio.php" title="Portfolio">Porte folie</a></li>
-				<li><a href="blog.php" title="Blog">-Mia ? -Miaowww</a></li>
-				<li><a href="contact.php" title="Contact">Keep in touch</a></li>
-			</ul>
-		</nav>
-		
-		<div class="clearboth"></div>
-		
+
       <div id="Infos">
   		<div>
     	<img src="images/emma.jpg" alt="profile_photo">
