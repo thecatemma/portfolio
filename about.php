@@ -2,20 +2,6 @@
 	include 'header.php';
 
 ?>		
-		<div id="logo"><a href="#">HE<b>MASN</b>.</a></div>
-		
-		<nav id="menu">
-			<ul>
-				<li><a href="index.php" title="Index">Hello</a></li>
-				<li><a class="active" href="about.php" title="About">About</a></li>
-				<li><a href="portfolio.php" title="Portfolio">Porte folie</a></li>
-				<li><a href="blog.php" title="Blog">-Mia ? -Miaowww</a></li>
-				<li><a href="contact.php" title="Contact">Keep in touch</a></li>
-			</ul>
-		</nav>
-		
-		<div class="clearboth"></div>
-		
 		<section id="contenu-accueil">
 			<article>
 				<h1><span class="jaune">ABOUT</span>ME</h1>

@@ -3,20 +3,6 @@
 
 ?>
 
-		<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
-		
-		<nav id="menu">
-			<ul>
-				<li><a href="index.php" title="">Hello</a></li>
-				<li><a href="about.php" title="">About</a></li>
-				<li><a class="active" href="portfolio.php" title="">Porte folie</a></li>
-				<li><a href="blog.php" title="">-Mia ? -Miaowww</a></li>
-				<li><a href="contact.php" title="">Keep in touch</a></li>
-			</ul>
-		</nav>
-		
-		<div class="clearboth"></div>
-		
 		<section id="contenu-accueil">
 			<article>
 				<h1><span class="jaune">CREATIVE</span>PORTFOLIO</h1>
@@ -32,8 +18,15 @@ Mes dates de stage chez SAP sont du 18 février au 17 août, à Levallois. <br>
 Mes missions ont étées de travailler sur le design d'une interface d'un produit SAP nommé Smart Predict. <br>
 Présentation de l’entreprise dans son ensemble (positionnement, marché, structure, stratégie, SWOT, offre, enjeux, valeurs, etc.) <br>
 -L'entreprise est une entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateur sur le site sur lequel j'étais, elle offre des services aux industries afin de les aider dans leur activité, les valeurs... <br>
+Positif: Force (origine interne) - Opportunités (origine externe)<br>
+Négatif: Faiblesses (origine interne)- Menaces (origine externe)<br>
 Forces:
 Faiblesses:
+<br>
+Strengths (Force) : caractéristiques de l'entreprise ou du projet qui lui donnent un avantage sur les autres.<br>
+Weaknesses (Faiblesses) : caractéristiques de l'entreprise qui désavantagent l'entreprise ou le projet par rapport aux autres.<br>
+Opportunities (Opportunités) : éléments de l'environnement que l'entreprise ou le projet pourrait exploiter à son avantage.<br>
+Threats (Menaces) : éléments de l'environnement qui pourraient causer des problèmes à l'entreprise ou au projet.<br>
 Présentation de votre mission <br>
 Le service et son contexte, <br>
 Détails de vos missions <br>

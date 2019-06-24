@@ -82,26 +82,6 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 }
 ?>
 
-
-	<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
-		
-		<nav id="menu">
-			<input id="check" type="checkbox">
-			<span></span>
-			<span></span>
-			<span></span>
-			
-			<ul>
-				<li><a  href="index.php" title="">Hello</a></li>
-				<li><a href="about.php" title="">About</a></li>
-				<li><a href="portfolio.php" title="">Porte folie</a></li>
-				<li><a href="blog.php">-Mia ? -Miaowww</a></li>
-				<li><a class="active" href="contact.php" title="">Keep in touch</a></li>
-			</ul>
-		</nav>
-		
-		<div class="clearboth"></div>
-		
 		<section id="contenu-accueil">
 			<article>
 				<h1><span class="jaune">CONT</span>ACT</h1>
@@ -131,10 +111,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	
 </div>
 
-
 <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
-
-
 
 </div>	
 		
