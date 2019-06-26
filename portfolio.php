@@ -49,7 +49,8 @@ Remerciements <br>
 Présentation de l’étudiant (petite bio + CV) <br>
 </p>
 
-<h2> Articles </h2>
+<h1>Articles</h1>
+<h2> Day by Day at SAP </h2>
 <?php include('./index-articles.php'); ?>
 
 </div>

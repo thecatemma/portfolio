@@ -10,7 +10,9 @@ $articles = getArticles();
 
 ?>
 
+
 <div id="container">
+	
 		 
 	<?php foreach($articles as $article): ?>
 
