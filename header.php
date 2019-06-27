@@ -61,13 +61,22 @@
 				<div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
 		
 		<nav id="menu">
-			<ul>
-				<li><a href="index.php" title="">Hello</a></li>
-				<li><a href="about.php" title="">About</a></li>
-				<li><a href="portfolio.php" title="">Porte folie</a></li> <!-- class="active" -->
-				<li><a href="blog.php" title="">-Mia ? -Miaowww</a></li>
-				<li><a href="contact.php" title="">Keep in touch</a></li>
+			
+			<div id="menuToggle">
+		    	<input id="check" type="checkbox"/>
+				    <span></span>
+				    <span></span>
+				    <span></span>
+			
+			<ul id="">
+				<li><a href="index.php">Hello</a></li>
+				<li><a href="about.php">About</a></li>
+				<li><a href="portfolio.php">Porte folie</a></li> <!-- class="active" -->
+				<li><a href="blog.php">-Mia ? -Miaowww</a></li>
+				<li><a href="contact.php">Keep in touch</a></li>
 			</ul>
+				
+			</div>
 		</nav>
 		
 		<div class="clearboth"></div>

@@ -11,7 +11,6 @@
 	</header>
 	
 
-
 <article class="videos">
 
 <div id="conteneur">
@@ -28,15 +27,6 @@
 <iframe width="450" height="250" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
 	
-<li id="video1">
-<h3>MOOD</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/watch?v=UTV-_uksm44" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
-	
-<li id="video2">
-<h3>MOOD3</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/watch?v=3zqZ4rttlWM" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
 	
 </ul>
 	
