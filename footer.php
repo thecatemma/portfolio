@@ -15,10 +15,10 @@
 	 <ul>
 	  <li><div class="titre-footer">Follow</div></li>
 	  <li id="img_footer">
-	   <a href="#"><img src="images/icon-facebook-footer.png" alt="Facebook"></a>
+	   <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/"><img src="images/icon-linkedin-footer.png" alt="Facebook"></a>
 	   <a href="#"><img src="images/icon-twitter-footer.png" alt="Twitter"></a>
 	   <a href="https://www.youtube.com/channel/UCHQyXitCjlQQrSXQCB-fn0w?"><img src="images/icon-youtube-footer.png" alt="YouTube"></a>
-	   <a href="https://www.behance.net/hussonemmad23e"><img src="images/icon-behance-footer.png" alt="behance"></a>
+	   <a href="https://www.behance.net/hussonemmad23e"><img src="images/icon-behance-footer.png" alt="Behance"></a>
 	   <a><img id="logo_footer" src="images/logo.png" alt="logo"></a>
 	  </li>
 	  
