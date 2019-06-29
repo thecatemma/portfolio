@@ -1,7 +1,6 @@
 <?php		
 	include 'header.php';
 
-
 // S'il y des données de postées
 if ($_SERVER['REQUEST_METHOD']=='POST') {
   // Code PHP pour traiter l'envoi de l'email

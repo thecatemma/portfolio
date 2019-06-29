@@ -10,7 +10,6 @@
 		
 	</header>
 	
-
 <article class="videos">
 
 <div id="conteneur">

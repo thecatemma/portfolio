@@ -179,12 +179,12 @@ h3{
 	margin:5px 0px 5px 5px;
 }
 
-/* --- COULEUR / SPAN ---*/
+/* --- COULEUR / SPAN
 .jaune {
-	background-color:rosybrown;
+	color:rosybrown;
 	opacity: 0.5;
 }
-
+---*/
 /* --- MARGIN / PADDING --- */
 
 #conteneur { 
