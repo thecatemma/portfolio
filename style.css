@@ -263,11 +263,9 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 #logo a	{
-	color:#222;
+	color:black;
 	text-decoration:none;
 }
-
-
 
 #contenu-accueil {
 	width:100%;

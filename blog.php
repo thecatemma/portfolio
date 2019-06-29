@@ -25,8 +25,7 @@
 <h3>CHANNEL</h3>
 <iframe width="450" height="250" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
-	
-	
+		
 </ul>
 	
 </div>
