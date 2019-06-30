@@ -2,7 +2,6 @@
 	include 'header.php';
 
 ?>
-
 		<section id="contenu-accueil">
 			<article>
 				<h1><span class="jaune">CREATIVE</span>PORTFOLIO</h1>

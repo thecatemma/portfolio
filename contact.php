@@ -97,13 +97,13 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
     <p><label for="Name" id="author">Name</label> <br />
 	<input type="text" name="nom" id="pseudo"/> </p>
     
-	<p><label for="Email" id="entrer_email">Email</label><span style="color:#ff0000;">*</span> <br />
+	<p><label for="Email" id="entrer_email">Email</label><span class="etoile">*</span> <br />
 	<input type="text" name="email" id="email"/></p>
     
-	<p><Label for="comment" id="text_comment">Message</Label><span style="color:#ff0000;">*</span> <br />
+	<p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
     <textarea name="comment" id="comment"></textarea></p>
     
-	<p>Combien font 1+3 <span style="color:#ff0000;">*</span> <input type="text" name="captcha" size="3" /></p>
+	<p>Combien font 1+3 <span class="etoile">*</span> <input type="text" name="captcha" size="3" /></p>
     
 	 <p><input type="submit" name="submit" class="btn-success" value="Envoyer" /></p>
   </form>

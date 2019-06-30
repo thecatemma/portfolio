@@ -5,20 +5,21 @@
         <title>Codes d'accès au serveur central de la NASA - HEMASN</title>
     </head>
     <body>
-    
-        <?php
-    if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] == "escargot") 
-	// Si mot de passe est bon
-    {
-    // On affiche les codes
-    
-		require_once('./bo.php');
-    }
-    else // Sinon, on affiche un message d'erreur
-    {
-        echo '<p>Mot de passe incorrect</p>';
-    }
-    ?>
-            
+
+	<?php
+		if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] == "escargot") 
+		// Si mot de passe est bon
+		{
+		// On affiche les codes
+
+			require_once('./bo.php');
+		}
+		else // Sinon, on affiche un message d'erreur
+		{
+			echo '<p>Mot de passe incorrect</p>';
+		}
+	?>
+
     </body>
+	
 </html>
