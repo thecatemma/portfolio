@@ -44,20 +44,26 @@
 <div id="conteneur">
 	<header id="header-accueil">
 		<div id="header-top">
+			
+		  <div id="wrap">
+					
+			 <a id="logo" href="#"><b>HE</b>MASN.</a>
+				
+				<div id="droite">
+					
+					<a id="lock" href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
 
-				<div id="wrap">
-					<a href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
 
 					<div id="social">				
 						<a href="#" title="facebook"><img src="images/header-facebook.png" alt="Mon facebook"></a>
 						<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
 						<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Behance+"><img src="images/header-behance.png" alt="Behance"></a>
 					</div>
-			     </div>
+			    </div>
+			 </div>	
 
 		</div>
 		
-  <div id="logo"><a href="#"><b>HE</b>MASN.</a></div>
 		
 		<nav id="menu">
 			
