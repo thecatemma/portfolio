@@ -6,6 +6,10 @@ Author URI: https://hemasn.org/
 Description: Portfolio.
 */
 
+#article_bdd h3 {
+	text-align: center;
+}
+
 .etoile {
 	color:#ff0000;
 }
@@ -23,13 +27,13 @@ Description: Portfolio.
 }
 
 #menu ul {
-	margin:0px;
-	padding:0px;
+  /*margin:0px;
+	padding:0px;*/
 }
 #menu li {
 	display:inline;
 	margin-right:30px;
-	font-size:20px;
+	font-size:24px;
 }
 
 #menu li:last-child	{
@@ -135,8 +139,6 @@ html, body{
 }
 
 body { 
-	/*font-family: 'Raleway' , sans-serif;*/
-	/*font-weight: 400;*/
     background:url()repeat-x; 
 	padding-top:5px; 
 	font-size: 14px;
@@ -159,10 +161,10 @@ a:hover {
 h1{
 	font-family: 'Playfair Display SC', serif;
 	font-size:50px;
-	color:#324d5d;
 	font-weight:200;
 	margin:0px 0px 5px 0px;
-	padding:0;
+	padding:10px;
+	border-bottom: 1px solid #59647e;;
 }
 
 h2{
@@ -438,7 +440,6 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 #articles h1 {
-	/*color:#324d5d;*/
 	font-size:30px; 
 	font-weight:500px; 
 	padding:0; 
@@ -518,7 +519,6 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 #client-acc h1 {
-	color: rgb(50, 77, 93);
 	font-size:30px;
 	font-weight:500;
 	padding:0;
@@ -541,19 +541,12 @@ input[type="submit"]:hover     {opacity:0.5;} */
 	padding: 20px;
 }
 
-#video1 {
-	float: left; 
-	z-index: 0;
-}
 
-#video2 {
-	float: right;
-	z-index: 0;
-}
 
 /* --- PAGE ABOUT --- */
 #CV h1 {
-	color:#324d5d; 
+	/*color:#324d5d;*/
+	color:#59647e;
 	font-size:30px; 
 	padding-top:10px; 
 	margin:0; 
@@ -667,7 +660,7 @@ form { text-align: center;}
 }
 
 #footer-top	ul {
-	width:299px;
+	width:30%;
 	padding:20px;
 	margin:0; 
 	float:left;
@@ -694,24 +687,26 @@ form { text-align: center;}
 #footer-bottom ul {
 	float: left;
 }
+
 #footer-bottom ul.copyright {
 	width:380px; 
 	padding:0; 
 	margin:0;
 }
+
 #footer-bottom ul.liens {
-	width:610px; 
-	padding:0; 
-	margin:0; 
 	float: right; 
 	text-align: right;
+	margin-right: 10px;
 }
+
 #footer-bottom li {
 	list-style: none; 
 	padding: 0; 
 	margin: 0; 
 	display: inline;
 }
+
 #footer-bottom a {
 	color:#dfdfdd;
 }
@@ -774,5 +769,14 @@ form { text-align: center;}
 	width:480px;
 	height: 320px;
 	padding:0;
+}
+	
+#footer-top	ul {
+	width:95%;
+}	
+
+#footer-bottom ul.liens {
+	text-align: center;
+	float: none;
 }
 }

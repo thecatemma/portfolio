@@ -10,11 +10,9 @@
 		
 	</header>
 	
-<article class="videos">
 
-<div id="conteneur">
-	
-<ul>
+
+<ul id="videos">
 	
 <li id="video2">
 <h3>FUNK THAT</h3>

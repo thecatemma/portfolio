@@ -25,7 +25,6 @@
 
      <div class="clearboth"></div>		
 	</div>
-
 </footer>
 	
 <footer id="footer2">
