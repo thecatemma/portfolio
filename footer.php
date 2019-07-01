@@ -30,7 +30,9 @@
 <footer id="footer2">
 	<div id="footer-bottom">
 		<ul class="copyright">
-			<li>©<b>HEMASN</b> | Digital Designer</li>
+			<li>©<b>HEMASN</b> | Digital Designer</li><br>
+			<li>THIS WEBSITE <b>is HANDAMADE</b></li><br>
+			<li>Visuals + Code </li>
 		</ul>
 		
 		<ul class="liens">

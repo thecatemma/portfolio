@@ -44,7 +44,6 @@
 	</section>
 
 		<main>
-			<div class="message">Please view on desktop to see the effect</div>
 			<div class="frame">
 			</div>
 			<div class="content">
@@ -73,9 +72,9 @@
 		} );
 </script>
 	
-<div class="clearboth"></div>
+</div>
 
-</div>	
+<div class="clearboth"></div>
 
 <?php		
 	include 'footer.php';
