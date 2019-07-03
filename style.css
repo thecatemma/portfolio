@@ -109,7 +109,6 @@ Description: Portfolio.
 
 #texte_sap {
 	text-align: center;
-	padding: 100px;
 }
 
 #article_bdd {
@@ -158,6 +157,7 @@ a:hover {
 .clearboth {clear:both}
 
 /* --- TITRES --- */
+
 h1{
 	font-family: 'Playfair Display SC', serif;
 	font-size:50px;
@@ -190,10 +190,10 @@ h3{
 ---*/
 /* --- MARGIN / PADDING --- */
 
-#conteneur { 
-	margin: 0;
+#conteneur {
 	min-height: 100%; 
 	position: relative;
+	margin: 0px;
 	padding-right: 45px;
 	padding-left: 45px;
 }
@@ -302,8 +302,8 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 #Infos > div {
-	background-color:bisque;
-	color:white;
+	background-color:rosybrown;
+	color:mistyrose;
 	height: 150px;
 	width:500px;
 	display:inline-block;
@@ -337,13 +337,14 @@ input[type="submit"]:hover     {opacity:0.5;} */
 
 /* --- SLIDER --- */
 #slide-accueil {
-	width:1020%px;
+	/*width:1020%px;*/
 	margin-bottom: 30px;
+	text-align: center
 }
 
 .cbp-fwslider {
 	position: relative;
-	margin: 0 0 10px;
+	/*margin: 0 0 10px;*/
 	overflow: hidden;
 }
 
@@ -651,7 +652,8 @@ text-align: center;
 /* --- FOOTER --- */
 #footer	{
 	width:100%; 
-	height:350; 
+	height:350;
+	margin: 0;
 	background-image: linear-gradient(to top, white 0%, rosybrown 100%); 
 	color:white;
 }
@@ -722,8 +724,8 @@ text-align: center;
 #logo_footer {
 	width: 100px;
 	text-align: center;
-	padding-left: 100px;
-	padding-right: 100px;
+	padding-left: 10px;
+	padding-right: 10px;
 	padding-top: 50px;
 }
 
@@ -736,7 +738,16 @@ text-align: center;
 @media screen and (max-device-width: 375px) {
 . {
 	width:95% !important;
-}	
+}
+	
+#conteneur {
+    min-height: 100%;
+    position: relative;
+    margin: 0px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+	
 }
 
 /*--

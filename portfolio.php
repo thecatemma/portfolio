@@ -16,6 +16,7 @@
 Chez SAP mes dates de stage sont du 18 février au 17 août, à Levallois. <br>
 Mes missions ont été de travailler sur le design d'une interface d'un produit SAP nommé Smart Predict. <br>
 Présentation de l’entreprise dans son ensemble (positionnement, marché, structure, stratégie, SWOT, offre, enjeux, valeurs, etc.) <br>
+Entreprise de droit européen qui conçoit et vend des logiciels, notamment des sytèmes de gestion et de maintenance, principalement à destination des entreprises et des institutions dans le monde entier. <br>
 -L'entreprise est une entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateur sur le site sur lequel je suis, elle offre des services aux industries afin de les aider dans leur activité, valeurs: transparence, sérieux, fiabilité... <br>
 SWOT <br>
 Positif: Force (origine interne) - Opportunités (origine externe)<br>
@@ -48,9 +49,11 @@ Comment cette expérience va alimenter votre projet professionnel ? <br>
 Témoignage(s) : celui de votre tuteur, d’un collègue, d’un client... <br>
 Remerciements <br>
 Je tenais à remercier Audrey Bolemwa et Assia Mouloudi sans qui cela n'aurait pas été possible<br>
-Je tiens aussi à Remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
+Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
 Je suis très très heureuse d'avoir participé à cette aventure et ne souhaite que la perpétuer <br>
 Présentation de l’étudiant (petite bio + CV) <br>
+
+Je m'appelle Emmanuelle, je suis en Master 1 Création Digitale UIUX. Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts puis Graphisme et enfin Web avant de me spécialiser en UI UX, bien que je garde une curiosité sur tout ce qui touche aux domaines énoncés. <br> 
 </p>
 
 <h1>Articles</h1>

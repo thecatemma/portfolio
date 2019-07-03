@@ -7,7 +7,7 @@
   		<div>
     	<img src="images/emma.jpg" alt="profile_photo">
 		 <h3><b>HE</b>MASN</h3>
-    	  <p>Welcome ! <br> I'm Emmanuelle, <br> A cat from countryside <br> Find here more informations about me</p>
+    	  <p>Welcome ! <br> I'm Emmanuelle, <br> A countryside's cat <br> Find here informations about me</p>
   		</div>
    		 <a href="#"><span class="glyphicon glyphicon-plus"></span>MORE +</a>
 	  </div>
