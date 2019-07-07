@@ -4,13 +4,15 @@
 ?>		
 		<section id="contenu-accueil">
 			<article>
-				<h1><span class="jaune">ABOUT</span>ME</h1>
+				<h1>ABOUTME</h1>
 			</article>
 		</section>
 		
 	</header>
 
-	<section id="CV">
+<div id="conteneur">
+
+ <section id="CV">
 
 	<h1>FORMATIONS </h1>
 	<h3><b>2019/2020</b><br>Second year Master Degree - UX Design<br>
@@ -60,6 +62,7 @@ Free-lance<br>Projects<br>Life<br></h3>
 
 <h1>LANGUAGES</h1>
 <h3>French<br>English<br>++</h3>
+</div>
 </div>
 
 <?php		

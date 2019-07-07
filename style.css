@@ -6,6 +6,11 @@ Author URI: https://hemasn.org/
 Description: Portfolio.
 */
 
+.nav {
+	font-family: 'Playfair Display SC', serif;
+	color: mistyrose;
+}
+
 #article_bdd h3 {
 	text-align: center;
 }
@@ -144,7 +149,6 @@ body {
 }
 
 a {
-	color:blue; 
 	text-decoration:none; 
 	transition:0.5s;
 }
@@ -158,16 +162,16 @@ a:hover {
 
 /* --- TITRES --- */
 
-h1{
+h1 {
 	font-family: 'Playfair Display SC', serif;
-	font-size:50px;
+	font-size:48px;
 	font-weight:200;
 	margin:0px 0px 5px 0px;
 	padding:10px;
-	border-bottom: 1px solid #59647e;;
+	border-bottom: 1px solid #59647e;
 }
 
-h2{
+h2 {
 	font-size:24px;
 	font-family: 'Pattaya', sans-serif;
 	color:rosybrown;
@@ -259,6 +263,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 #logo {
 	float:left;
 	font-size:33px;
+	color: mistyrose;
 }
 
 #logo a	{
@@ -302,7 +307,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 #Infos > div {
-	background-color:rosybrown;
+	background-color:#2b313e;
 	color:mistyrose;
 	height: 150px;
 	width:500px;
@@ -446,8 +451,6 @@ input[type="submit"]:hover     {opacity:0.5;} */
 	padding:0; 
 	margin:0; 
 	background:url()) no-repeat O 2px; 
-	padding-left:; 
-	border-bottom:1px solid gray; 
 	padding-bottom:20px;
 	margin-bottom:20px;
 }

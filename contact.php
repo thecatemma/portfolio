@@ -95,10 +95,10 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
   <form method="post" action="<?php echo strip_tags($_SERVER['REQUEST_URI']); ?>">
 	  
     <p><label for="Name" id="author">Name</label> <br />
-	<input type="text" name="nom" id="pseudo"/> </p>
+	<input type="text" name="nom" id="pseudo" maxlength="30"/> </p>
     
 	<p><label for="Email" id="entrer_email">Email</label><span class="etoile">*</span> <br />
-	<input type="text" name="email" id="email"/></p>
+	<input type="email" name="email" id="email" maxlength="50"/></p>
     
 	<p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
     <textarea name="comment" id="comment"></textarea></p>

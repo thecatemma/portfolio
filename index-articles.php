@@ -10,11 +10,9 @@ $articles = getArticles();
 
 ?>
 
-
 <div id="container">
 	
-		 
-	<?php foreach($articles as $article): ?>
+   <?php foreach($articles as $article): ?>
 
 	<a id="article_bdd" href="article.php? id=<?= $article->id ?>"> 
 		<h3><?= $article->title ?></h3>

@@ -66,14 +66,13 @@
 		
 		
 		<nav id="menu">
-			
 			<div id="menuToggle">
 		    	<input id="check" type="checkbox"/>
 				    <span></span>
 				    <span></span>
 				    <span></span>
 			
-			<ul id="">
+			<ul class="nav">
 				<li><a href="index.php">Hello</a></li>
 				<li><a href="about.php">About</a></li>
 				<li><a href="portfolio.php">Porte folie</a></li> <!-- class="active" -->
