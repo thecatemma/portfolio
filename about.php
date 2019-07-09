@@ -2,15 +2,16 @@
 	include 'header.php';
 
 ?>		
+
+	</header>
+
+<div id="conteneur">
+	
 		<section id="contenu-accueil">
 			<article>
 				<h1>ABOUTME</h1>
 			</article>
 		</section>
-		
-	</header>
-
-<div id="conteneur">
 
  <section id="CV">
 
