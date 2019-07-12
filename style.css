@@ -738,6 +738,12 @@ text-align: center;
 
 /* --- Media QUERIES --- */
 
+@media screen and (min-width: 1440px) {
+	#conteneur {
+		width: 1020px;
+	}	
+}
+
 @media screen and (max-device-width: 375px) {
 . {
 	width:95% !important;
