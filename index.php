@@ -36,10 +36,13 @@
 	</ul>
     </div>
    </div>
+
+
+<h1>Video</h1>
 	
 	
 	<section id="articles">
-		<h1>Last posts</h1>
+		<h1>Little Animation</h1>
 		<div class="clearboth"></div>
 	</section>
 
