@@ -65,6 +65,7 @@ Quelques réalisations concrètes et illustrées <br>
 - Meetings <br>
 - Participation <br>
 - Observation <br>
+- Logo Data Warehouse Cloud<br>
 Bilan et perspectives <br>
 Vos résultats: Un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée.<br>
 Votre plus grande réussite: progresser + finir ce site <br>
