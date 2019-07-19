@@ -75,8 +75,8 @@
 			<ul class="nav">
 				<li><a href="index.php">Hello</a></li>
 				<li><a href="about.php">About</a></li>
-				<li><a href="portfolio.php">Porte folie</a></li> <!-- class="active" -->
-				<li><a href="blog.php">-Mia ? -Miaowww</a></li>
+				<li><a href="portfolio.php">SAP</a></li> <!-- class="active" -->
+				<li><a href="blog.php">Porte-folie</a></li>
 				<li><a href="contact.php">Keep in touch</a></li>
 			</ul>
 				

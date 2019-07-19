@@ -50,6 +50,39 @@
 </li>
 	
 </ul>
+	
+	
+	<section id="client-acc">
+	  <h1>Some ideas</h1>
+		
+		<div class="slider5">
+  			<div class="slide"><img src="images/logo-client-1.jpg"></div>
+  			<div class="slide"><img src="images/logo-client-2.jpg"></div>
+			<div class="slide"><img src="images/logo-client-3.jpg"></div>
+  			<div class="slide"><img src="images/logo-client-4.jpg"></div>
+			<div class="slide"><img src="images/logo-client-5.jpg"></div>
+			<div class="slide"><img src="images/logo-client-6.jpg"></div>
+		</div>
+		
+<!-- Carousel -->
+<script>
+	$(document).ready(function(){
+	  $('.slider5').bxSlider({
+		slideWidth: 300,
+		minSlides: 4,
+		maxSlides: 4,
+		moveSlides: 4,
+		slideMargin: 10,
+		preloadImages : 'all',
+		auto:true,
+	  });
+	});
+</script>
+
+</div>
+	
+</section>	
+	
 </div>
 	
 </div>

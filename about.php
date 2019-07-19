@@ -16,7 +16,7 @@
  <section id="CV">
 
 	<h1>FORMATIONS </h1>
-	<h3><b>2019/2020</b><br>Second year Master Degree - UX Design<br>
+	<h3><b>2019/2020</b><br>Second year Master Degree - Digital Creation UIUX<br>
 		2018/2019<br>First year Master Degree - Digital Creation UIUX<br>
 		2018/2019<br>Formation Web Development +2<br>
 		2016/2017<br>Numeric Year (UX, UI, Code, Management) +1<br>
@@ -63,6 +63,38 @@ Free-lance<br>Projects<br>Life<br></h3>
 
 <h1>LANGUAGES</h1>
 <h3>French<br>English<br>++</h3>
+	 
+	<section id="client-acc">
+	  <h1>CONCRETE ?</h1>
+		
+		<div class="slider5">
+  			<div class="slide"><img src="images/logo-client-1.jpg"></div>
+  			<div class="slide"><img src="images/logo-client-2.jpg"></div>
+			<div class="slide"><img src="images/logo-client-3.jpg"></div>
+  			<div class="slide"><img src="images/logo-client-4.jpg"></div>
+			<div class="slide"><img src="images/logo-client-5.jpg"></div>
+			<div class="slide"><img src="images/logo-client-6.jpg"></div>
+		</div>
+		
+<!-- Carousel -->
+<script>
+	$(document).ready(function(){
+	  $('.slider5').bxSlider({
+		slideWidth: 300,
+		minSlides: 4,
+		maxSlides: 4,
+		moveSlides: 4,
+		slideMargin: 10,
+		preloadImages : 'all',
+		auto:true,
+	  });
+	});
+</script>
+
+</dv>
+	
+</section>	 
+	 
 </div>
 </div>
 

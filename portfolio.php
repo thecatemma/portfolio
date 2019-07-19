@@ -4,7 +4,7 @@
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1><span class="jaune">CREATIVE</span>PORTFOLIO</h1>
+				<h1>CREATIVE-SCROLL</h1>
 			</article>
 		</section>
 		
@@ -49,9 +49,10 @@ SAP a tardé avant de s'orienter vers le marché des PME.<br>
 	
 <h1>MISSION</h1>
 		
-Présentation de votre mission <br>
-Des stakeholders et notamment des Product Owners nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi sur Sketch de prposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise <br>
+<h2>Présentation de votre mission</h2><br>
+Des stakeholders, notamment les Product Owners nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketck<br>
 Les product owners utilisent UML. <br>
+<img src="images/UML.svg" width="50%"> <br>
 Pour cela nous avions des réunions afin de discuter sur quoi faire pour la suite, parfois in English.<br>
 
 Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog.<br>
@@ -59,15 +60,30 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 	
 --> 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>
 	
-Quelques réalisations concrètes et illustrées <br>
-- Smart Predict <br>
-- Illustrations <br>
-- Meetings <br>
-- Participation <br>
-- Observation <br>
-- Logo Data Warehouse Cloud<br>
-Bilan et perspectives <br>
-Vos résultats: Un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée.<br>
+<!--img src="images/scrum.png" width="30%"--> <br>
+	
+<h1>INTEGRATION</h1>
+	
+<h2>Smart Predict</h2><br>
+<img src="images/sap9.png" width="50%"> <br>	
+<img src="images/sap1.png" width="50%"> <br>
+<img src="images/sap4.png" width="50%"> <br>
+Projet "Secret" ici uniquement le produit existant <br>
+<h2>Illustrations</h2><br>
+<img src="images/sap6.png" width="50%">
+<img src="images/sap7.png" width="50%">
+<img src="images/sap8.png" width="50%">
+<h2>Meetings</h2><br>
+<h2>Participation</h2><br>
+<img src="images/sap11.png" width="30%"> <br>
+Avec Estelle <br>
+<h2>Observation</h2><br>
+<img src="images/sap13.JPG" width="50%"> <br>
+<h2>Logo Data Warehouse Cloud</h2><br>
+	
+<h1>Bilan et perspectives</h1><br>
+<h2>Résultats</h2> <br>
+L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée.<br>
 Votre plus grande réussite: progresser + finir ce site <br>
 Leçon: réussir à être autonome et rester focus<br>
 Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
@@ -76,14 +92,15 @@ Qu’avez-vous appris équipe, management ? <br>
 	
 <h1>PROJET</h1>
 Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
-Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais soit évoluer comme Evoli dans cette entreprise, soit... mystère. <br>
+Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais soit évoluer comme Evoli dans cette entreprise. <br>
 On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
 	
 <h1>Remerciements</h1><br>
 Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
 Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
 Je suis très très heureuse d'avoir participé à cette aventure et souhaite continuer<br>
-
+	
+<h2> Merci </h2>
 <br>
  
 </p>
@@ -129,10 +146,9 @@ Je suis très très heureuse d'avoir participé à cette aventure et souhaite co
 	  });
 	});
 </script>
-
-</dv>
-	
 </section>
+</div>
+	
 	
 <?php		
 	include 'footer.php';

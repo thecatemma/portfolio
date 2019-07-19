@@ -39,6 +39,10 @@
 
 
 <h1>Video</h1>
+
+<video controls preload="metadata" width="30%">
+<source src="images/drawing.mov">
+</video>
 		
 	<section id="articles">
 		<h1>Little Animation</h1>
