@@ -81,7 +81,7 @@ Free-lance<br>Projects<br>Life<br></h3>
 	$(document).ready(function(){
 	  $('.slider5').bxSlider({
 		slideWidth: 300,
-		minSlides: 4,
+		minSlides: 1,
 		maxSlides: 4,
 		moveSlides: 4,
 		slideMargin: 10,
@@ -91,7 +91,6 @@ Free-lance<br>Projects<br>Life<br></h3>
 	});
 </script>
 
-</dv>
 	
 </section>	 
 	 

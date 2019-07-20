@@ -52,8 +52,8 @@
 </ul>
 	
 	
-	<section id="client-acc">
-	  <h1>Some ideas</h1>
+ <section id="client-acc">
+	<h1>Some ideas</h1>
 		
 		<div class="slider5">
   			<div class="slide"><img src="images/logo-client-1.jpg"></div>
@@ -64,12 +64,11 @@
 			<div class="slide"><img src="images/logo-client-6.jpg"></div>
 		</div>
 		
-<!-- Carousel -->
-<script>
+ <script>
 	$(document).ready(function(){
 	  $('.slider5').bxSlider({
 		slideWidth: 300,
-		minSlides: 4,
+		minSlides: 1,
 		maxSlides: 4,
 		moveSlides: 4,
 		slideMargin: 10,
@@ -77,17 +76,12 @@
 		auto:true,
 	  });
 	});
-</script>
-
-</div>
+ </script>
 	
 </section>	
 	
 </div>
-	
-</div>
 
-</section>
 	
 </div>	
 

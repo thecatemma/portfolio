@@ -95,13 +95,6 @@ Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes étude
 Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais soit évoluer comme Evoli dans cette entreprise. <br>
 On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
 	
-<h1>Remerciements</h1><br>
-Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
-Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
-Je suis très très heureuse d'avoir participé à cette aventure et souhaite continuer<br>
-	
-<h2> Merci </h2>
-<br>
  
 </p>
 
@@ -111,43 +104,13 @@ Je suis très très heureuse d'avoir participé à cette aventure et souhaite co
 
 </div>
 
-<div id="conteneur">
-
-<p>
-<!-- <a href="images/slide1.jpg"><img src="images/logo-client-1.jpg" alt="Photo de montagne" title="Cliquez pour agrandir"/></a>
+<h1>Remerciements</h1><br>
+Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
+Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
+Je suis très très heureuse d'avoir participé à cette aventure<br>
 	
-	Ajouter une croix puis mettre en display none
-	Faire un évènement onclick en js et voilà faire attention aux conflits -->
-</p>
-	
-	<section id="client-acc">
-	  <h1>Some ideas</h1>
-		
-		<div class="slider5">
-  			<div class="slide"><img src="images/logo-client-1.jpg"></div>
-  			<div class="slide"><img src="images/logo-client-2.jpg"></div>
-			<div class="slide"><img src="images/logo-client-3.jpg"></div>
-  			<div class="slide"><img src="images/logo-client-4.jpg"></div>
-			<div class="slide"><img src="images/logo-client-5.jpg"></div>
-			<div class="slide"><img src="images/logo-client-6.jpg"></div>
-		</div>
-		
-<!-- Carousel -->
-<script>
-	$(document).ready(function(){
-	  $('.slider5').bxSlider({
-		slideWidth: 300,
-		minSlides: 4,
-		maxSlides: 4,
-		moveSlides: 4,
-		slideMargin: 10,
-		preloadImages : 'all',
-		auto:true,
-	  });
-	});
-</script>
-</section>
-</div>
+<h2> Merci </h2>
+<br>
 	
 	
 <?php		
