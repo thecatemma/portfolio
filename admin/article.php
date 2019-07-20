@@ -45,13 +45,7 @@ else
 
 <!DOCTYPE html>
 
-
-
-  
 </head>
-
-
-
 
 <html>
 	<head>

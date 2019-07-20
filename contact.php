@@ -80,7 +80,6 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
   }
 }
 ?>
-
 		<section id="contenu-accueil">
 			<article>
 				<h1><span class="jaune">CONT</span>ACT</h1>
