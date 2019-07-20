@@ -18,6 +18,3 @@ include('./header.php'); //contient le doctype, et head.
 	include('./footer.php');
 //	mysql_close();
 	?>
-
-
-

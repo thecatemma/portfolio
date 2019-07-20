@@ -65,15 +65,15 @@ Free-lance<br>Projects<br>Life<br></h3>
 <h3>French<br>English<br>++</h3>
 	 
 	<section id="client-acc">
-	  <h1>CONCRETE ?</h1>
+	  <h1>ON BOARD</h1>
 		
 		<div class="slider5">
-  			<div class="slide"><img src="images/logo-client-1.jpg"></div>
-  			<div class="slide"><img src="images/logo-client-2.jpg"></div>
-			<div class="slide"><img src="images/logo-client-3.jpg"></div>
-  			<div class="slide"><img src="images/logo-client-4.jpg"></div>
-			<div class="slide"><img src="images/logo-client-5.jpg"></div>
-			<div class="slide"><img src="images/logo-client-6.jpg"></div>
+			<div class="slide"><img src="images/carrousel_1.jpg"></div>
+  			<!--div class="slide"><img src="images/carrousel_2.jpg"></div-->
+			<div class="slide"><img src="images/carrousel_3.jpg"></div>
+  			<div class="slide"><img src="images/carrousel_4.jpg"></div>
+			<div class="slide"><img src="images/carrousel_5.jpg"></div>
+
 		</div>
 		
 <!-- Carousel -->

@@ -6,10 +6,10 @@
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
    </head> 
 <body> 
-   <h2>Blog</h2> 
+   <h2>Editer</h2> 
    <hr /> 
    <?php 
-   $connect = mysqli_connect("127.0.0.1", "root", "", "blogphp"); 
+   $connect = mysqli_connect("127.0.0.1", "root", "root", "projet5"); 
  
    /* Vérification de la connexion */ 
    if (!$connect) { 
