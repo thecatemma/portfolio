@@ -9,7 +9,7 @@
    <h2>Editer</h2> 
    <hr /> 
    <?php 
-   $connect = mysqli_connect("127.0.0.1", "root", "root", "projet5"); 
+   $connect = mysqli_connect("localhost", "root", "root", "projet5"); 
  
    /* Vérification de la connexion */ 
    if (!$connect) { 
