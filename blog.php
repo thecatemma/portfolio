@@ -12,16 +12,18 @@
 	
 <div id="container">
 
+<section>
+
 <ul id="videos">
 	
 <li>
 <h3>FUNK THAT</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/C9dP2YIgNRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/C9dP2YIgNRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
 
 <li>
 <h3>CHANNEL</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
 	
 <li>
@@ -50,7 +52,8 @@
 </li>
 	
 </ul>
-	
+
+</section>
 	
  <section id="client-acc">
 	<h1>Some ideas</h1>

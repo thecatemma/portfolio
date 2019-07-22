@@ -543,11 +543,10 @@ input[type="submit"]:hover     {opacity:0.5;} */
 
 .videos ul{
 	display: inline-block; 
-	margin-right: 0px;
 }
 
 .videos li {
-	display:inline; 
+	display:inline-block; 
 }
 
 /* --- PAGE ABOUT --- */
@@ -596,7 +595,7 @@ tr {
 /* --- FORMULAIRE --- */
 
 form { 
-text-align: center;
+	text-align: center;
 }
 
 #formulaire {
@@ -637,7 +636,7 @@ text-align: center;
 	color: rosybrown;
 }
 
-#comment {
+#message {
 	margin-top: 10px;
 	border-radius: 3px;
 	border-color: lightblue;

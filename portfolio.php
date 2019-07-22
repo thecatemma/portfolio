@@ -18,7 +18,6 @@ Les missions qui m'ont été confiées: travailler sur le design d'une interface
 Entreprise de droit européen qui conçoit et vend des logiciels, notamment des sytèmes de gestion et de maintenance, principalement à destination des entreprises et des institutions dans le monde entier. <br>
 Entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateurs sur le site sur lequel je suis, elle offre des services aux industries afin de les aider dans leur activité <br> 
 Valeurs: transparence, sérieux, fiabilité... <br>
-
 	
 <h1>SWOT</h1>
 	
@@ -50,7 +49,7 @@ SAP a tardé avant de s'orienter vers le marché des PME.<br>
 <h1>MISSION</h1>
 		
 <h2>Présentation de votre mission</h2><br>
-Des stakeholders, notamment les Product Owners nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketck<br>
+Des stakeholders, notamment les Product Owners et Product Experts nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketck<br>
 Les product owners utilisent UML. <br>
 <img src="images/UML.svg" width="50%"> <br>
 Pour cela nous avions des réunions afin de discuter sur quoi faire pour la suite, parfois in English.<br>
@@ -65,20 +64,69 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <h1>INTEGRATION</h1>
 	
 <h2>Smart Predict</h2><br>
-<img src="images/sap9.png" width="50%"> <br>	
-<img src="images/sap1.png" width="50%"> <br>
-<img src="images/sap4.png" width="50%"> <br>
-Projet "Secret" ici uniquement le produit existant <br>
+
+	<section id="client-acc">
+		<div class="slider5">
+			<div class="slide"><img src="images/sap9.png"></div>
+			<div class="slide"><img src="images/sap1.png"></div>
+  			<div class="slide"><img src="images/sap4.png"></div>
+		</div>
+		
+		Projet "Secret": ici uniquement le produit existant <br>
+
+	<script>
+		$(document).ready(function(){
+		  $('.slider5').bxSlider({
+			slideWidth: 300,
+			minSlides: 1,
+			maxSlides: 4,
+			moveSlides: 4,
+			slideMargin: 10,
+			preloadImages : 'all',
+			auto:true,
+		  });
+		});
+	</script>
+	</section>	
+	
+<br>
+	
 <h2>Illustrations</h2><br>
-<img src="images/sap6.png" width="50%">
-<img src="images/sap7.png" width="50%">
-<img src="images/sap8.png" width="50%">
+	
+	<section id="client-acc">
+		<div class="slider5">
+			<div class="slide"><img src="images/sap6.png"></div>
+			<div class="slide"><img src="images/sap7.png"></div>
+  			<div class="slide"><img src="images/sap8.png"></div>
+		</div>
+
+	<script>
+		$(document).ready(function(){
+		  $('.slider5').bxSlider({
+			slideWidth: 300,
+			minSlides: 1,
+			maxSlides: 4,
+			moveSlides: 4,
+			slideMargin: 10,
+			preloadImages : 'all',
+			auto:true,
+		  });
+		});
+	</script>
+	</section>		
+	
+<br>
+	
 <h2>Meetings</h2><br>
 <h2>Participation</h2><br>
 <img src="images/sap11.png" width="30%"> <br>
 Avec Estelle <br>
+<br>
+	
 <h2>Observation</h2><br>
 <img src="images/sap13.JPG" width="50%"> <br>
+	
+<br>
 <h2>Logo Data Warehouse Cloud</h2><br>
 	
 <h1>Bilan et perspectives</h1><br>
@@ -88,7 +136,7 @@ Votre plus grande réussite: progresser + finir ce site <br>
 Leçon: réussir à être autonome et rester focus<br>
 Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
 Qu’avez-vous appris équipe, management ? <br>
-- Les émotions qui m'ont le plus frappé, l'humeur de chaque individu varie chaque jour, il faut savoir conjuguer avec cela et petit à petit apprendre à s'affranchir et développer une sérénité intérieure. Plus forte, c'est formateur, montre que lorsque l'on est sûr de ses choix on trouve sa place et le reste suit: il faut fournir du travail perpétuel et être toujours informé sur les dernières news, fun et challenge quotidien<br>
+- Les émotions qui m'ont le plus frappé, l'humeur de chaque individu varie chaque jour, il faut savoir conjuguer avec cela et petit à petit apprendre à s'affranchir et développer une sérénité intérieure. Plus forte, c'est formateur, montre que lorsque l'on est sûr de ses choix on trouve sa place et le reste suit: il faut fournir du travail perpétuel et être toujours informé sur les dernières news, fun et challenge quotidien. Pour l'alternance je ne sais pas si j'intègre une nouvelle équipe sur le même poste ou si je m'oriente vers quelque chose de plus tech et créa pure.<br>
 	
 <h1>PROJET</h1>
 Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>

@@ -90,7 +90,6 @@ Free-lance<br>Projects<br>Life<br></h3>
 	  });
 	});
 </script>
-
 	
 </section>	 
 	 

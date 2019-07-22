@@ -7,8 +7,8 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
   
   $nombreErreur = 0; // Variable qui compte le nombre d'erreur
   
-  // Définit toutes les erreurs possibles
-  if (!isset($_POST['email'])) { // Si la variable "email" du formulaire n'existe pas (il y a un problème)
+// Définit toutes les erreurs possibles
+  if (!isset($_POST['email'])) { // Si la variable "email" du formulaire n'existe pas
     $nombreErreur++; // On incrémente la variable qui compte les erreurs
     $erreur1 = '<p>Il y a un problème avec la variable "email".</p>';
   } else { // Sinon, cela signifie que la variable existe (c'est normal)
@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
     $contenu .= '<p><strong>Message</strong>: '.$message.'</p>';
     $contenu .= '</body></html>'; // Contenu du message
     
-    // Pour envoyer un email HTML, l'en-tête Content-type doit être défini
+// Pour envoyer un email HTML, l'en-tête Content-type doit être définie
     $headers = 'MIME-Version: 1.0'."\r\n";
     $headers .= 'Content-type: text/html; charset=iso-8859-1'."\r\n";
     
@@ -82,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1><span class="jaune">CONT</span>ACT</h1>
+				<h1>CONTACT</h1>
 			</article>
 		</section>
 	</header>
@@ -100,7 +100,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	<input type="email" name="email" id="email" maxlength="50"/></p>
     
 	<p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
-    <textarea name="comment" id="comment"></textarea></p>
+    <textarea name="message" id="message"></textarea></p>
     
 	<p>Combien font 1+3 <span class="etoile">*</span> <input type="text" name="captcha" size="3" /></p>
     
@@ -111,10 +111,8 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
 <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
 
-
 </div>
 
-		
 <?php		
 	include 'footer.php';
 ?>
