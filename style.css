@@ -535,18 +535,14 @@ input[type="submit"]:hover     {opacity:0.5;} */
 
 /* --- PAGE APROPOS --- */
 
-#container {
+#contener {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.videos ul{
-	display: inline-block; 
-}
-
-.videos li {
-	display:inline-block; 
+.yt  {
+	padding: 3px;
 }
 
 /* --- PAGE ABOUT --- */

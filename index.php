@@ -38,10 +38,26 @@
    </div>
 
 
-<h1>Video</h1>
+<h1>Videos</h1>
 
-<video controls preload="metadata" width="30%">
+<video controls preload="metadata" height="300px">
 <source src="images/drawing.mov">
+</video>
+
+<video controls preload="metadata" height="300px">
+<source src="images/ardui.mov">
+</video>
+
+<video controls preload="metadata" height="300px">
+<source src="images/machineast.mp4">
+</video>
+
+<video controls preload="metadata" height="300px">
+<source src="images/wordpress.MOV">
+</video>
+
+<video controls preload="metadata" height="300px">
+<source src="images/HomePage.mp4">
 </video>
 		
 	<section id="articles">

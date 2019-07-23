@@ -4,56 +4,56 @@
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1><span class="jaune">A</span>PROPOS</h1>
+				<h1>A PROPOS</h1>
 			</article>
 		</section>
 		
 	</header>
-	
-<div id="container">
 
-<section>
 
-<ul id="videos">
-	
-<li>
+<div id="contener">
+
+<div class="yt">
 <h3>FUNK THAT</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/C9dP2YIgNRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
+</div>
 
-<li>
+<div class="yt">
 <h3>CHANNEL</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
-	
-<li>
-<h3>FEAR</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/x05ibXMXBLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
+</div>
 
-<li>
-<h3>REACH</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/e1PylBR1flU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
-	
-<li>
+<div class="yt">
 <h3>HEMASN+WORDPRESS</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/KwPHDwF8HtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
-	
-<li>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/KwPHDwF8HtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="yt">
 <h3>HEMASN</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/DBxPvraakQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/DBxPvraakQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<li>
+<div class="yt">
 <h3>SAP</h3>
-<iframe width="450" height="250" src="https://www.youtube.com/embed/fqhsD0i4PS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</li>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/fqhsD0i4PS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 	
-</ul>
-
-</section>
+<div class="yt">
+<h3>CLOUDS</h3>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/-49fwbsFe_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+	
+<div class="yt">
+<h3>FEAR</h3>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/x05ibXMXBLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+	
+<div class="yt">
+<h3>REACH</h3>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/e1PylBR1flU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+	
+</div>
 	
  <section id="client-acc">
 	<h1>Some ideas</h1>
