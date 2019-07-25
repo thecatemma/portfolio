@@ -4,12 +4,11 @@
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1>A PROPOS</h1>
+				<h1>VISION</h1>
 			</article>
 		</section>
 		
 	</header>
-
 
 <div id="contener">
 
@@ -56,15 +55,17 @@
 </div>
 	
  <section id="client-acc">
-	<h1>Some ideas</h1>
+	<h1>Some working ideas</h1>
 		
 		<div class="slider5">
-  			<div class="slide"><img src="images/logo-client-1.jpg"></div>
   			<div class="slide"><img src="images/logo-client-2.jpg"></div>
 			<div class="slide"><img src="images/logo-client-3.jpg"></div>
+			<div class="slide"><img src="images/portfolio-7.jpg"></div>
   			<div class="slide"><img src="images/logo-client-4.jpg"></div>
 			<div class="slide"><img src="images/logo-client-5.jpg"></div>
 			<div class="slide"><img src="images/logo-client-6.jpg"></div>
+			<div class="slide"><img src="images/portfolio-8.jpg"></div>
+			<div class="slide"><img src="images/portfolio-9.jpg"></div>
 		</div>
 		
  <script>
@@ -81,7 +82,15 @@
 	});
  </script>
 	
-</section>	
+</section>
+
+<h1>Links: Technical</h1>
+
+
+--><a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a><br>
+--><a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a><br>
+
+<br>
 	
 </div>
 

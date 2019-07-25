@@ -9,19 +9,19 @@
 		 <h3><b>HE</b>MASN</h3>
     	  <p>Welcome ! <br> I'm Emmanuelle, <br> A countryside's cat <br> Find here informations about me</p>
   		</div>
-   		 <a href="#"><span class="glyphicon glyphicon-plus"></span>MORE +</a>
+   		 <a><span class="glyphicon glyphicon-plus"></span>+</a>
 	  </div>
 		
 		<section id="contenu-accueil">
 			<article>
-				<h1><span class="jaune">HELLO</span>WORLD</h1>
+				<h1>HELLOWORLD</h1>
 				<h2>Digital Designer</h2>
-				<span class="voir-portfolio"><a href="portfolio.php" title="Voir le portfolio">See projects</a></span>
+				<span class="voir-portfolio"><a href="portfolio.php">Click ?</a></span>
 			</article>
 		</section>
 		
 </header>
-	
+
 
    <div id="slide-accueil">
 	<div id="cbp-fwslider" class="cbp-fwslider">
@@ -38,27 +38,42 @@
    </div>
 
 
-<h1>Videos</h1>
+<h1>Video project example</h1>
 
+<div id="contener">
+
+<!--div class="yt">
 <video controls preload="metadata" height="300px">
 <source src="images/drawing.mov">
 </video>
+</div>
 
+<div class="yt">
 <video controls preload="metadata" height="300px">
 <source src="images/ardui.mov">
 </video>
+</div>
 
+<div class="yt">
 <video controls preload="metadata" height="300px">
 <source src="images/machineast.mp4">
 </video>
+</div>
 
+<div class="yt">
 <video controls preload="metadata" height="300px">
 <source src="images/wordpress.MOV">
 </video>
+</div-->
 
+<div class="yt">
 <video controls preload="metadata" height="300px">
 <source src="images/HomePage.mp4">
 </video>
+</div>
+</div>
+
+<br>
 		
 	<section id="articles">
 		<h1>Little Animation</h1>

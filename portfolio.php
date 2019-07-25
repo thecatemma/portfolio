@@ -14,7 +14,7 @@
 
 <p id="texte_sap">
 Chez SAP mes dates de contrat de stage sont du 18 février au 17 août, à Levallois. <br>
-Les missions qui m'ont été confiées: travailler sur le design d'une interface d'un produit SAP nommé Smart Predict. <br>
+Les missions qui m'ont été confiées: travailler sur le design d'une interface d'un produit nommé Smart Predict. <br>
 Entreprise de droit européen qui conçoit et vend des logiciels, notamment des sytèmes de gestion et de maintenance, principalement à destination des entreprises et des institutions dans le monde entier. <br>
 Entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateurs sur le site sur lequel je suis, elle offre des services aux industries afin de les aider dans leur activité <br> 
 Valeurs: transparence, sérieux, fiabilité... <br>
@@ -118,17 +118,39 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <br>
 	
 <h2>Meetings</h2><br>
-<h2>Participation</h2><br>
-<img src="images/sap11.png" width="30%"> <br>
-Avec Estelle <br>
-<br>
+<h2>Participation</h2><br>	
+	
+<div id="contener">
+
+<div class="yt">
+<h3>Hiérarchie</h3>
+<img src="images/sap-10.png" height="200">
+</div>
+
+<div class="yt">
+<h3>Show & tell</h3>
+<img src="images/sap-1.png" height="200">
+</div>
+	
+<div class="yt">
+<h3>Les déterminés</h3>
+<img src="images/sap11.png" height="200">
+</div>
+	
+</div>
+
 	
 <h2>Observation</h2><br>
-<img src="images/sap13.JPG" width="50%"> <br>
 	
+
+<img src="images/sap13.JPG" height="200">
+
+<br>	
 <br>
-<h2>Logo Data Warehouse Cloud</h2><br>
-	
+<h2>Logo Data Warehouse Cloud</h2>
+<h3>Secret</h3>
+<br>
+    
 <h1>Bilan et perspectives</h1><br>
 <h2>Résultats</h2> <br>
 L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée.<br>
@@ -140,7 +162,7 @@ Qu’avez-vous appris équipe, management ? <br>
 	
 <h1>PROJET</h1>
 Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
-Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais soit évoluer comme Evoli dans cette entreprise. <br>
+Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise. <br>
 On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
 	
  
@@ -154,7 +176,7 @@ On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
 
 <h1>Remerciements</h1><br>
 Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
-Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
+Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX Design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
 Je suis très très heureuse d'avoir participé à cette aventure<br>
 	
 <h2> Merci </h2>
