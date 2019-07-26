@@ -53,9 +53,11 @@
 </div>
 	
 </div>
+
+<br>
 	
  <section id="client-acc">
-	<h1>Some working ideas</h1>
+	<h1>Some work ideas</h1>
 		
 		<div class="slider5">
   			<div class="slide"><img src="images/logo-client-2.jpg"></div>

@@ -138,11 +138,9 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 </div>
 	
 </div>
-
 	
 <h2>Observation</h2><br>
 	
-
 <img src="images/sap13.JPG" height="200">
 
 <br>	
