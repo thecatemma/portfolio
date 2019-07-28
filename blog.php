@@ -4,7 +4,7 @@
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1>VISION</h1>
+				<h1>The eyes</h1>
 			</article>
 		</section>
 		
@@ -57,7 +57,7 @@
 <br>
 	
  <section id="client-acc">
-	<h1>Some work ideas</h1>
+	<h1>workss</h1>
 		
 		<div class="slider5">
   			<div class="slide"><img src="images/logo-client-2.jpg"></div>
@@ -86,11 +86,10 @@
 	
 </section>
 
-<h1>Links: Technical</h1>
+<h1>OTHER.</h1>
 
-
---><a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a><br>
---><a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a><br>
+<h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2><br>
+<h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2><br>
 
 <br>
 	

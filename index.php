@@ -16,7 +16,7 @@
 			<article>
 				<h1>HELLOWORLD</h1>
 				<h2>Digital Designer</h2>
-				<span class="voir-portfolio"><a href="portfolio.php">Click ?</a></span>
+				<span class="voir-portfolio"><a href="portfolio.php">click.</a></span>
 			</article>
 		</section>
 		
@@ -41,30 +41,6 @@
 <h1>Video project example</h1>
 
 <div id="contener">
-
-<!--div class="yt">
-<video controls preload="metadata" height="300px">
-<source src="images/drawing.mov">
-</video>
-</div>
-
-<div class="yt">
-<video controls preload="metadata" height="300px">
-<source src="images/ardui.mov">
-</video>
-</div>
-
-<div class="yt">
-<video controls preload="metadata" height="300px">
-<source src="images/machineast.mp4">
-</video>
-</div>
-
-<div class="yt">
-<video controls preload="metadata" height="300px">
-<source src="images/wordpress.MOV">
-</video>
-</div-->
 
 <div class="yt">
 <video controls preload="metadata" height="300px">
@@ -98,7 +74,7 @@
         <script src="js2/materials/liquidDistortMaterial.js"></script>
 		<script src="js2/imagesloaded.pkgd.min.js"></script>
 		<script src="js2/demo2.js"></script>
-
+    
 
 <!-- //////  Options du slider d'images -->
 <script src="js/jquery.cbpFWSlider.min.js"></script>

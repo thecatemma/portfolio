@@ -82,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1>CONTACT</h1>
+				<h1>news</h1>
 			</article>
 		</section>
 	</header>

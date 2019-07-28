@@ -4,7 +4,7 @@
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1>CREATIVE-SCROLL</h1>
+				<h1>SAP</h1>
 			</article>
 		</section>
 		
@@ -51,7 +51,9 @@ SAP a tardé avant de s'orienter vers le marché des PME.<br>
 <h2>Présentation de votre mission</h2><br>
 Des stakeholders, notamment les Product Owners et Product Experts nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketck<br>
 Les product owners utilisent UML. <br>
-<img src="images/UML.svg" width="50%"> <br>
+
+    <img id="uml" src="images/UML.svg" width="50%"> <br>
+
 Pour cela nous avions des réunions afin de discuter sur quoi faire pour la suite, parfois in English.<br>
 
 Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog.<br>
@@ -166,7 +168,7 @@ On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
  
 </p>
 
-<h1>Articles</h1>
+<h1>Articles - Scroll</h1>
 <h2> Day by Day at SAP </h2>
 <?php include('./index-articles.php'); ?>
 
