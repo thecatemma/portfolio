@@ -289,7 +289,7 @@ a:focus {
 }
 
 .content__img-wrap {
-	position: relative;
+	/*position: relative;*/
 	width: 80%;
 	height: calc(100% - 13rem);
 }
