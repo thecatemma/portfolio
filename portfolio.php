@@ -123,27 +123,72 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <h2>Participation</h2><br>	
 	
 <div id="contener">
+    
+<div class="yt">
+<h3>Assia's drawing</h3>
+<img src="images/sap_1.png" height="250">
+</div>
 
 <div class="yt">
 <h3>Hiérarchie</h3>
-<img src="images/sap-10.png" height="200">
+<img src="images/sap-10.png" height="250">
 </div>
 
 <div class="yt">
 <h3>Show & tell</h3>
-<img src="images/sap-1.png" height="200">
+<img src="images/sap-1.png" height="250">
 </div>
 	
 <div class="yt">
 <h3>Les déterminés</h3>
-<img src="images/sap11.png" height="200">
+<img src="images/sap11.png" height="250">
 </div>
-	
+    
+<div class="yt">
+<h3>Show&Tell</h3>
+<img src="images/sap_11.png" height="250">
+</div>
+
+<div class="yt">
+<h3>SpringBreak</h3>
+<img src="images/sap_9.png" height="250">
+</div>
+    
+<div class="yt">
+<h3>On boards</h3>
+<img src="images/sap_13.png" height="250">
+</div>
+    
+<div class="yt">
+<h3>Conference View</h3>
+<img src="images/sap_14.png" height="250">
+</div>
+    
+<div class="yt">
+<h3>Meeting Room</h3>
+<img src="images/sap_15.png" height="250">
+</div>
+    
+<div class="yt">
+<h3>Event</h3>
+<img src="images/sap_16.png" height="250">
+</div>
+    
+<div class="yt">
+<h3>Working Conditions</h3>
+<img src="images/sap_17.png" height="250">
+</div>
+    
+<div class="yt">
+<h3>Office View</h3>
+<img src="images/sap_19.png" height="250">
+</div>
+    
 </div>
 	
 <h2>Observation</h2><br>
-	
-<img src="images/" height="200">
+<h3>L'Avatar au-dessus du bureau</h3>
+<img src="images/Avatar.png" height="200">
 
 <br>	
 <br>
