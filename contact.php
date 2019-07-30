@@ -91,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
 	<h2 id="post_comment">Contact Me</h2>
 
-  <form method="post" action="<?php echo strip_tags($_SERVER['REQUEST_URI']); ?>">
+  <form method="post" action="mail.php">
 	  
     <p><label for="Name" id="author">Name</label> <br />
 	<input type="text" name="nom" id="pseudo" maxlength="30"/> </p>
@@ -100,7 +100,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	<input type="email" name="email" id="email" maxlength="50"/></p>
     
 	<p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
-    <textarea name="message" id="message"></textarea></p>
+    <textarea name="message" id="message" cols="8" rows="5"></textarea></p>
     
 	<p>Combien font 1+3 <span class="etoile">*</span> <input type="text" name="captcha" size="3" /></p>
     

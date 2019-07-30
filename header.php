@@ -1,6 +1,16 @@
 <!doctype html>
 <html lang="fr">
 <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143357752-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-143357752-1');
+    </script>
+
 	<meta charset="UTF-8" />
 	<title>HEMASN : Mon Portfolio</title>
 	<link rel="icon" type="images/png" href="images/favicon.ico">
