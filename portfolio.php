@@ -188,8 +188,10 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 	
 <h2>Observation</h2><br>
 <h3>L'Avatar au-dessus du bureau</h3>
-<img src="images/Avatar.png" height="200">
-
+    
+<div class="yt">
+<img src="images/Avatar.png" height="300">
+    </div>
 <br>	
 <br>
 <h2>Logo Data Warehouse Cloud</h2>
