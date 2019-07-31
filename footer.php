@@ -31,7 +31,7 @@
 	<div id="footer-bottom">
 		<ul class="copyright">
 			<li>©<b>HEMASN</b> | Digital Designer</li><br>
-			<li>THIS WEBSITE <b>is HANDMADE</b></li><br>
+			<li>This website <b>is handmade</b></li><br>
 			<li>Visuals + Code + ID</li>
 		</ul>
 		

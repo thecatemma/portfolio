@@ -16,6 +16,9 @@
 Chez SAP mes dates de contrat de stage sont du 18 février au 17 août, à Levallois. <br>
 Les missions qui m'ont été confiées: travailler sur le design d'une interface d'un produit nommé Smart Predict. <br>
 Entreprise de droit européen qui conçoit et vend des logiciels, notamment des sytèmes de gestion et de maintenance, principalement à destination des entreprises et des institutions dans le monde entier. <br>
+SAP a débuté en 1972 sous la forme d'une équipe de cinq collègues désirant faire quelque chose de nouveau. Ensemble, ils ont changé le logiciel d'entreprise et réinventé la manière dont les affaires se déroulaient. Aujourd'hui, en tant que leader du marché des logiciels d'application d'entreprise, nous restons fidèles à nos racines. C'est pourquoi nous concevons des solutions pour alimenter l'innovation, favoriser l'égalité et répartir les opportunités pour nos employés et nos clients, au-delà des frontières et des cultures.
+<br>
+SAP valorise l'esprit d'entreprise, encourage la créativité et construit des relations durables avec nos employés. Nous savons qu'une main-d'œuvre diversifiée et inclusive nous permet de rester concurrentiels et offre des opportunités à tous. Nous croyons qu’ensemble nous pouvons transformer les industries, développer l’économie, élever les sociétés et préserver notre environnement. Parce que ce sont les entreprises les mieux gérées qui font que le monde fonctionne mieux et améliorent la vie des gens. <br>
 Entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateurs sur le site sur lequel je suis, elle offre des services aux industries afin de les aider dans leur activité <br> 
 Valeurs: transparence, sérieux, fiabilité... <br>
 	
@@ -49,7 +52,7 @@ SAP a tardé avant de s'orienter vers le marché des PME.<br>
 <h1>MISSION</h1>
 		
 <h2>Présentation de votre mission</h2><br>
-Des stakeholders, notamment les Product Owners et Product Experts nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketck<br>
+Des stakeholders, notamment les Product Owners et Product Experts nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketch<br>
 Les product owners utilisent UML. <br>
 
     <img id="uml" src="images/UML.svg" width="50%"> <br>
@@ -187,7 +190,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 </div>
 	
 <h2>Observation</h2><br>
-<h3>L'Avatar au-dessus du bureau</h3>
+<h3>Au-dessus du bureau</h3>
     
 <div class="yt">
 <img src="images/Avatar.png" height="300">
