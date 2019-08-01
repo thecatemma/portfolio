@@ -1,8 +1,11 @@
 <!doctype html>
 <html lang="fr">
 <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <?php    
+    if ($_SERVER["SERVER_NAME"] != "localhost") {?>
+<!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143357752-1"></script>
+    <?php } ?>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -57,7 +60,7 @@
 			
 		  <div id="wrap">
 					
-			 <a id="logo" href="#"><b>HE</b>MASN.</a>
+			 <a id="logo" href="index.php"><b>HE</b>MASN.</a>
 				
 				<div id="droite">
 					
@@ -65,7 +68,7 @@
 
 
 					<div id="social">				
-						<a href="#" title="facebook"><img src="images/header-facebook.png" alt="Mon facebook"></a>
+						<a href="https://www.facebook.com/emmanuelle.husson" title="facebook"><img src="images/header-facebook.png" alt="Facebook"></a>
 						<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
 						<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Behance+"><img src="images/header-behance.png" alt="Behance"></a>
 					</div>
@@ -86,7 +89,7 @@
 				<li><a href="index.php">Hello</a></li>
 				<li><a href="about.php">About</a></li>
 				<li><a href="portfolio.php">SAP</a></li> <!-- class="active" -->
-				<li><a href="blog.php">Porte-folie</a></li>
+				<li><a href="blog.php">Waterfall</a></li>
 				<li><a href="contact.php">Keep in touch</a></li>
 			</ul>
 				

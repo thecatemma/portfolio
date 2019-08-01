@@ -214,7 +214,6 @@ Qu’avez-vous appris équipe, management ? <br>
 Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
 Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise. <br>
 On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
-	
  
 </p>
 
