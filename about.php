@@ -15,7 +15,7 @@
 
  <section id="CV">
 
-	<h1>FORMATIONS </h1>
+	<h1>EDUCATION</h1>
 	<h3><b>2019/2020</b><br>Second year Master Degree - Digital Creation UIUX<br>
 		2018/2019<br>First year Master Degree - Digital Creation UIUX<br>
 		2018/2019<br>Formation Web Development<br>

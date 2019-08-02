@@ -36,12 +36,11 @@
 		</ul>
 		
 		<ul class="liens">
-			<li><a href="#">Hello</a> | </li>
-			<li><a href="#">About</a> | </li>
-			<li><a href="#">Portfolio</a> | </li>
-			<li><a href="#">Contact</a> | </li>
+			<li><a href="index.php">Hello</a> | </li>
+			<li><a href="about.php">About</a> | </li>
+			<li><a href="blog.php">Portfolio</a> | </li>
+			<li><a href="contact.php">Contact</a></li>
 			<!--<li><a href="#">Mentions légales</a> | </li>-->
-			<li><a href="#">Map </a>  </li>
 		</ul>
 		
 	</div>
