@@ -22,7 +22,6 @@
 		
 </header>
 
-
    <div id="slide-accueil">
 	<div id="cbp-fwslider" class="cbp-fwslider">
 	<ul>
@@ -52,7 +51,7 @@
 <br>
 		
 	<section id="articles">
-		<h1>Little Animation</h1>
+		<h1>Number</h1>
 		<div class="clearboth"></div>
 	</section>
 

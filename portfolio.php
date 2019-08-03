@@ -61,6 +61,8 @@ Pour cela nous avions des réunions afin de discuter sur quoi faire pour la suit
 
 Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog.<br>
 Scrum master est au service du product owner et des membres de l'équipe de développement. <br>
+    
+    
 	
 --> 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>
 	
