@@ -131,62 +131,62 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
     
 <div class="yt">
 <h3>Assia's drawing</h3>
-<img src="images/sap_1.png" height="250">
+<img src="images/sap_1.png" height="250" alt="Dessin Assia équipe">
 </div>
 
 <div class="yt">
 <h3>Hiérarchie</h3>
-<img src="images/sap-10.png" height="250">
+<img src="images/sap-10.png" height="250" alt="Organigramme">
 </div>
 
 <div class="yt">
 <h3>Show & tell</h3>
-<img src="images/sap-1.png" height="250">
+<img src="images/sap-1.png" height="250" alt="Dessin Show and Tell">
 </div>
 	
 <div class="yt">
 <h3>Les déterminés</h3>
-<img src="images/sap11.png" height="250">
+<img src="images/sap11.png" height="250" alt="Association les Déterminés">
 </div>
     
 <div class="yt">
 <h3>Show&Tell</h3>
-<img src="images/sap_11.png" height="250">
+<img src="images/sap_11.png" height="250" alt="Dessin Show and Tell">
 </div>
 
 <div class="yt">
 <h3>SpringBreak</h3>
-<img src="images/sap_9.png" height="250">
+<img src="images/sap_9.png" height="250" alt="Concert Petit Bain">
 </div>
     
 <div class="yt">
 <h3>On boards</h3>
-<img src="images/sap_13.png" height="250">
+<img src="images/sap_13.png" height="250" alt="Partie de réflexion sur les murs">
 </div>
     
 <div class="yt">
 <h3>Conference View</h3>
-<img src="images/sap_14.png" height="250">
+<img src="images/sap_14.png" height="250" alt="View vue">
 </div>
     
 <div class="yt">
 <h3>Meeting Room</h3>
-<img src="images/sap_15.png" height="250">
+<img src="images/sap_15.png" height="250" alt="Salle de réunion">
 </div>
     
 <div class="yt">
 <h3>Event</h3>
-<img src="images/sap_16.png" height="250">
+<img src="images/sap_16.png" height="250" alt="Evenement Event Paris">
 </div>
     
 <div class="yt">
 <h3>Working Conditions</h3>
-<img src="images/sap_17.png" height="250">
+<img src="images/sap_17.png" height="250" alt="Bureau Desk">
 </div>
     
 <div class="yt">
 <h3>Office View</h3>
-<img src="images/sap_19.png" height="250">
+<img src="images/sap_19.png" height="250" alt="Vue Tour">
 </div>
     
 </div>
@@ -195,7 +195,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <h3>Desk thing</h3>
     
 <div class="yt">
-<img src="images/Avatar.png" height="300">
+<img src="images/Avatar.png" height="300" alt="Avatar Emmanuelle">
     </div>
 <br>	
 <br>

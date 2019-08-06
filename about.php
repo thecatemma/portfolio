@@ -68,11 +68,11 @@ Free-lance<br>Projects<br>Life<br></h3>
 	  <h1>ON BOARD</h1>
 		
 		<div class="slider5">
-			<div class="slide"><img src="images/carrousel_1.jpg"></div>
+			<div class="slide"><img src="images/carrousel_1.jpg" alt="Vue"></div>
   			<!--div class="slide"><img src="images/carrousel_2.jpg"></div-->
-			<div class="slide"><img src="images/carrousel_3.jpg"></div>
-  			<div class="slide"><img src="images/carrousel_4.jpg"></div>
-			<div class="slide"><img src="images/carrousel_5.jpg"></div>
+			<div class="slide"><img src="images/carrousel_3.jpg" alt="Mails"></div>
+  			<div class="slide"><img src="images/carrousel_4.jpg" alt="Data"></div>
+			<div class="slide"><img src="images/carrousel_5.jpg" alt="Connexion"></div>
 
 		</div>
 		
