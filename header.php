@@ -16,6 +16,7 @@
 
 	<meta charset="UTF-8" />
 	<title>HEMASN : Mon Portfolio</title>
+    <meta name="description" content="HEMASN, portfolio, dessins, UX Design, Code">
 	<link rel="icon" type="images/png" href="images/favicon.ico">
 <!-- Pages -->
 	<link rel="stylesheet" type="text/css" href="about.php"/>
