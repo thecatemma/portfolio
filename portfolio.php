@@ -25,8 +25,8 @@ Entreprise leader du logiciel informatique, c'est une structure qui comptabilise
 <h1>SWOT</h1>
 	
  <h2>• Forces</h2><br>
-	Nombre de collaborateurs. Belle répartition de tâches. Sait s’adapter aux besoins de ses clients. Logiciels qui permettent l'harmonisation de tous les logiciels dans une structure : avec un ERP SAP il n'y a pas besoin de saisir les données dans plusieurs logiciels, cela permet donc un gain de temps et une minimisation des erreurs humaines. L'ERP SAP est un moyen de renforcer la sécurité pour l'entreprise notamment grâce au paramétrage des droits d'accès. <br>
-	<br>
+Nombre de collaborateurs. Belle répartition de tâches. Sait s’adapter aux besoins de ses clients. Logiciels qui permettent l'harmonisation de tous les logiciels dans une structure : avec un ERP SAP il n'y a pas besoin de saisir les données dans plusieurs logiciels, cela permet donc un gain de temps et une minimisation des erreurs humaines. L'ERP SAP est un moyen de renforcer la sécurité pour l'entreprise notamment grâce au paramétrage des droits d'accès. <br>
+<br>
 	
 <h2>• Opportunités</h2><br>	
 Entreprise présente dans le monde entier.
@@ -63,8 +63,6 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 Scrum master est au service du product owner et des membres de l'équipe de développement. <br>
     	
 --> 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>
-	
-<!--img src="images/scrum.png" width="30%"--> <br>
 	
 <h1>INTEGRATION</h1>
 	
@@ -105,7 +103,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
   			<div class="slide"><img src="images/sap8.png"></div>
 		</div>
 
-	<script>
+	 <script>
 		$(document).ready(function(){
 		  $('.slider5').bxSlider({
 			slideWidth: 300,
@@ -117,7 +115,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 			auto:true,
 		  });
 		});
-	</script>
+	 </script>
 	</section>		
 	
 <br>
