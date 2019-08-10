@@ -188,7 +188,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 </div>
 	
 <h2>Observation</h2><br>
-<h3>Desk thing</h3>
+<h3>Desk :)</h3>
     
 <div class="yt">
 <img src="images/Avatar.png" height="300" alt="Avatar Emmanuelle">
@@ -199,13 +199,13 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <h3>Secret</h3>
 <br>
     
-<h2>Pictos for UA</h2>
-<h3>Soon to come</h3>
+<h2>Pictogrammes for User Assistance</h2>
+<img id="pictos" src="images/pictos.png" width="50%" alt="pictos"> <br>
 <br>
     
 <h1>Bilan et perspectives</h1><br>
-<h2>Résultats</h2> <br>
-L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée.<br>
+<h2>Results</h2> <br>
+L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée. J'ai réalisé les pictos vectoriels juste au dessus qui ont été intégrés.<br>
 Votre plus grande réussite: progresser + finir ce site <br>
 Leçon: réussir à être autonome et rester focus<br>
 Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
@@ -230,7 +230,7 @@ Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible
 Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX Design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
 Je suis très très heureuse d'avoir participé à cette aventure<br>
 	
-<h2> Merci </h2>
+<h2> Thanks </h2>
 <br>
 		
 <?php		

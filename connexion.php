@@ -16,5 +16,5 @@ include('./header.php'); //contient le doctype, et head.
 
 	<?php
 	include('./footer.php');
+
 //	mysql_close();
-	?>
