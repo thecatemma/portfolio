@@ -203,6 +203,31 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <img id="pictos" src="images/pictos.png" width="50%" alt="pictos"> <br>
 <br>
     
+	<section id="client-acc">
+		<div class="slider5">
+			<div class="slide"><img src="images/picto-1.png"></div>
+  			<div class="slide"><img src="images/picto-2.png"></div>
+		</div>
+		
+		Projet "Secret": ici uniquement le produit existant <br>
+
+	<script>
+		$(document).ready(function(){
+		  $('.slider5').bxSlider({
+			slideWidth: 80,
+			minSlides: 1,
+			maxSlides: 4,
+			moveSlides: 4,
+			slideMargin: 10,
+			preloadImages : 'all',
+			auto:true,
+		  });
+		});
+	</script>
+	</section>	
+	
+<br>
+    
 <h1>Bilan et perspectives</h1><br>
 <h2>Results</h2> <br>
 L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée. J'ai réalisé les pictos vectoriels juste au dessus qui ont été intégrés.<br>
@@ -232,6 +257,16 @@ Je suis très très heureuse d'avoir participé à cette aventure<br>
 	
 <h2> Thanks </h2>
 <br>
+
+<div id="contener">
+
+<div class="yt">
+<video controls preload="metadata" height="300px">
+<source src="images/prez.mov">
+</video>
+</div>
+</div>
+
 		
 <?php		
 	include 'footer.php';
