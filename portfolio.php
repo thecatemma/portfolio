@@ -13,7 +13,7 @@
 <div id="conteneur">
 
 <p id="texte_sap">
-Chez SAP mes dates de contrat de stage sont du 18 février au 17 août, à Levallois. <br>
+Chez SAP mes dates de contrat de stage étaient du 18 février au 17 août, à Levallois. <br>
 Les missions qui m'ont été confiées: travailler sur le design d'une interface d'un produit nommé Smart Predict. <br>
 c'est une Entreprise de droit européen qui conçoit et vend des logiciels, notamment des sytèmes de gestion et de maintenance, principalement orienté vers des entreprises et des institutions partout sur le globe. <br>
 SAP a débuté en 1972 sous la forme d'une équipe de cinq collègues ayant comme désir d'établir quelque chose de nouveau. Ensemble, ils ont changé le logiciel d'entreprise et réinventé la manière dont les affaires se déroulaient. Aujourd'hui, en tant que leader du marché des logiciels d'application d'entreprise, ils restent fidèles à leurs racines. Ils conçoivent des solutions pour alimenter l'innovation, favoriser l'égalité et répartir les opportunités pour les employés et clients, à travers les frontières et les cultures.
@@ -207,6 +207,10 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 		<div class="slider5">
 			<div class="slide"><img src="images/picto-1.png"></div>
   			<div class="slide"><img src="images/picto-2.png"></div>
+            <div class="slide"><img src="images/picto-3.png"></div>
+            <div class="slide"><img src="images/picto-4.png"></div>
+            <div class="slide"><img src="images/picto-5.png"></div>
+            <div class="slide"><img src="images/picto-6.png"></div>
 		</div>
 		
 		Projet "Secret": ici uniquement le produit existant <br>
@@ -214,7 +218,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 	<script>
 		$(document).ready(function(){
 		  $('.slider5').bxSlider({
-			slideWidth: 80,
+			slideWidth: 300,
 			minSlides: 1,
 			maxSlides: 4,
 			moveSlides: 4,
