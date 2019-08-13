@@ -202,6 +202,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <h2>Pictogrammes for User Assistance</h2>
 <img id="pictos" src="images/pictos.png" width="50%" alt="pictos"> <br>
 <br>
+<br>
     
 	<section id="client-acc">
 		<div class="slider5">
@@ -213,8 +214,6 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
             <div class="slide"><img src="images/picto-6.png"></div>
 		</div>
 		
-		Projet "Secret": ici uniquement le produit existant <br>
-
 	<script>
 		$(document).ready(function(){
 		  $('.slider5').bxSlider({
