@@ -115,6 +115,18 @@ Description: Portfolio.
 	text-align: center;
 }
 
+#results_sap {
+  text-align: center;  
+}
+
+#projet_sap {
+   text-align: center;  
+}
+
+#thanks_sap {
+   text-align: center;  
+}
+
 #article_bdd {
 	width: 125px; 
 	padding-top: 45px; 
