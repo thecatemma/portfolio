@@ -231,6 +231,8 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 	
 <br>
     
+<h2>Sketchings EBC</h2>
+    
 <h1>Bilan et perspectives</h1><br>
 <h2>Results</h2> <br>
     
