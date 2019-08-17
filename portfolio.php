@@ -21,6 +21,8 @@ SAP a débuté en 1972 sous la forme d'une équipe de cinq collègues ayant comm
 SAP valorise l'esprit d'entreprise, encourage la créativité et construit des relations durables avec ses employés. Une main-d'œuvre diversifiée et inclusive leur permet de rester concurrentiels et offrir des opportunités. Ils transforment les industries, développent l’économie, élevent les sociétés et préservent leur environnement.<br>
 Entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateurs sur le site sur lequel je suis, elle offre des services aux industries afin de les aider dans leur activité <br> 
     <h3>Valeurs:</h3> transparence, sérieux, fiabilité... <br>
+    
+Likeee
 	
 <h1>SWOT</h1>
 	
