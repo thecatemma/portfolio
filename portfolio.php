@@ -22,7 +22,7 @@ SAP valorise l'esprit d'entreprise, encourage la créativité et construit des r
 Entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateurs sur le site sur lequel je suis, elle offre des services aux industries afin de les aider dans leur activité <br> 
     <h3>Valeurs:</h3> transparence, sérieux, fiabilité... <br>
     
-Likeee
+<p>Cette intro: <a href="#" title="Intro" class="jaime">J&rsquo;aime</a></p>
 	
 <h1>SWOT</h1>
 	

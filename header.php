@@ -31,6 +31,8 @@
 	<link rel="stylesheet" type="text/css" href="./bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="./bootstrap-theme.min.css" />
 <!-- JS -->
+    <script type="text/javascript" src="jquery-1.4.4.js"></script>
+	<script type="text/javascript" src="jaime.js"></script>
 <!-- Bibliothèque JS conçue pour détecter fonctionnalités spécifiques de HTML et CSS dans les navigateurs -->
 	<script src="js/modernizr.custom.js"></script>
 <!-- Librairie JQUERY -->
