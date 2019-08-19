@@ -23,6 +23,8 @@ Entreprise leader du logiciel informatique, c'est une structure qui comptabilise
     <h3>Valeurs:</h3> transparence, sérieux, fiabilité... <br>
     
 <p>Cette intro: <a href="#" title="Intro" class="jaime">J&rsquo;aime</a></p>
+    
+Ajouter micro !
 	
 <h1>SWOT</h1>
 	
