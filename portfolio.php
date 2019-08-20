@@ -192,7 +192,7 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 </div>
 	
 <h2>Observation</h2><br>
-<h3>Behind my Desk</h3>
+<h3>Above my Desk</h3>
     
 <div class="">
 <img src="images/Avatar.png" height="300" alt="Avatar Emmanuelle">
@@ -200,14 +200,38 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <br>	
 <br>
 <h2>Logo Data Warehouse Cloud</h2>
-<h3>Secret</h3>
+
+    <div id="contener">
+        <div class="photos_serie">
+        <h3>Proposal 1</h3>
+        <img src="images/sap_30.png" width="200" alt="Logo 1">
+        </div>
+
+        <div class="photos_serie">
+        <h3>Proposal 2</h3>
+        <img src="images/sap_31.png" width="200" alt="Logo 2">
+        </div>
+
+        <div class="photos_serie">
+        <h3>Proposal 3</h3>
+        <img src="images/sap_32.png" width="200" alt="Logo 3">
+        </div>
+
+        <div class="photos_serie">
+        <h3>Proposal 4</h3>
+        <img src="images/sap_33.png" width="200" alt="Logo 4">
+        </div>
+    </div>
+    
+<br>
 <br>
     
 <h2>Pictogrammes for User Assistance</h2>
 <img id="pictos" src="images/pictos.png" width="50%" alt="pictos"> <br>
+
 <br>
 <br>
-    
+   
 	<section id="client-acc">
 		<div class="slider5">
 			<div class="slide"><img src="images/picto-1.png"></div>
@@ -252,7 +276,7 @@ Qu’avez-vous appris équipe, management ? <br>
 <h1>PROJET</h1>
 <p id="projet_sap">
 Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
-Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise. <br>
+Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise ou ailleurs. <br>
 On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
  
 </p>
