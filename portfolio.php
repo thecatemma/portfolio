@@ -227,7 +227,6 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 <br>
     
 <h2>Pictogrammes for User Assistance</h2>
-<img id="pictos" src="images/pictos.png" width="50%" alt="pictos"> <br>
 
 <br>
 <br>
@@ -256,6 +255,11 @@ Scrum master est au service du product owner et des membres de l'équipe de dév
 		});
 	</script>
 	</section>	
+    
+<br>
+<br>
+    
+    <img id="pictos" src="images/pictos.png" width="50%" alt="pictos"> <br>
 	
 <br>
     
