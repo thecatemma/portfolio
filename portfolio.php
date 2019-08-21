@@ -189,7 +189,7 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 <h2>Observation</h2><br>
 <h3>Above my Desk</h3>
     
-<div class="">
+<div class="img">
 <img src="images/Avatar.png" height="300" alt="Avatar Emmanuelle">
     </div>
 <br>	
