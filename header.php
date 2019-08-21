@@ -93,7 +93,7 @@
 			<ul class="nav">
 				<li><a href="index.php">Hello</a></li>
 				<li><a href="about.php">About</a></li>
-				<li><a href="portfolio.php">SAP</a></li> <!-- class="active" -->
+				<li><a href="portfolio.php">Internship</a></li> <!-- class="active" -->
 				<li><a href="blog.php">Waterfall</a></li>
 				<li><a href="contact.php">Keep in touch</a></li>
 			</ul>

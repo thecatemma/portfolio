@@ -6,12 +6,11 @@
 	</header>
 
 <div id="conteneur">
-	
-		<section id="contenu-accueil">
-			<article>
-				<h1>ABOUTME</h1>
-			</article>
-		</section>
+	    
+
+  <h1>Profile</h1>
+    
+<br>
 
  <section id="CV">
 

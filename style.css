@@ -6,6 +6,8 @@ Author URI: https://hemasn.com
 Description: Portfolio.
 */
 
+
+
 /*-- Flip box Page Portfolio --*/
 .flip-box {
   background-color: transparent;
@@ -261,7 +263,8 @@ a.jaime-a-voter:hover {
 	padding-bottom: 45px;
 	text-align: center;
 	background: linear-gradient(to top, white 0%, rosybrown 100%);
-	margin: 50px;
+	margin: 6px;
+    border-radius: 100px;
 }
 
 #article_bdd hover {
@@ -685,6 +688,9 @@ input[type="submit"]:hover     {opacity:0.5;} */
 	padding: 3px;
 }
 
+.serie {
+    border-radius: 100px;
+}
 
 .photos_serie {
 	padding: 3px;

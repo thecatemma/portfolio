@@ -57,7 +57,7 @@
 <br>
 	
  <section id="client-acc">
-	<h1>workss</h1>
+	<h1>works</h1>
 		
 		<div class="slider5">
   			<div class="slide"><img src="images/logo-client-2.jpg"></div>
@@ -94,12 +94,6 @@
 <h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2><br>
 <h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2><br>
 
- <input class="switch" name="premium" id="premium" type="checkbox" checked>
-    <label for="premium" class="ui-content" >
-        <div class="ui-switch-range">
-            <div class="ui-switch-handle"></div>
-        </div>
-    </label>
 
 <br>
 </div>	
