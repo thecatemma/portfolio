@@ -6,6 +6,12 @@ Author URI: https://hemasn.com
 Description: Portfolio.
 */
 
+
+.html {width: 90%; background-color: darkseagreen; color: white;}
+.css {width: 85%; background-color: rebeccapurple;color: white;}
+.jss {width: 40%; background-color: mistyrose;color: white;}
+.php {width: 15%; background-color: rosybrown;color: white;}
+
 .img:hover {
   animation: shake 0.5s;
   animation-iteration-count: infinite;

@@ -52,6 +52,28 @@
 		</tr>
 
 	</table><br>
+     
+<h1>My Skills</h1>
+
+<p>HTML</p>
+<div class="lala">
+  <div class="skills html">90%</div>
+</div>
+
+<p>CSS</p>
+<div class="lala">
+  <div class="skills css">85%</div>
+</div>
+
+<p>JavaScript</p>
+<div class="lala">
+  <div class="skills jss">40%</div>
+</div>
+
+<p>PHP</p>
+<div class="lala">
+  <div class="skills php">15%</div>
+</div>
 	
 <h1>EXPERIENCE</h1>
 <h3>Three internships<br>
