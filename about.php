@@ -53,7 +53,7 @@
 
 	</table><br>
      
-<h1>My Skills</h1>
+<h1>Skills</h1>
 
 <p>HTML</p>
 <div class="lala">
@@ -72,7 +72,7 @@
 
 <p>PHP</p>
 <div class="lala">
-  <div class="skills php">15%</div>
+  <div class="skills php">25%</div>
 </div>
 	
 <h1>EXPERIENCE</h1>
