@@ -92,7 +92,17 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 	</section>	
 	
 <br>
+    
+<span class="label success">Success</span>
+<span class="label info">Info</span>
+<span class="label warning">Warning</span>
+<span class="label danger">Danger</span>
+<span class="label other">Other</span>
 	
+<br>
+<br>
+<br>
+    
 <h2>Illustrations</h2><br>
 	
 	<section id="client-acc">
