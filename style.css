@@ -10,6 +10,7 @@ Description: Portfolio.
 .label {
   color: white;
   padding: 8px;
+  border-radius: 10px;
 }
 
 .success {background-color: #4CAF50;} /* Green */

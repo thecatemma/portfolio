@@ -53,7 +53,7 @@
 
 	</table><br>
      
-<h1>Skills</h1>
+<h1>SKILLS</h1>
 
 <p>HTML</p>
 <div class="lala">

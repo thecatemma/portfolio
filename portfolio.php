@@ -92,13 +92,13 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 	</section>	
 	
 <br>
-    
+!  
 <span class="label success">Success</span>
 <span class="label info">Info</span>
 <span class="label warning">Warning</span>
 <span class="label danger">Danger</span>
 <span class="label other">Other</span>
-	
+!
 <br>
 <br>
 <br>
@@ -129,7 +129,6 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 	
 <br>
 	
-<h2>Meetings</h2><br>
 <h2>Participation</h2><br>	
 	
 <div id="contener">
