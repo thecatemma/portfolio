@@ -26,23 +26,23 @@ Valeurs: transparence, sérieux, fiabilité... <br>
 	
 <h1>SWOT</h1>
 	
- <h2>• Forces</h2><br>
+ <h2>Forces</h2><br>
 Nombre de collaborateurs. Belle répartition de tâches. Sait s’adapter aux besoins de ses clients. Logiciels qui permettent l'harmonisation de tous les logiciels dans une structure : avec un ERP SAP il n'y a pas besoin de saisir les données dans plusieurs logiciels, cela permet donc un gain de temps et une minimisation des erreurs humaines. L'ERP SAP est un moyen de renforcer la sécurité pour l'entreprise notamment grâce au paramétrage des droits d'accès. <br>
 <br>
 	
-<h2>• Opportunités</h2><br>	
+<h2>Opportunités</h2><br>	
 Entreprise présente dans le monde entier.
 Leader sur le marché des logiciels d’entreprise (ERP).
 Premier éditeur de logicel de gestion pour les grandes entreprises : SAP réalise 43% de PDM en France grâce à la filiére des grandes entreprises (qui représentent plus de 75% de son chiffre d’affaires).
 Importance des logiciels CRM (Customer Relationship Management).<br><br>
 	
-<h2>• Faiblesses</h2><br>
+<h2>Faiblesses</h2><br>
 Les logiciels SAP doivent toujours évoluer pour répondre aux attentes des entreprises.
 Durée d’implantation du logiciel longue : 6 à 12 mois.
 Coûts d'investissement élevés à répartir entre l'implantation du logiciel , la formation des salariés et la maintenance.
 Maintenance évolutive ou corrective : cela coute à l’entreprise. <br><br>
 
-<h2>• Menaces</h2><br>
+<h2>Menaces</h2><br>
 Concurrents très présents sur le marché.
 De nouveaux logiciels arrivent sur le marché, comme les logiciels pour les PME entre autres.
 La protection des données. Comme toute entreprise centralisant et utilisant des data, SAP doit contrer la menace du piratage informatique et s’assurer qu’aucune donnée personnelle de ses clients ne soit divulguée.
