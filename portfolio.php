@@ -63,8 +63,8 @@ Pour cela nous avions des réunions afin de discuter sur quoi faire pour la suit
 Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog.<br>
 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>
 	
-<h1>INTEGRATION</h1>
-	
+<br>
+    
 <h2>Smart Predict</h2><br>
 
 	<section id="client-acc">
@@ -74,7 +74,7 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
   			<div class="slide"><img src="images/sap4.png"></div>
 		</div>
 		
-		Ici uniquement le produit existant <br>
+		Ici uniquement le produit existant, sur lequel j'ai travaillé <br>
 
 	<script>
 		$(document).ready(function(){
@@ -91,14 +91,6 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 	</script>
 	</section>	
 	
-<br>
-!  
-<span class="label success">Success</span>
-<span class="label info">Info</span>
-<span class="label warning">Warning</span>
-<span class="label danger">Danger</span>
-<span class="label other">Other</span>
-!
 <br>
 <br>
 <br>
@@ -281,7 +273,6 @@ Qu’avez-vous appris équipe, management ? <br>
 <p id="projet_sap">
 Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
 Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise ou ailleurs. <br>
-On m'a dit que j'étais une licorne, même si chat aurait été bien. <br>
  
 </p>
 
