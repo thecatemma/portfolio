@@ -86,13 +86,14 @@
 	
 </section>
 
-<h1>OTHER.</h1>
+<h1>OTHER</h1>
 
 
 <br>
 
 <h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2><br>
 <h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2><br>
+<h2><img src="images/picto-graphic.png"> <a href="http://hemasn.000webhostapp.com/purple/purple.html" target="_blank">Landing Page</a></h2><br>
 
 
 <br>
