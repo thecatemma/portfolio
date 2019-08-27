@@ -9,7 +9,7 @@
 	 <ul>
 	  <li><div class="titre-footer">Hiring</div></li>
 	  <li><p>UIUX<br/>Design<br/>Analytic Drawing<br/>Art Direction<br/>Code</p></li>
-	  <li><p>In french: Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne... and France of course.</p></li>
+	  <li><p>In french: Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne. . . & France</p></li>
 	 </ul>	
 		
 		 <ul>
@@ -31,8 +31,7 @@
 	<div id="footer-bottom">
 		<ul class="copyright">
 			<li>©<b>HEMASN</b> | Digital Designer</li><br>
-			<li>This website <b>is handmade</b></li><br>
-			<li>Visuals + Code + ID</li>
+			<li>This website is <b>handmade</b></li><br>
 		</ul>
 		
 		<ul class="liens">
