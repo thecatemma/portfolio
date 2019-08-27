@@ -82,7 +82,7 @@
 	
 <h1>EXPERIENCE</h1>
 <h3>Three internships<br>
-Free-lance<br>Projects<br>Life<br></h3>
+Free-lance<br>Projects<br>Life<br></h3> <span class="voir-portfolio"><a href="portfolio.php"></a></span> <br>
 
 <h1>INTERESTS</h1>
 <h3>Travels <br> Environment <br> Nature</h3>

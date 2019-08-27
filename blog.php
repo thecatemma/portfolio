@@ -13,42 +13,35 @@
 <div id="contener">
 
 <div class="yt">
-<h3>FUNK THAT</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/C9dP2YIgNRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="yt">
-<h3>CHANNEL</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="yt">
-<h3>HEMASN+WORDPRESS</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/KwPHDwF8HtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="yt">
-<h3>HEMASN</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/DBxPvraakQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="yt">
-<h3>SAP</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/fqhsD0i4PS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	
 <div class="yt">
-<h3>CLOUDS</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/-49fwbsFe_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	
 <div class="yt">
-<h3>FEAR</h3>
 <iframe width="400" height="200" src="https://www.youtube.com/embed/x05ibXMXBLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	
 <div class="yt">
-<h3>REACH</h3>
+
 <iframe width="400" height="200" src="https://www.youtube.com/embed/e1PylBR1flU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 	

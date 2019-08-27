@@ -15,12 +15,12 @@
 		<section id="contenu-accueil">
 			<article>
 				<h1>HELLOWORLD</h1>
-				<h2>Digital Designer</h2>
-				<span class="voir-portfolio"><a href="portfolio.php">click.</a></span>
 			</article>
 		</section>
 		
 </header>
+
+<br>
 
    <div id="slide-accueil">
 	<div id="cbp-fwslider" class="cbp-fwslider">
@@ -36,8 +36,9 @@
     </div>
    </div>
 
+<h2>Digital Design</h2>
 
-<h1>Video project example</h1>
+<h1>Project example</h1>
 
 <div id="contener">
 
@@ -73,7 +74,7 @@
         <script src="js2/materials/liquidDistortMaterial.js"></script>
 		<script src="js2/imagesloaded.pkgd.min.js"></script>
 		<script src="js2/demo2.js"></script>
-    
+</div>  
 
 <!-- //////  Options du slider d'images -->
 <script src="js/jquery.cbpFWSlider.min.js"></script>
@@ -83,10 +84,6 @@
 		$( '#cbp-fwslider' ).cbpFWSlider('interval');
 		} );
 </script>
-	
-</div>
-
-<div class="clearboth"></div>
 
 <?php		
 	include 'footer.php';

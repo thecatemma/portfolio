@@ -463,7 +463,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 	transition:0.5s;
 	background:url(images/1x/heart-2.png) no-repeat 0 3px;
 	font-weight:700px;
-	padding-left:35px;
+	padding-left:48px;
 }
 
 .voir-portfolio a:hover {
