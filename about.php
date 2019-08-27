@@ -12,6 +12,12 @@
     
 <br>
 
+<div class="img">
+<img src="images/profile.png" height="150" alt="Profile">
+</div>    
+ 
+<br>
+    
  <section id="CV">
 
 	<h1>EDUCATION</h1>
