@@ -56,12 +56,9 @@ SAP a tardé avant de s'orienter vers le marché des PME.<br>
 <h2>Présentation de votre mission</h2><br>
 Des stakeholders, notamment les Product Owners et Product Experts nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketch. Les product owners utilisent UML. <br>
 
-    <!--<img id="uml" src="images/UML.svg" width="50%" alt="UML"> <br>-->
-
 Pour cela nous avions des réunions afin de discuter sur quoi faire pour la suite, parfois in English.<br>
 
-Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog.<br>
-3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>
+Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog. 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>
 	
 <br>
     

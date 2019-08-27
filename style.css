@@ -25,6 +25,7 @@ Description: Portfolio.
 .css {width: 85%; background-color: rebeccapurple;color: white;}
 .jss {width: 40%; background-color: mistyrose;}
 .php {width: 25%; background-color: rosybrown;color: white;}
+.node {width: 2%; background-color: midnightblue;color: white;}
 
 .img:hover {
   animation: shake 0.5s;

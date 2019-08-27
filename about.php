@@ -74,6 +74,11 @@
 <div class="lala">
   <div class="skills php">25%</div>
 </div>
+     
+<p>NODE</p>
+<div class="lala">
+  <div class="skills node">1%</div>
+</div>
 	
 <h1>EXPERIENCE</h1>
 <h3>Three internships<br>

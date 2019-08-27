@@ -2,7 +2,7 @@
 	<div id="footer-top">
 	 <ul>
 	  <li><div class="titre-footer">PORT<b>FOLIO</b></div></li>
-	  <li><p>Emmanuelle Husson, est née passionnée par l'Art, la création et le Design. Elle pense que l'humain ne doit créer que s'il arrive à hauteur de la nature en terme d'esthétisme. La nature n'a pas besoin de lui, elle se créée seule. 
+	  <li><p>Emmanuelle Husson, est née passionnée par l'Art, la création et le Design. Elle pense que l'humain ne doit créer que s'il arrive à hauteur de la nature en terme d'esthétisme. La nature n'a pas besoin de lui, elle se crée seule. 
 	<br> Après exploration en informatique, elle souhaite poursuivre sa réalisation de projets artistiques.</p></li>
 	 </ul>
 		
