@@ -3,7 +3,7 @@ Theme Name: Mon Portfolio
 Theme URI: https://hemasn.com
 Author: Hemasn
 Author URI: https://hemasn.com
-Description: Portfolio.
+Description: Portfolio
 */
 
 /* LABELS */
@@ -46,7 +46,6 @@ Description: Portfolio.
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
-
 /*-- Flip box Page Portfolio --*/
 .flip-box {
   background-color: transparent;
@@ -55,7 +54,6 @@ Description: Portfolio.
   perspective: 1000px; /* 3D effect */
   display: flex;
   justify-content: center;
-  
 }
 
 /* This container is needed to position the front and back side */
@@ -110,6 +108,7 @@ Description: Portfolio.
    overflow: hidden;
    padding: 5px;
 }
+
 .ui-switch-range{
    background: #FFF;
    border: 1px #cfc8bc solid;
@@ -122,9 +121,11 @@ Description: Portfolio.
    position: relative;
    width: 70px;
 }
+
 .switch:checked ~ label .ui-switch-range{
    background: -webkit-linear-gradient(top,grey,white);
 }
+
 .ui-switch-handle{
    background: -webkit-linear-gradient(top,#f7f5f2,#e3dfd6);
    border-radius: 20px;
@@ -134,21 +135,23 @@ Description: Portfolio.
    position: absolute;
    width: 20px;
 }
+
 .switch:checked ~ label .ui-switch-handle{
    right: 2px;
 }
+
 .ui-switch-handle:before{
    margin-left: -30px;
    line-height: 22px;
    content: "ON";
    color: #FFF;
 }
+
 .ui-switch-handle:after{
    position: relative;
    right: -35px;
    content: "OFF";
 }
-
 
 /*-- Boutons j'aime--*/	
 
@@ -212,33 +215,6 @@ a.jaime-a-voter:hover {
 #menu li:last-child	{
 	margin-right:0px;
 }
-
-/* --
-#menu li a	{
-	padding:10px;
-	color:rgb(50, 77, 93);
-	line-height:1em;
-	text-decoration:none;
-	text-align:right;
-	transition:0.5s;
-}
---*/
-
-/* --
-#menu li a:hover {
-	color:black;
-	background:#eee;
-}
---*/
-
-/* -- 
-	#menu li a.active {
-	color:white;
-	background:blue;
-	padding: 10px;
-}
-
---*/
 
 #menuToggle {
 	display: block;
