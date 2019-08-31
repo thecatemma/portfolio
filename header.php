@@ -14,7 +14,7 @@
       gtag('config', 'UA-143357752-1');
     </script>
     
-    sécuriser mon site --> google videos
+    sécuriser mon site --> google videos --> enlever les http sans S et commencer par un slash
 
 	<meta charset="UTF-8" />
 	<title>HEMASN : Mon Portfolio</title>
