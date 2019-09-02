@@ -55,7 +55,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
 </head>
     
-    sécuriser mon site --> google videos --> enlever les http sans S et commencer par un slash
+  <!--  sécuriser mon site  google videos enlever les http sans S et commencer par un slash -->
 	
 <body>
 <div id="header"> </div>
@@ -81,7 +81,6 @@
 			 </div>	
 
 		</div>
-		
 		
 		<nav id="menu">
 			<div id="menuToggle">
