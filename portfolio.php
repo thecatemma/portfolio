@@ -52,7 +52,6 @@ SAP a tardé avant de s'orienter vers le marché des PME.<br>
 <br>
 	
 <h1>MISSION</h1>
-		
 <h2>Présentation de votre mission</h2><br>
 Des stakeholders, notamment les Product Owners et Product Experts nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketch. Les product owners utilisent UML. <br>
 
