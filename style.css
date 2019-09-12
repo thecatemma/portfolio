@@ -19,7 +19,7 @@ Description: Portfolio
 .danger {background-color: #f44336;} /* Red */ 
 .other {background-color: #e7e7e7; color: black;} /* Gray */
 
-/* BARS */
+/* BARS PAGE ABOUT */
 
 .html {width: 90%; background-color: darkseagreen; color: white;}
 .css {width: 85%; background-color: rebeccapurple;color: white;}
@@ -93,64 +93,6 @@ Description: Portfolio
   background-size: 100px 100px;
   height: 200px;
   width: 100%;
-}
-
-/*-- Bouton Switch --*/
-.switch{
-   display:none;
-}
-.ui-content{
-   background: -webkit-linear-gradient(top,#dedede,#fefefe);
-   border-radius: 20px;
-   display: inline-block;
-   float: right;
-   height: 26px;
-   overflow: hidden;
-   padding: 5px;
-}
-
-.ui-switch-range{
-   background: #FFF;
-   border: 1px #cfc8bc solid;
-   border-radius: 15px;
-   box-shadow: 0 1px 1px rgba(255, 255, 255, 1), 0 1px 1px rgba(0, 0, 0, .15) inset;
-   display: inline-block;
-   height: 20px;
-   margin-bottom: 15px;
-   padding: 2px;
-   position: relative;
-   width: 70px;
-}
-
-.switch:checked ~ label .ui-switch-range{
-   background: -webkit-linear-gradient(top,grey,white);
-}
-
-.ui-switch-handle{
-   background: -webkit-linear-gradient(top,#f7f5f2,#e3dfd6);
-   border-radius: 20px;
-   box-shadow: 0 1px 3px 1px rgba(0,0,0,.3), 0 1px 1px rgba(255,255,255,.8) inset;
-   display: inline-block;
-   height: 20px;
-   position: absolute;
-   width: 20px;
-}
-
-.switch:checked ~ label .ui-switch-handle{
-   right: 2px;
-}
-
-.ui-switch-handle:before{
-   margin-left: -30px;
-   line-height: 22px;
-   content: "ON";
-   color: #FFF;
-}
-
-.ui-switch-handle:after{
-   position: relative;
-   right: -35px;
-   content: "OFF";
 }
 
 /*-- Boutons j'aime--*/	
@@ -339,9 +281,31 @@ h2 {
 h3{
 	font-size:16px;
 	/*color:#324d5d;*/
-	font-weight:200;
+	font-weight:100;
 	margin:5px 0px 5px 5px;
 }
+
+h4{
+	font-size:16px;
+	color:#324d5d;
+	font-weight:100;
+	margin:5px 0px 5px 5px;
+}
+
+#p_article {
+    color: mistyrose;
+}
+
+/* -- ARTICLE -- */
+
+#author {
+    border-radius: 16px;
+}
+
+#comment {
+    border-radius: 16px;
+}
+
 
 /* --- COULEUR / SPAN
 .jaune {
@@ -349,6 +313,7 @@ h3{
 	opacity: 0.5;
 }
 ---*/
+
 /* --- MARGIN / PADDING --- */
 
 #conteneur {
@@ -419,7 +384,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 
 #logo {
 	float:left;
-	font-size:33px;
+	font-size:32px;
 	color: mistyrose;
 }
 
@@ -555,7 +520,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 .cbp-fwslider nav span:hover {
-	background: lightgrey;
+	background: #99a3bb;
 	color: #fff;
 }
 
@@ -715,6 +680,10 @@ input[type="submit"]:hover     {opacity:0.5;} */
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
+.serieDWC {
+    border-radius: 100px;
+}
+
 /* --- PAGE ABOUT --- */
 
 #CV h1 {
@@ -857,7 +826,7 @@ form {
 #footer-top	a img               {transition: opacity .4s;}
 #footer-top	a img:hover         {opacity 0.5}
 
-.titre-footer					{width: 100%;font-size:33px;margin-bottom:30px;color: #fff;}
+.titre-footer					{width: 100%;font-size:24px;margin-bottom:30px;color: #fff;}
 
 #footer2						{width:100%; height:140px; background-color:;color: #dfdfdd;}
 #footer-bottom {
@@ -927,20 +896,15 @@ form {
     margin: 0px;
     padding-right: 5px;
     padding-left: 5px;
-}
-	
+}	
 }
 
 /*--
-
 @media screen and (max-width:1025px) {
 #conteneur, #slide-accueil, #footer, #footer-top, #footer2              {width:1024px;}
 #header-accueil, #header, #header-top, #header-accueil, #footer-bottom  {width:1000px;}
 }
 
---*/
-
-/*--
 @media screen and (max-width:600px) {
 #conteneur, #slide-accueil, #footer, #footer-top, #footer2              {width:590px;}
 #header-accueil, #header, #header-top, #header-accueil, #footer-bottom  {width:590px;}

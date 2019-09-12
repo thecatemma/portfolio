@@ -192,22 +192,23 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 <br>	
 <br>
 <h2>Logo Data Warehouse Cloud</h2>
+<br>
 
     <div id="contener">
         <div class="photos_serie">
-        <img src="images/sap_30.png" class="serie" width="200" alt="Proposal 1">
+        <img src="images/sap_30.png" class="serieDWC" width="200" alt="Proposal 1">
         </div>
 
         <div class="photos_serie">
-        <img src="images/sap_31.png" class="serie" width="200" alt="Proposal 2">
+        <img src="images/sap_31.png" class="serieDWC" width="200" alt="Proposal 2">
         </div>
 
         <div class="photos_serie">
-        <img src="images/sap_32.png" class="serie" width="200" alt="Proposal 3">
+        <img src="images/sap_32.png" class="serieDWC" width="200" alt="Proposal 3">
         </div>
 
         <div class="photos_serie">
-        <img src="images/sap_33.png" class="serie" width="200" alt="Proposal 4">
+        <img src="images/sap_33.png" class="serieDWC" width="200" alt="Proposal 4">
         </div>
     </div>
     
@@ -273,7 +274,9 @@ Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être év
 </p>
 
 <h1>Scroll for articles</h1>
+<br>
 <h2> Day by Day at SAP </h2>
+<br>
 <?php include('./index-articles.php'); ?>
 
 </div>

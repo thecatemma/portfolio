@@ -65,7 +65,7 @@ else
 
 <!--- ARTICLE CONTENT --->
 		
-			<p><?= $article->content ?></p>
+			<p id="p_article"><?= $article->content ?></p>
 			<hr />
 
 			<?php
@@ -82,7 +82,7 @@ else
 
 			<form action="article.php?id=<?= $article->id ?>" method="post">
 				<p> <label for="author">Pseudo :</label> <br />
-				<input type="text" name="author" id="auhor" value="<?php if(isset($author)) echo $author ?>"/> </p>
+				<input type="text" name="author" id="author" value="<?php if(isset($author)) echo $author ?>"/> </p>
 				<p> <Label for="comment">Commentaire :</Label> <br />
 				<textarea name="comment" id="comment" cols="30" rows="5"><?php if(isset($comment)) echo $comment ?></textarea> </p>
 				<button type="submit">Envoyer</button>

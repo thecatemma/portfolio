@@ -107,7 +107,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	 <p><input type="submit" name="submit" class="btn-success" value="Envoyer" /></p>
   </form>
     
-  <a href=""https://www.youtube.com/channel/UCHQyXitCjlQQrSXQCB-fn0w?""><i class="fa fa-youtube"></i></a> 
+  <a href="https://www.youtube.com/channel/UCHQyXitCjlQQrSXQCB-fn0w?"><i class="fa fa-youtube"></i></a> 
   <a href="https://www.behance.net/hussonemmad23e"><i class="fa fa-behance"></i></a> 
   <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/"><i class="fa fa-linkedin"></i></a> 
   <a href="https://www.facebook.com/emmanuelle.husson"><i class="fa fa-facebook"></i></a>
@@ -120,7 +120,6 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <br>
 
 <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
-
 
 <br>
 

@@ -15,7 +15,7 @@ $articles = getArticles();
    <?php foreach($articles as $article): ?>
 
 	<a id="article_bdd" href="article.php? id=<?= $article->id ?>"> 
-		<h3><?= $article->title ?></h3>
+		<h4><?= $article->title ?></h4>
 	</a>
 						
 		<?php endforeach; ?>
