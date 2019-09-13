@@ -60,8 +60,7 @@ else
 <!--- ARTICLE Individuel - Liste --->
 		
 			<h1><?= $article->title ?></h1>
-			<time><?= $article->date ?></time>
-		 	
+			<time><?= $article->date ?></time>		 	
 
 <!--- ARTICLE CONTENT --->
 		
