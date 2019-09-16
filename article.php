@@ -63,7 +63,7 @@ else
 			<time><?= $article->date ?></time>		 	
 
 <!--- ARTICLE CONTENT --->
-		
+          
 			<p id="p_article"><?= $article->content ?></p>
 			<hr />
 
