@@ -41,7 +41,6 @@
 			<li><a href="contact.php">Contact</a></li>
 			<!--<li><a href="#">Mentions légales</a> | </li>-->
 		</ul>
-		
 	</div>
 </footer>
 
