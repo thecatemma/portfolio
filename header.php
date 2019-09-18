@@ -71,7 +71,6 @@
 					
 					<a id="lock" href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
 
-
 					<div id="social">				
 						<a href="https://www.facebook.com/emmanuelle.husson" title="facebook"><img src="images/header-facebook.png" alt="Facebook"></a>
 						<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
@@ -99,5 +98,3 @@
 				
 			</div>
 		</nav>
-		
-		<div class="clearboth"></div>
