@@ -17,7 +17,7 @@ else
 		extract($_POST);
 		$errors = array();
 		
-		$author = strip_tags($author); //strip_tags essaie de renvoyer une chaîne avec tous les octets NULL
+		$author = strip_tags($author); //strip_tags essaie de renvoyer une chaîne avec tous les octets NULL - enlève les tags html
 		$comment = strip_tags($comment);
 		
 		if(empty($author))
@@ -53,8 +53,7 @@ else
 	</head>
 	
 	<body>
-	
-		
+			
 	  <div class="container">
 		  
 <!--- ARTICLE Individuel - Liste --->

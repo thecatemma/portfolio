@@ -90,7 +90,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <div id="formulaire">
 
  <h2 id="post_comment">Contact Me</h2>
-
+    
   <form method="post" action="mail.php">
 	  
     <p><label for="Name" id="author">Name</label> <br />
