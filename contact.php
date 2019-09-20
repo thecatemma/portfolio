@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
   } else {
     if ($_POST['captcha']!=4) {
       $nombreErreur++;
-      $erreur7 = '<p>Désolé, le captcha anti-spam est erroné.</p>';
+      $erreur7 = '<p>Désolé, le captcha anti-spam est erroné</p>';
     }
   }
   
@@ -88,9 +88,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	</header>
 
 <div id="formulaire">
-
- <h2 id="post_comment">Contact Me</h2>
-    
+ <h2 id="post_comment">Contact Me</h2>   
   <form method="post" action="mail.php">
 	  
     <p><label for="Name" id="author">Name</label> <br />
