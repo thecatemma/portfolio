@@ -1,5 +1,5 @@
 <?php
-// Affiche la page d'accueil du blog qui liste le titre et lien cliquable des différents articles
+// Affiche la page d'accueil qui liste le titre et lien cliquable des différents articles
 
 error_reporting(E_ERROR | E_WARNING | E_PARSE);
 

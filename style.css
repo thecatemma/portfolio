@@ -728,6 +728,10 @@ tr {
 	margin: 0;
 }
 
+.map {
+    text-align: center;
+}
+
 /* --- FORMULAIRE --- */
 
 form { 

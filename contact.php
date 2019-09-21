@@ -66,7 +66,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
     @mail($destinataire, $sujet, $contenu, $headers); // Fonction principale qui envoi l'email
     
     echo '<h2>Message envoyé!</h2>'; // Afficher un message pour indiquer que le message a été envoyé
-  } else { // S'il y a un moins une erreur
+  } else { // S'il y a an moins une erreur
     echo '<div style="border:1px solid #ff0000; padding:5px;">';
     echo '<p style="color:#ff0000;">Désolé, il y a eu '.$nombreErreur.' erreur(s). Voici le détail des erreurs:</p>';
     if (isset($erreur1)) echo '<p>'.$erreur1.'</p>';
@@ -82,13 +82,13 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1>inbox</h1>
+				<h1>Inbox</h1>
 			</article>
 		</section>
 	</header>
 
 <div id="formulaire">
- <h2 id="post_comment">Contact Me</h2>   
+ <h2 id="post_comment">Contact</h2>   
   <form method="post" action="mail.php">
 	  
     <p><label for="Name" id="author">Name</label> <br />
@@ -116,6 +116,8 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <br>
 <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
 <br>
+
+<img src="images/map.png" class="map">
 
 </div>
 
