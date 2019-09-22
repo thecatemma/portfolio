@@ -14,12 +14,13 @@ Description: Portfolio
 }
 
 .links {
+    margin: 10px;
     padding: 10px;
-    background-color: rgba(0, 0, 25, 0.3);
+    background-color: rgba(0, 0, 25, 0.6);
     display: flex;
-    -webkit-box-shadow: 10px 10px 0px 0px rgba(255,255,255,1);
-    -moz-box-shadow: 10px 10px 0px 0px rgba(255,255,255,1);
-    box-shadow: 10px 10px 0px 0px rgba(255,255,255,1);
+    -webkit-box-shadow: 10px 10px 0px 0px rgba(255,255,255,0.9);
+    -moz-box-shadow: 10px 10px 0px 0px rgba(255,255,255,0.9);
+    box-shadow: 10px 10px 0px 0px rgba(255,255,255,0.9);
 }
 
 .rs {

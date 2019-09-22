@@ -10,9 +10,9 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'UA-143357752-1');
     </script>
+<!-- CHARSET -->   
 	<meta charset="UTF-8" />
 	<title>HEMASN : Mon Portfolio</title>
     <meta name="description" content="HEMASN, portfolio, dessins, UX Design, Code">
@@ -75,6 +75,8 @@
                         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-facebook" alt="Facebook"></i></a>
                         <a href="https://github.com/thecatemma" class="rs" title="Github"><i class="fa fa-github" alt="GitHub"></i></a>
                         <a href="https://www.behance.net/hussonemmad23e" class="rs" title="Behance"><i class="fa fa-behance" alt="Behance"></i></a>
+                        <a href="https://www.youtube.com/channel/UCHQyXitCjlQQrSXQCB-fn0w?" class="rs"><i class="fa fa-youtube"></i></a>
+                        <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs"><i class="fa fa-linkedin"></i></a>
 					</div>
 			    </div>
 			 </div>	

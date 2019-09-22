@@ -104,8 +104,11 @@
 <h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2><br>
 </div>
 
-<br>
+    
 </div>	
+
+<br>
+
 </div>
 	
 </div>	
