@@ -9,7 +9,7 @@
 	 <ul>
 	  <li><div class="titre-footer">Hiring</div></li>
 	  <li><p>UIUX<br/>Design<br/>Analytic Drawing<br/>Art Direction<br/>Code</p></li>
-	  <li><p>In french: Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne. . . & France</p></li>
+	  <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne. . . & France</p></li>
 	 </ul>	
 		
 		 <ul>

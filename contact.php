@@ -82,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1>Inbox</h1>
+				<h1>Inbox : </h1>
 			</article>
 		</section>
 	</header>
@@ -100,7 +100,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	<p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
     <textarea name="message" id="message" cols="8" rows="5"></textarea></p>
     
-	<p>Combien font 1+3 <span class="etoile">*</span> <input type="text" name="captcha" size="3" /></p>
+	<p>Combien font 1+3 <span class="etoile">*</span> <input type="text" id="captcha" name="captcha" size="3" /></p>
     
 	 <p><input type="submit" name="submit" class="btn-success" value="Envoyer" /></p>
   </form>
@@ -117,8 +117,13 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
 <br>
 
-<img src="images/map.png" class="map">
+<br>
+<br>
 
+<img src="images/map.png" id="world">
+
+<br>
+<br>
 </div>
 
 <?php		

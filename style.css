@@ -6,6 +6,27 @@ Author URI: https://hemasn.com
 Description: Portfolio
 */
 
+
+.contain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.links {
+    padding: 10px;
+    background-color: rgba(0, 0, 25, 0.3);
+    display: flex;
+    -webkit-box-shadow: 10px 10px 0px 0px rgba(255,255,255,1);
+    -moz-box-shadow: 10px 10px 0px 0px rgba(255,255,255,1);
+    box-shadow: 10px 10px 0px 0px rgba(255,255,255,1);
+}
+
+.rs {
+    padding: 8px;
+    font-size: 24px !important;
+}
+
 /* LABELS */
 .label {
   color: white;
@@ -320,8 +341,8 @@ h4{
 	min-height: 100%; 
 	position: relative;
 	margin: 0px;
-	padding-right: 45px;
-	padding-left: 45px;
+	padding-right: 3%;
+	padding-left: 3%;
 }
 
 /* --- HEADER ---*/
@@ -723,13 +744,22 @@ tr {
 
 #map {
 	width: 95%;
-	border: 10px dotted white;
+    display: block;
 	text-align: center;
-	margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 10px;
+    border: 10px dotted #99a3bb;
 }
 
-.map {
+#world {
+    width: 50%;
     text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-width: 10px;
 }
 
 /* --- FORMULAIRE --- */
@@ -784,6 +814,12 @@ form {
 	background-color: #2b313e;
 }
 
+#captcha {
+    background-color: rgb(43, 49, 62);
+    border-radius: 3px;
+    border-color: lightblue;
+}
+
 .btn-success {
 	border-color: rosybrown;
 	border-radius: 3px;
@@ -808,8 +844,8 @@ form {
 #footer-top	{
 	margin:auto;
 	height:auto;
-	padding-top:30px;
-	padding-bottom:30px;
+	padding-top:3%;
+	padding-bottom:3%;
     box-sizing: border-box;
     left: 0;
 }
@@ -922,7 +958,7 @@ form {
 }
 
 @media screen and (max-width: 640px) {
-	
+
 aside{
     display:none;
 }

@@ -72,9 +72,9 @@
 					<a id="lock" href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
 
 					<div id="social">				
-						<a href="https://www.facebook.com/emmanuelle.husson" title="facebook"><img src="images/header-facebook.png" alt="Facebook"></a>
-						<a href="https://github.com/thecatemma" title="Github"><img src="images/header-github.png" alt="Mon GitHub"></a>
-						<a id="behance" href="https://www.behance.net/hussonemmad23e" title="Behance+"><img src="images/header-behance.png" alt="Behance"></a>
+                        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-facebook" alt="Facebook"></i></a>
+                        <a href="https://github.com/thecatemma" class="rs" title="Github"><i class="fa fa-github" alt="GitHub"></i></a>
+                        <a href="https://www.behance.net/hussonemmad23e" class="rs" title="Behance"><i class="fa fa-behance" alt="Behance"></i></a>
 					</div>
 			    </div>
 			 </div>	

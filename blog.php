@@ -81,15 +81,28 @@
 
 <h1>OTHER</h1>
 
-
 <br>
-
+<div class="contain">
+    
+<div class="links">
 <h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2><br>
-<h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2><br>
-<h2><img src="images/picto-graphic.png"> <a href="http://hemasn.000webhostapp.com/purple/purple.html" target="_blank">Landing Page</a></h2><br>
-<h2><img src="images/picto-pencil.png"> <a href="" target="_blank">Node.js try</a></h2><br>
-<h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2><br>
+</div>
 
+<div class="links">
+<h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2><br>
+</div>
+
+<div class="links">
+<h2><img src="images/picto-graphic.png"> <a href="http://hemasn.000webhostapp.com/purple/purple.html" target="_blank">Landing Page</a></h2><br>
+</div>
+
+<div class="links">
+<h2><img src="images/picto-pencil.png"> <a href="" target="_blank">Node.js try</a></h2><br>
+</div>
+
+<div class="links">
+<h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2><br>
+</div>
 
 <br>
 </div>	
