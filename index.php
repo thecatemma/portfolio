@@ -44,7 +44,7 @@
 <div id="contener">
 
 <div class="yt">
-<video controls preload="metadata" height="300px">
+<video controls preload="metadata" height="250px">
 <source src="images/HomePage.mp4">
 </video>
 </div>
