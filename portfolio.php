@@ -254,6 +254,30 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
     
 <h2>Sketchings EBC</h2>
     
+    
+    <div id="contener">
+        <div class="photos_serie">
+        <img src="images/EBC1.png" width="200" alt="Proposal 1">
+        </div>
+
+        <div class="photos_serie">
+        <img src="images/EBC2.png" width="200" alt="Proposal 2">
+        </div>
+
+        <div class="photos_serie">
+        <img src="images/EBC4.png" width="200" alt="Proposal 3">
+        </div>
+
+        <div class="photos_serie">
+        <img src="images/EBC5.png" width="200" alt="Proposal 4">
+        </div>
+        
+        <div class="photos_serie">
+        <img src="images/EBC6.png" width="200" alt="Proposal 4">
+        </div>
+    </div>
+    
+    
 <h1>Bilan et perspectives</h1><br>
 <h2>Results</h2> <br>
     
