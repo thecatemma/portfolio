@@ -103,9 +103,10 @@
 <div class="links">
 <h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2><br>
 </div>
-
-    
+        
 </div>	
+
+<a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-graduation-cap" alt="Facebook"></i></a>
 
 <br>
 
