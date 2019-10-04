@@ -30,7 +30,10 @@
 		2013/2014<br>Foundation Year in Applied Arts MANAA<br>
 	</h3>
 
-	<h1>TOOLS</h1>
+	<h1>TOOLS
+        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-mouse-pointer" alt="Sketch"></i></a>
+        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-sketch" alt="Sketch"></i></a>
+    </h1>
 
 	<table>
 		<tr>
@@ -60,7 +63,11 @@
 
 	</table><br>
      
-<h1>SKILLS</h1>
+     <h1>SKILLS
+         
+        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-bookmark" alt="Facebook"></i></a>
+     
+     </h1>
 
 <p>HTML</p>
 <div class="lala">
@@ -87,18 +94,34 @@
   <div class="skills node">1%</div>
 </div>
 	
-<h1>EXPERIENCE</h1>
+     <h1>EXPERIENCE
+         
+        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-cat" alt="Facebook"></i></a>
+         
+     </h1>
 <h3>Three internships<br>
 Free-lance<br>Projects<br>Life<br></h3> <span class="voir-portfolio"><a href="portfolio.php"></a></span> <br>
 
-<h1>INTERESTS</h1>
-<h3>Travels <br> Environment <br> Nature</h3>
+     <h1>INTERESTS
+         
+         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-heartbeat" alt="Facebook"></i></a>        
+         
+     </h1>
+        <h3>Travels <br> Environment <br> Nature</h3>
 
-<h1>LANGUAGES</h1>
-<h3>French<br>English<br>++</h3>
+     <h1>LANGUAGES
+         
+          <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="comment"><i class="fa fa-comment" alt="Comment"></i></a>         
+         
+     </h1>
+        <h3>French<br>English<br>++</h3>
 	 
 	<section id="client-acc">
-	  <h1>ON BOARD</h1>
+	  <h1>ON BOARD
+          
+         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="eye"><i class="fa fa-eye" alt="Eye"></i></a> 
+        
+      </h1>
 		
 		<div class="slider5">
 			<div class="slide"><img src="images/carrousel_1.jpg" alt="Vue"></div>

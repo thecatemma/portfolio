@@ -106,8 +106,6 @@
         
 </div>	
 
-<a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-graduation-cap" alt="Facebook"></i></a>
-
 <br>
 
 </div>
