@@ -33,7 +33,7 @@
     <script type="text/javascript" src="jquery-1.4.4.js"></script>
 	<script type="text/javascript" src="jaime.js"></script>
 <!-- Bibliothèque Ajax pour les icônes -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 <!-- Bibliothèque JS conçue pour détecter fonctionnalités spécifiques de HTML et CSS dans les navigateurs -->
 	<script src="js/modernizr.custom.js"></script>
 <!-- Librairie JQUERY -->
