@@ -6,10 +6,12 @@
       <div id="Infos">
   		<div>
     	<img src="images/emma.jpg" alt="profile_photo">
-		 <h3><b>HE</b>MASN</h3>
+		 <h3><b>HE</b>MASN
+         </h3>
     	  <p>Welcome ! <br> I'm Emmanuelle, <br> A countryside's cat <br> Find here informations about me</p>
   		</div>
-   		 <a><span class="glyphicon glyphicon-plus"></span>+</a>
+   		 <!--a><span class="glyphicon glyphicon-plus"></span>+</a-->
+         <a><i class="fa fa-cat" alt="cat"></i></a> 
 	  </div>
 		
 		<section id="contenu-accueil">

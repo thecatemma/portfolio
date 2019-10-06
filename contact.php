@@ -82,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 ?>
 		<section id="contenu-accueil">
 			<article>
-				<h1>Inbox : </h1>
+				<h1>Inbox</h1>
 			</article>
 		</section>
 	</header>
@@ -104,13 +104,6 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
     
 	 <p><input type="submit" name="submit" class="btn-success" value="Envoyer" /></p>
   </form>
-    
-  <a href="https://www.youtube.com/channel/UCHQyXitCjlQQrSXQCB-fn0w?"><i class="fa fa-youtube"></i></a> 
-  <a href="https://www.behance.net/hussonemmad23e"><i class="fa fa-behance"></i></a> 
-  <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/"><i class="fa fa-linkedin"></i></a> 
-  <a href="https://www.facebook.com/emmanuelle.husson"><i class="fa fa-facebook"></i></a>
-  <a href="https://github.com/thecatemma"><i class="fa fa-github"></i></a>
-	
 </div>
 
 <br>

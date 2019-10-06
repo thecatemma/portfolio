@@ -31,8 +31,7 @@
 	</h3>
 
 	<h1>TOOLS
-        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-mouse-pointer" alt="Sketch"></i></a>
-        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-sketch" alt="Sketch"></i></a>
+        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-mouse-pointer" alt="Mouse"></i></a>
     </h1>
 
 	<table>
