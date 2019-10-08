@@ -87,7 +87,9 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 		</section>
 	</header>
 
-<div id="formulaire">
+
+
+<div id="formulaire" oui>
  <h2 id="post_comment">Contact</h2>   
   <form method="post" action="mail.php">
 	  
