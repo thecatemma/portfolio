@@ -247,8 +247,7 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
     
 <br>
 <br>
-<br>
-    
+   
 <h2>Sketchings EBC</h2>
     
     
