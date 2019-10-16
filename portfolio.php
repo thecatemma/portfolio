@@ -307,16 +307,16 @@ Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée d
 Je suis très heureuse d'avoir participé à cette aventure !<br>
 </p>
 
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <h2>Hemasn</h2>
-    </div>
-    <div class="flip-box-back">
-      <h2>Thanks</h2>
-    </div>
-  </div>
-</div>	
+    <div class="flip-box">
+      <div class="flip-box-inner">
+        <div class="flip-box-front">
+          <h2>Hemasn</h2>
+        </div>
+        <div class="flip-box-back">
+          <h2>Thanks</h2>
+        </div>
+      </div>
+    </div>	
 
 </div>
 </div>
