@@ -297,7 +297,6 @@ Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être év
 <h2> Day by Day at SAP </h2>
 <br>
 <?php include('./index-articles.php'); ?>
-
 </div>
 
 <h1>Remerciements</h1><br>
