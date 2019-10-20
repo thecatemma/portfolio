@@ -122,63 +122,63 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
 <div id="contener">
     
     <div class="photos_serie">
-    <h3>Assia's drawing</h3>
-    <img src="images/sap_1.png" class="serie" height="250" alt="Dessin Assia équipe">
+        <h3>Assia's drawing</h3>
+            <img src="images/sap_1.png" class="serie" height="250" alt="Dessin Assia équipe">
     </div>
 
     <div class="photos_serie">
-    <h3>Hiérarchie</h3>
-    <img src="images/sap-10.png" class="serie" height="250" alt="Organigramme">
+        <h3>Hiérarchie</h3>
+        <img src="images/sap-10.png" class="serie" height="250" alt="Organigramme">
+        </div>
+
+    <div class="photos_serie">
+        <h3>Show & Tell</h3>
+            <img src="images/sap-1.png" class="serie" height="250" alt="Dessin Show and Tell">
     </div>
 
     <div class="photos_serie">
-    <h3>Show & tell</h3>
-    <img src="images/sap-1.png" class="serie" height="250" alt="Dessin Show and Tell">
+        <h3>Les déterminés</h3>
+            <img src="images/sap11.png" class="serie" height="250" alt="Association les Déterminés">
     </div>
 
     <div class="photos_serie">
-    <h3>Les déterminés</h3>
-    <img src="images/sap11.png" class="serie" height="250" alt="Association les Déterminés">
+        <h3>Show & Tell</h3>
+            <img src="images/sap_11.png" class="serie" height="250" alt="Dessin Show and Tell">
     </div>
 
     <div class="photos_serie">
-    <h3>Show&Tell</h3>
-    <img src="images/sap_11.png" class="serie" height="250" alt="Dessin Show and Tell">
+        <h3>SpringBreak</h3>
+            <img src="images/sap_9.png" class="serie" height="250" alt="Concert Petit Bain">
     </div>
 
     <div class="photos_serie">
-    <h3>SpringBreak</h3>
-    <img src="images/sap_9.png" class="serie" height="250" alt="Concert Petit Bain">
+        <h3>On boards</h3>
+            <img src="images/sap_13.png" class="serie" height="250" alt="Partie de réflexion sur les murs">
     </div>
 
     <div class="photos_serie">
-    <h3>On boards</h3>
-    <img src="images/sap_13.png" class="serie" height="250" alt="Partie de réflexion sur les murs">
+        <h3>Conference View</h3>
+            <img src="images/sap_14.png" class="serie" height="250" alt="View vue">
     </div>
 
     <div class="photos_serie">
-    <h3>Conference View</h3>
-    <img src="images/sap_14.png" class="serie" height="250" alt="View vue">
+        <h3>Meeting Room</h3>
+            <img src="images/sap_15.png" class="serie" height="250" alt="Salle de réunion">
     </div>
 
     <div class="photos_serie">
-    <h3>Meeting Room</h3>
-    <img src="images/sap_15.png" class="serie" height="250" alt="Salle de réunion">
+        <h3>Event</h3>
+            <img src="images/sap_16.png" class="serie" height="250" alt="Evènement Paris Event">
     </div>
 
     <div class="photos_serie">
-    <h3>Event</h3>
-    <img src="images/sap_16.png" class="serie" height="250" alt="Evenement Event Paris">
+        <h3>Working Conditions</h3>
+            <img src="images/sap_17.png" class="serie" height="250" alt="Bureau Desk">
     </div>
 
     <div class="photos_serie">
-    <h3>Working Conditions</h3>
-    <img src="images/sap_17.png" class="serie" height="250" alt="Bureau Desk">
-    </div>
-
-    <div class="photos_serie">
-    <h3>Office View</h3>
-    <img src="images/sap_19.png" class="serie" height="250" alt="Vue Tour">
+        <h3>Office View</h3>
+            <img src="images/sap_19.png" class="serie" height="250" alt="Vue Tour">
     </div>
     
 </div>
