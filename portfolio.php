@@ -270,37 +270,37 @@ Le product owner est l'unique responsable de l'actualisation du product backlog,
     
     
 <h1>Bilan et perspectives</h1><br>
-<h2>Results</h2> <br>
+    <h2>Results</h2> <br>
     
-<p id="results_sap">
-L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée. J'ai réalisé les pictos vectoriels juste au dessus qui ont été intégrés.<br>
-Votre plus grande réussite: progresser + finir ce site <br>
-Leçon: réussir à être autonome et rester focus<br>
-Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
-Qu’avez-vous appris équipe, management ? <br>
-- Les émotions qui m'ont le plus frappé, l'humeur de chaque individu varie chaque jour, il faut savoir conjuguer avec cela et petit à petit apprendre à s'affranchir et développer une sérénité intérieure. Plus forte, c'est formateur, montre que lorsque l'on est sûr de ses choix on trouve sa place et le reste suit: il faut fournir du travail perpétuel et être toujours informé sur les dernières news, fun et challenge quotidien. Pour l'alternance je ne sais pas si j'intègre une nouvelle équipe sur le même poste ou si je m'oriente vers quelque chose de plus tech et créa pure.<br>
-</p>
-	
+        <p id="results_sap">
+        L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée. J'ai réalisé les pictos vectoriels juste au dessus qui ont été intégrés.<br>
+        Votre plus grande réussite: progresser + finir ce site <br>
+        Leçon: réussir à être autonome et rester focus<br>
+        Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
+        Qu’avez-vous appris équipe, management ? <br>
+        - Les émotions qui m'ont le plus frappé, l'humeur de chaque individu varie chaque jour, il faut savoir conjuguer avec cela et petit à petit apprendre à s'affranchir et développer une sérénité intérieure. Plus forte, c'est formateur, montre que lorsque l'on est sûr de ses choix on trouve sa place et le reste suit: il faut fournir du travail perpétuel et être toujours informé sur les dernières news, fun et challenge quotidien. Pour l'alternance je ne sais pas si j'intègre une nouvelle équipe sur le même poste ou si je m'oriente vers quelque chose de plus tech et créa pure.</p>
+<br>
+    
 <h1>PROJET</h1>
-<p id="projet_sap">
-Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
-Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise ou ailleurs. <br>
- 
-</p>
+        <p id="projet_sap">
+        Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
+        Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise ou ailleurs.</p>
+
+<br>
 
 <h1>Scroll for articles</h1>
 <br>
-<h2> Day by Day at SAP </h2>
+    <h2> Day by Day at SAP </h2>
 <br>
+    
 <?php include('./index-articles.php'); ?>
 </div>
 
 <h1>Remerciements</h1><br>
-<p id="thanks_sap">
-Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
-Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX Design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
-Je suis très heureuse d'avoir participé à cette aventure !<br>
-</p>
+        <p id="thanks_sap">
+        Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
+        Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX Design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
+        Je suis très heureuse d'avoir participé à cette aventure !<br></p>
 
     <div class="flip-box">
       <div class="flip-box-inner">
