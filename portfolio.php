@@ -189,9 +189,12 @@
  <div class="img">
      <img src="images/Avatar.png" height="300" alt="Avatar Emmanuelle">
  </div>
+    
 <br>	
 <br>
+    
 <h2>Logo Data Warehouse Cloud</h2>
+    
 <br>
 
     <div id="contener">
