@@ -269,7 +269,7 @@ a.jaime-a-voter:hover {
     flex-wrap: wrap;
 }
 
-/*--- CORPS ---*/
+/*--- BODY ---*/
 
 html, body{ 
 	height: 100%;
@@ -294,7 +294,7 @@ a:hover {
 
 .clearboth {clear:both}
 
-/* --- TITRES --- */
+/*--- TITRES ---*/
 
 h1 {
 	font-family: 'Playfair Display SC', serif;
