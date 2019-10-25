@@ -313,7 +313,7 @@ h2 {
 	margin:0px 0px 5px 0px;
 }
 
-h3{
+h3 {
 	font-size:16px;
 	/*color:#324d5d;*/
 	font-weight:100;
@@ -331,7 +331,7 @@ h4{
     color: mistyrose;
 }
 
-/* -- ARTICLE -- */
+/*--- ARTICLE ---*/
 
 #author {
     border-radius: 16px;
@@ -389,12 +389,6 @@ h4{
     margin-right: 10px;
 	margin-left: 30px;
 }
-/* input[type="text"] 	{height: 30px;font-size: 16px;display: inline-block;font-weight: 400;border: none;outline: none;color:#555;padding: 3px;padding-right: 60px;width: 0px; position: absolute;top: 0;right: 0;background: none;z-index: 3;transition: width .4s cubic-bezier(0.000, 0.795, 0.000, 1.000);cursor: pointer;}
-
-input[type="text"]:focus:hover {border-bottom: 1px solid #BBB;}
-input[type="text"]:focus       {width: 	425px;z-index: 1;border-bottom: 1px solid #BBB;cursor: text;}
-input[type="submit"]           {height: 30px;width: 30px;display: inline-block;color:red;float: right;background: url(images/header-loupe.png) center center no-repeat;text-indent: -10000px;border: none;position: absolute;top: 0;right: 0;z-index: 2;cursor: pointer;opacity: 1;cursor: pointer;transition: opacity .4s ease;}
-input[type="submit"]:hover     {opacity:0.5;} */
 
 #social	{
 	float:left;
@@ -423,6 +417,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 #contenu-accueil {
 	width:100%;
 }
+
 .voir-portfolio a {
 	text-decoration:none;
 	font-size:20px;
@@ -442,6 +437,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 /* --- INFOS --- */
+
 #Infos {
 	position: fixed;
 	left: 0;top: 65px;
@@ -490,6 +486,7 @@ input[type="submit"]:hover     {opacity:0.5;} */
 }
 
 /* --- SLIDER --- */
+
 #slide-accueil {
 	/*width:1020%px;*/
 	margin-bottom: 30px;
@@ -872,9 +869,20 @@ form {
 #footer-top	a img               {transition: opacity .4s;}
 #footer-top	a img:hover         {opacity 0.5}
 
-.titre-footer					{width: 100%;font-size:24px;margin-bottom:30px;color: #fff;}
+.titre-footer {
+    width: 100%;
+    font-size:24px;
+    margin-bottom:30px;
+    color: #fff;
+}
 
-#footer2						{width:100%; height:140px; background-color:;color: #dfdfdd;}
+#footer2 {
+    width:100%; 
+    height:140px; 
+    background-color:;
+    color: #dfdfdd;
+}
+
 #footer-bottom {
 	width:100%; 
 	margin: auto; 
@@ -924,7 +932,7 @@ form {
 	margin-left: 50px;
 }
 
-/* --- Media QUERIES --- */
+/* --- Media Queries --- */
 
 @media screen and (min-width: 1440px) {
 	#conteneur {
