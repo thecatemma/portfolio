@@ -223,7 +223,8 @@
 <br>
 <br>
    
-	<section id="client-acc">
+ <section id="client-acc">
+     
 		<div class="slider5">
 			<div class="slide"><img src="images/picto-1.png"></div>
   			<div class="slide"><img src="images/picto-2.png"></div>
@@ -233,20 +234,21 @@
             <div class="slide"><img src="images/picto-6.png"></div>
 		</div>
 		
-	<script>
-		$(document).ready(function(){
-		  $('.slider5').bxSlider({
-			slideWidth: 300,
-			minSlides: 1,
-			maxSlides: 4,
-			moveSlides: 4,
-			slideMargin: 10,
-			preloadImages : 'all',
-			auto:true,
-		  });
-		});
-	</script>
-	</section>	
+        <script>
+            $(document).ready(function(){
+              $('.slider5').bxSlider({
+                slideWidth: 300,
+                minSlides: 1,
+                maxSlides: 4,
+                moveSlides: 4,
+                slideMargin: 10,
+                preloadImages : 'all',
+                auto:true,
+              });
+            });
+        </script>
+     
+ </section>	
     
 <br>
 <br>
