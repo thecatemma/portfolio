@@ -19,6 +19,7 @@
     SAP valorise l'esprit d'entreprise, encourage la créativité et construit des relations durables avec ses employés. Une main-d'œuvre diversifiée et inclusive leur permet de rester concurrentiels et offrir des opportunités. Ils transforment les industries, développent l’économie, élevent les sociétés et préservent leur environnement.<br>
     Entreprise leader du logiciel informatique, c'est une structure qui comptabilise environ 2000 collaborateurs sur le site sur lequel je suis, elle offre des services aux industries afin de les aider dans leur activité <br> 
     Valeurs: transparence, sérieux, fiabilité... <br>
+    </p>
     
 <p><a href="#" title="Intro" class="jaime">J&rsquo;aime</a></p>
 	
