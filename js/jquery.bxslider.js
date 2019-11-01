@@ -1,12 +1,3 @@
-/**
- * BxSlider v4.1.1 - Fully loaded, responsive slider
- * http://bxslider.com
- *
- * Copyright 2013, Steven Wanderski - http://stevenwanderski.com - http://bxcreative.com
- *
- * Released under the MIT license - http://opensource.org/licenses/MIT
- */
-
 ;(function($){
 
 	var plugin = {};
@@ -104,7 +95,6 @@
 		// first get the original window dimens (thanks alot IE)
 		var windowWidth = $(window).width();
 		var windowHeight = $(window).height();
-
 
 
 		/**

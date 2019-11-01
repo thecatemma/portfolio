@@ -11,7 +11,7 @@
         <h1 class="page-title">
          <i class="fa fa-exclamation-triangle"></i> <?php esc_html_e('Oops! That page can&rsquo;t be found.', ''); ?>
         </h1>
-      </header><!-- .page-header -->
+      </header>
 
      <div class="page-content">
        <p><?php esc_html_e('It looks like nothing was found at this location. Maybe try one of the links below or a search?', ''); ?></p>
@@ -24,9 +24,7 @@
  </main>
 </div>
 
-<?php get_footer(); ?>
 
 <?php		
 	include 'footer.php';
-
 ?>
