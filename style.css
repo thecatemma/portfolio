@@ -339,6 +339,8 @@ h4{
 
 #comment {
     border-radius: 16px;
+    border-color: lightblue;
+    background-color: #2b313e;
 }
 
 /* --- MARGIN / PADDING --- */

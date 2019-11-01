@@ -92,7 +92,7 @@ else
                 
 			</form>
 
-			<h2>Liste des Commentaires :</h2>
+			<h2>Liste des Commentaires</h2>
 
 			<?php foreach($comments as $com): ?>
 				<h5><?= $com->author ?><time><?= $com->date ?></time></h5>
