@@ -1,9 +1,6 @@
-<?php
-/**
- * The template for displaying 404 pages (not found).
- */
+<?php		
+	include 'header.php';
 
-get_header();
 ?>
 
 <div id="primary" class="content-area">
@@ -21,10 +18,15 @@ get_header();
 
         <br>
         <br>
-           </div><!-- .page-content -->
-        </section><!-- .error-404 -->
+           </div>
+        </section>
     </div>
- </main><!-- #main -->
-</div><!-- #primary -->
+ </main>
+</div>
 
 <?php get_footer(); ?>
+
+<?php		
+	include 'footer.php';
+
+?>
