@@ -13,7 +13,7 @@
     <div id="contener">
 
         <div class="yt">
-            <iframe  class="size_frame" width="400" height="200" src="https://www.youtube.com/embed/C9dP2YIgNRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="400" height="200" src="https://www.youtube.com/embed/C9dP2YIgNRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
         <div class="yt">

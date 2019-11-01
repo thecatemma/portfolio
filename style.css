@@ -489,14 +489,12 @@ h4{
 /* --- SLIDER --- */
 
 #slide-accueil {
-	/*width:1020%px;*/
 	margin-bottom: 30px;
 	text-align: center
 }
 
 .cbp-fwslider {
 	position: relative;
-	/*margin: 0 0 10px;*/
 	overflow: hidden;
 }
 
