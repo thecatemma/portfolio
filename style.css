@@ -48,6 +48,7 @@ Description: Portfolio
 .php {width: 25%; background-color: rosybrown;color: white;}
 .node {width: 2%; background-color: midnightblue;color: white;}
 
+/* IMG SHAKE */
 
 .img {
     display: block;
@@ -129,7 +130,7 @@ Description: Portfolio
   width: 100%;
 }
 
-/*-- Boutons j'aime--*/	
+/*-- Bouton j'aime--*/	
 
 a.jaime { 
     display: inline-block; 
@@ -152,12 +153,7 @@ a.jaime-a-voter:hover {
         text-decoration: none; 
 }
 
-/*-- --*/
-
-.nav {
-	font-family: 'Playfair Display SC', serif;
-	color: ghostwhite;
-}
+/*-- FORM --*/
 
 #article_bdd h3 {
 	text-align: center;
@@ -165,6 +161,13 @@ a.jaime-a-voter:hover {
 
 .etoile {
 	color:#ff0000;
+}
+
+/*-- NAVBAR --*/
+
+.nav {
+	font-family: 'Playfair Display SC', serif;
+	color: ghostwhite;
 }
 
 #menu {
@@ -335,6 +338,8 @@ h4{
 
 #author {
     border-radius: 16px;
+    border-color: lightblue;
+    background-color: #2b313e;
 }
 
 #comment {
