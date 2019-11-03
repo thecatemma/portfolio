@@ -10,7 +10,7 @@
 	</header>
 
 <div id="conteneur">
-
+    
     <p id="texte_sap">
         Mes dates de contrat de stage étaient du 18 février au 17 août, à Levallois. <br>
         Les missions qui m'ont été confiées: travailler sur le design d'une interface d'un produit nommé Smart Predict. <br>
@@ -21,7 +21,7 @@
         Valeurs: transparence, sérieux, fiabilité... <br>
     </p>
     
-<p><a href="#" title="Intro" class="jaime">J&rsquo;aime</a></p>
+    <p><a href="#" title="Intro" class="jaime">J&rsquo;aime</a></p>
 	
 <h1>SWOT</h1>
 	

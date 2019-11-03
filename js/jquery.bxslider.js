@@ -5,6 +5,7 @@
 	var defaults = {
 
 		// GENERAL
+        
 		mode: 'horizontal',
 		slideSelector: '',
 		infiniteLoop: true,
@@ -25,6 +26,7 @@
 		responsive: true,
 
 		// TOUCH
+        
 		touchEnabled: true,
 		swipeThreshold: 50,
 		oneToOneTouch: true,
@@ -32,6 +34,7 @@
 		preventDefaultSwipeY: false,
 
 		// PAGER
+        
 		pager: true,
 		pagerType: 'full',
 		pagerShortSeparator: ' / ',
@@ -40,6 +43,7 @@
 		pagerCustom: null,
 
 		// CONTROLS
+        
 		controls: true,
 		nextText: 'Next',
 		prevText: 'Prev',
@@ -52,6 +56,7 @@
 		autoControlsSelector: null,
 
 		// AUTO
+        
 		auto: false,
 		pause: 4000,
 		autoStart: true,
@@ -60,12 +65,14 @@
 		autoDelay: 0,
 
 		// CAROUSEL
+        
 		minSlides: 1,
 		maxSlides: 1,
 		moveSlides: 0,
 		slideWidth: 0,
 
 		// CALLBACKS
+        
 		onSliderLoad: function() {},
 		onSlideBefore: function() {},
 		onSlideAfter: function() {},

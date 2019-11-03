@@ -5,13 +5,15 @@
 
       <div id="Infos">
   		<div>
-    	<img src="images/emma.jpg" alt="profile_photo">
-		 <h3><b>HE</b>MASN
-         </h3>
-    	  <p>Welcome ! <br> I'm Emmanuelle, <br> A countryside's cat <br> Find here informations about me</p>
+            <img src="images/emma.jpg" alt="profile_photo">
+            
+             <h3><b>HE</b>MASN</h3>
+            
+              <p>Welcome ! <br> I'm Emmanuelle, <br> A countryside's cat <br> Find here informations about me</p>
   		</div>
-   		 <!--a><span class="glyphicon glyphicon-plus"></span>+</a-->
+          
          <a><i class="fa fa-cat" alt="cat"></i></a> 
+          
 	  </div>
 		
 		<section id="contenu-accueil">
@@ -43,14 +45,14 @@
 
 <h1>Project example</h1>
 
-<div id="contener">
+    <div id="contener">
 
-<div class="yt">
-<video controls preload="metadata" height="250px">
-<source src="images/HomePage.mp4">
-</video>
-</div>
-</div>
+        <div class="yt">
+            <video controls preload="metadata" height="250px">
+            <source src="images/HomePage.mp4">
+            </video>
+        </div>
+    </div>
 
 <br>
 		
@@ -78,9 +80,11 @@
         <script src="js2/materials/liquidDistortMaterial.js"></script>
 		<script src="js2/imagesloaded.pkgd.min.js"></script>
 		<script src="js2/demo2.js"></script>
-</div>  
+</div> 
 
-<!-- //////  Options du slider d'images -->
+
+<!-- Slider -->
+
 <script src="js/jquery.cbpFWSlider.min.js"></script>
 <script>
 	$( function() {
