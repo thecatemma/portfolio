@@ -115,16 +115,16 @@
          
      </h1>
         <h3>French<br>English<br>++</h3>
-     
-     </section>
-	 
-	<section id="client-acc">
         
 	  <h1>ON BOARD
           
          <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="eye"><i class="fa fa-eye" alt="Eye"></i></a> 
         
       </h1>
+     
+     </section>
+        
+     <section id="client-acc">
 		
         <div class="slider5">
 			<div class="slide"><img src="images/carrousel_1.jpg" alt="Vue"></div>
