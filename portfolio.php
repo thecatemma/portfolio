@@ -57,8 +57,8 @@
 <h1>MISSION</h1>
     
 <h2>Présentation de votre mission</h2><br>
-    Des stakeholders, notamment les Product Owners et Product Experts nous remontaient des problématiques rencontrées par les utilisateurs. Ils nous présentaient des wireframes illustratifs des concepts puis c'était à Cédric et moi de proposer des solutions design en s'appuyant sur les guidelines internes à l'entreprise avec Sketch. Les product owners utilisent UML. <br>
-    Pour cela nous avions des réunions afin de discuter sur quoi faire pour la suite, parfois in English.<br>
+    Des stakeholders, notamment les Product Owners et Product Experts remontaient des problématiques rencontrées par les utilisateurs. Ils présentaient des wireframes illustratifs des concepts puis c'était aux Designers de proposer des solutions en s'appuyant sur les guidelines internes de l'entreprise, avec comme outil, Sketch. Les product owners utilisent UML. <br>
+    Pour cela nous avions des réunions afin de discuter sur que faire pour la suite, parfois in English.<br>
     Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog. 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>	
     <br>
     
@@ -73,19 +73,19 @@
 		
 		Ici uniquement le produit existant, sur lequel j'ai travaillé <br>
 
-	<script>
-		$(document).ready(function(){
-		  $('.slider5').bxSlider({
-			slideWidth: 300,
-			minSlides: 1,
-			maxSlides: 4,
-			moveSlides: 4,
-			slideMargin: 10,
-			preloadImages : 'all',
-			auto:true,
-		  });
-		});
-	</script>
+        <script>
+            $(document).ready(function(){
+              $('.slider5').bxSlider({
+                slideWidth: 300,
+                minSlides: 1,
+                maxSlides: 4,
+                moveSlides: 4,
+                slideMargin: 10,
+                preloadImages : 'all',
+                auto:true,
+              });
+            });
+        </script>
 	</section>	
 	
 <br>
@@ -284,7 +284,7 @@
         Leçon: réussir à être autonome et rester focus<br>
         Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
         Qu’avez-vous appris équipe, management ? <br>
-        - Les émotions qui m'ont le plus frappé, l'humeur de chaque individu varie chaque jour, il faut savoir conjuguer avec cela et petit à petit apprendre à s'affranchir et développer une sérénité intérieure. Plus forte, c'est formateur, montre que lorsque l'on est sûr de ses choix on trouve sa place et le reste suit: il faut fournir du travail perpétuel et être toujours informé sur les dernières news, fun et challenge quotidien. Pour l'alternance je ne sais pas si j'intègre une nouvelle équipe sur le même poste ou si je m'oriente vers quelque chose de plus tech et créa pure.</p>
+        Les émotions qui m'ont le plus frappé, l'humeur de chaque individu varie chaque jour, il faut savoir conjuguer avec cela et petit à petit apprendre à s'affranchir et développer une sérénité intérieure. Plus forte, c'est formateur, montre que lorsque l'on est sûr de ses choix on trouve sa place et le reste suit: il faut fournir du travail perpétuel et être toujours informé sur les dernières news, fun et challenge quotidien. Pour l'alternance je ne sais pas si j'intègre une nouvelle équipe sur le même poste ou si je m'oriente vers quelque chose de plus tech et créa pure.</p>
 <br>
     
 <h1>PROJET</h1>
@@ -295,8 +295,11 @@
 <br>
 
 <h1>Scroll for articles</h1>
+    
 <br>
+    
     <h2> Day by Day at SAP </h2>
+
 <br>
     
 <?php include('./index-articles.php'); ?>

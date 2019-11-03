@@ -9,7 +9,7 @@
 	 <ul>
 	  <li><div class="titre-footer">Hiring<a href="PayPal.Me/Hemasn/" class="rs" title="paypal"><i class="fab fa-buromobelexperte" alt="Paypal"></i></a> </div></li>
 	  <li><p>UIUX<br/>Design<br/>Analytic Drawing<br/>Art Direction<br/>Code</p></li>
-	  <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje. . . & France</p></li>
+	  <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje. . . France</p></li>
 	 </ul>	
 		
 		 <ul>
@@ -31,7 +31,7 @@
 	<div id="footer-bottom">
 		<ul class="copyright">
 			<li>©<b>HEMASN</b> | Digital Designer</li><br>
-			<li>This website is <b>handmade</b></li><br>
+			<!--<li>This website is <b>handmade</b></li><br>-->
 		</ul>
 		
 		<ul class="liens">

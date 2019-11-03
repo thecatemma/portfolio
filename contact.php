@@ -1,7 +1,7 @@
 <?php		
 	include 'header.php';
 
-// S'il y des données de postées
+// S'il y des données postées
 if ($_SERVER['REQUEST_METHOD']=='POST') {
   // Code PHP pour traiter l'envoi de l'email
   
@@ -85,33 +85,35 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 				<h1>Inbox</h1>
 			</article>
 		</section>
+
 	</header>
 
-<div id="formulaire" oui>
- <h2 id="post_comment">Contact</h2>   
-  <form method="post" action="mail.php">
-	  
-    <p><label for="Name" id="author">Name</label> <br />
-	<input type="text" name="nom" id="pseudo" maxlength="30"/> </p>
-    
-	<p><label for="Email" id="entrer_email">Email</label><span class="etoile">*</span> <br />
-	<input type="email" name="email" id="email" maxlength="50"/></p>
-    
-	<p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
-    <textarea name="message" id="message" cols="8" rows="5"></textarea></p>
-    
-	<p>Combien font 1+3 <span class="etoile">*</span> <input type="text" id="captcha" name="captcha" size="3" /></p>
-    
-	 <p><input type="submit" name="submit" class="btn-success" value="Envoyer" /></p>
-  </form>
-</div>
+    <div id="formulaire" oui>
+     <h2 id="post_comment">Contact</h2>   
+      <form method="post" action="mail.php">
+
+        <p><label for="Name" id="author">Name</label> <br />
+        <input type="text" name="nom" id="pseudo" maxlength="30"/> </p>
+
+        <p><label for="Email" id="entrer_email">Email</label><span class="etoile">*</span> <br />
+        <input type="email" name="email" id="email" maxlength="50"/></p>
+
+        <p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
+        <textarea name="message" id="message" cols="8" rows="5"></textarea></p>
+
+        <p>Combien font 1+3 <span class="etoile">*</span> <input type="text" id="captcha" name="captcha" size="3" /></p>
+
+         <p><input type="submit" name="submit" class="btn-success" value="Envoyer" /></p>
+      </form>
+    </div>
 
 <br>
-<iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
-<br>
+
+    <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5250.19341041613!2d2.303794230574179!3d48.85636629999429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6702783262341%3A0xb42802ea4f18d49!2s18+Avenue+de+la+Motte-Picquet%2C+75007+Paris!5e0!3m2!1sfr!2sfr!4v1543271411127"></iframe>
 
 <br>
-<br>
+
+<h1>BYEWORLD</h1>
 
 <img src="images/map.png" id="world">
 
@@ -119,6 +121,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <h2>A bientôt sur Terre 
     <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-suitcase" alt="Facebook"></i></a>
 </h2>
+
 <br>
 </div>
 
