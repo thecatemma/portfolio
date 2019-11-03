@@ -46,7 +46,7 @@
 	<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,700,800' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700,900" rel="stylesheet" type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Pattaya" rel="stylesheet">
-<!-- Optimisation en largeur pour correspondre à la largeur de l'écran du périphérique -->
+<!-- Optimisation en largeur pour correspondre à la largeur de l'écran -->
     <meta name="viewport" content="width=device-width" />
 <!-- NOUVEL ELEMENT JS -->
 	<link rel="stylesheet" type="text/css" href="css/base.css" />
@@ -93,10 +93,32 @@
 			<ul class="nav">
 				<li><a href="index.php">Hello</a></li>
 				<li><a href="about.php">About</a></li>
-				<li><a href="portfolio.php">Internship</a></li> <!-- class="active" -->
+				<li><a href="portfolio.php">Internship</a></li>
 				<li><a href="blog.php">Waterfall</a></li>
 				<li><a href="contact.php">Keep in touch</a></li>
 			</ul>
 				
 			</div>
 		</nav>
+        
+        
+        
+<header>
+	  <div class="navbar">
+	    <nav class="navigator">
+	    	<div id="menuToggle">
+		    	<input type="checkbox"/>
+				    <span></span>
+				    <span></span>
+				    <span></span>
+				
+		    	<ul id="menu">
+				      <li><a href="#">Accueil</a></li>
+                      <li><a href="#services">Services</a></li>
+					  <li><a href="#portfolio">Portfolio</a></li>
+                      <li><a href="#contact">Contact</a></li>
+		      	</ul>
+	      	</div>
+	    </nav>
+	  </div>
+</header>
