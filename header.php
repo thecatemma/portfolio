@@ -58,7 +58,7 @@
   <!--  sécuriser mon site  google videos enlever les http sans S et commencer par un slash -->
 	
 <body>
-<div id="header"> </div>
+    <div id="header"> </div>
 <div id="conteneur">
 	<header id="header-accueil">
 		<div id="header-top">
@@ -101,23 +101,3 @@
 			</div>
 		</nav>
            
-        
-<header>
-	  <div class="navbar">
-	    <nav class="navigator">
-	    	<div id="menuToggle">
-		    	<input type="checkbox"/>
-				    <span></span>
-				    <span></span>
-				    <span></span>
-				
-		    	<ul id="menu">
-				      <li><a href="#">Accueil</a></li>
-                      <li><a href="#services">Services</a></li>
-					  <li><a href="#portfolio">Portfolio</a></li>
-                      <li><a href="#contact">Contact</a></li>
-		      	</ul>
-	      	</div>
-	    </nav>
-	  </div>
-</header>

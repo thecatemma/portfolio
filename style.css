@@ -6,7 +6,7 @@ Author URI: https://hemasn.com
 Description: Portfolio
 */
 
-/*---------- NAVBAR ----------*/
+/*---------- NAVBAR 
 
 .navbar {
         position: fixed;
@@ -18,11 +18,6 @@ Description: Portfolio
         z-index: 2;
         background-color: #fff;
         top: 0;
-}
-
-.navbar .logo {
-        position: relative;
-        top: 9px;
 }
 
 .navbar .navigator {
@@ -53,7 +48,7 @@ Description: Portfolio
 		top: 5px;
 		left: 10px;
 		z-index: 1;
-		-webkit-user-select: none; /* permet d'éviter de sélectionner du texte */
+		-webkit-user-select: none; 
 		user-select: none;
 	}
 
@@ -82,7 +77,7 @@ Description: Portfolio
 		transform-origin: 4px 0px; 
 	}
 
-	#menuToggle input:checked ~ ul /* lorsque l'input sera selectionné, va appliquer la règle suivante sur les ul */
+	#menuToggle input:checked ~ ul 
 	{
 		display: block;
 		position: absolute;
@@ -112,15 +107,10 @@ Description: Portfolio
 }
 
 
+----------*/
 
 
 
-
-
-
-
-
-/*--
 .contain {
     display: flex;
     flex-wrap: wrap;
@@ -224,8 +214,6 @@ Description: Portfolio
 /* Position the front and back side */
 .flip-box-front, .flip-box-back {
   position: absolute;
-  /*width: 100%;
-  height: 100%;*/
   backface-visibility: hidden;
 }
 
@@ -323,8 +311,7 @@ a.jaime-a-voter:hover {
 	width: 40px;
 	height: 32px;
 	position: absolute;
-	top: -5px;
-	left: -5px;
+
 	cursor: pointer;
 	opacity: 0; 
 	z-index: 2; 
@@ -342,8 +329,7 @@ a.jaime-a-voter:hover {
 	transform-origin: 4px 0px; 
 }
 
-#menuToggle input:checked ~ ul /*input selectionné, applique la règle sur ul*/
-{
+#menuToggle input:checked ~ ul {
 	display: block;
 	position: absolute;
 	left:-150px;
@@ -1055,15 +1041,19 @@ form {
 
 /* --- Media Queries --- */
 
+@media all and (min-width: 769px) {
+
+	#menuToggle input, #menuToggle span {
+		display: none;
+	}
+}
+
 @media screen and (min-width: 1440px) {
 	#conteneur {
 	}	
 }
 
 @media screen and (max-device-width: 375px) {
-. {
-	width:95% !important;
-}
 	
 #conteneur {
     min-height: 100%;
@@ -1081,7 +1071,7 @@ form {
     width: 70%;
 	text-align: center;
 }
-
+    
 @media screen and (max-width: 640px) {
     
 #menuToggle {
@@ -1107,12 +1097,7 @@ form {
     height: 40px;
     padding: 10px 0 0 0;
 }    
-    
 
-aside{
-    display:none;
-}
-    
 nav ul{
     display:block;
     width:100%;
@@ -1120,6 +1105,10 @@ nav ul{
     
 nav{
     display:flex;
+}
+    
+aside{
+    display:none;
 }
 
 .entry {
