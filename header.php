@@ -100,8 +100,7 @@
 				
 			</div>
 		</nav>
-        
-        
+           
         
 <header>
 	  <div class="navbar">
