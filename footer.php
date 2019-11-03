@@ -2,14 +2,20 @@
 	<div id="footer-top">
 	 <ul>
 	  <li><div class="titre-footer">PORT<b>FOLIO</b></div></li>
+         
 	  <li><p>Emmanuelle Husson, est née passionnée par l'Art, la création et le Design. Elle pense que l'humain ne doit créer que s'il arrive à hauteur de la nature en terme d'esthétisme. La nature n'a pas besoin de lui, elle se crée seule. Après exploration en informatique, elle souhaite poursuivre sa réalisation de projets artistiques.
         <br>"husson" est un nom de famille assez repandu en lorraine et dans l'est, represente une forme affective de hue, nom de personne d'origine germanique, issu de hug qui signifie intelligence, esprit .</p></li>
+         
 	 </ul>
 		
 	 <ul>
-	  <li><div class="titre-footer">Hiring<a href="PayPal.Me/Hemasn/" class="rs" title="paypal"><i class="fab fa-buromobelexperte" alt="Paypal"></i></a> </div></li>
-	  <li><p>UIUX<br/>Design<br/>Analytic Drawing<br/>Art Direction<br/>Code</p></li>
-	  <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje. . . France</p></li>
+          <li><div class="titre-footer">Hiring<a href="PayPal.Me/Hemasn/" class="rs" title="paypal"><i class="fab fa-buromobelexperte" alt="Paypal"></i></a> </div></li>
+         
+          <li><p>UIUX | Design | Analytic Drawing | Art Direction | Code</p></li>
+    <br>
+         
+          <li><p>Crête, Grèce, Ecosse, Maroc, Stockhlom, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje. . . France</p></li>
+         
 	 </ul>	
 		
 		 <ul>
@@ -39,7 +45,7 @@
 			<li><a href="about.php">About</a> | </li>
 			<li><a href="blog.php">Portfolio</a> | </li>
 			<li><a href="contact.php">Contact</a></li>
-			<!--<li><a href="#">Mentions légales</a> | </li>-->
+			<!--<li><a href="#">Mentions légales</a></li>-->
 		</ul>
 	</div>
 </footer>
