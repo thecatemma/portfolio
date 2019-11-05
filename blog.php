@@ -67,7 +67,7 @@
 	  $('.slider5').bxSlider({
 		slideWidth: 300,
 		minSlides: 1,
-		maxSlides: 4,
+		maxSlides: 5,
 		moveSlides: 4,
 		slideMargin: 10,
 		preloadImages : 'all',
@@ -112,10 +112,10 @@
 <br>
 
 <p> "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
-<p> "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
-<p> "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
-<p> "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
-<p> "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
+<p> ""</p>
+<p> ""</p>
+<p> ""</p>
+<p> ""</p>
 
 <br>
 

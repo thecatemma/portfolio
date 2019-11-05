@@ -136,9 +136,9 @@
     <script>
         $(document).ready(function(){
           $('.slider5').bxSlider({
-            slideWidth: 300,
+            slideWidth: 350,
             minSlides: 1,
-            maxSlides: 4,
+            maxSlides: 5,
             moveSlides: 4,
             slideMargin: 10,
             preloadImages : 'all',

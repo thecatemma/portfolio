@@ -78,7 +78,7 @@
               $('.slider5').bxSlider({
                 slideWidth: 300,
                 minSlides: 1,
-                maxSlides: 4,
+                maxSlides: 5,
                 moveSlides: 4,
                 slideMargin: 10,
                 preloadImages : 'all',
@@ -106,7 +106,7 @@
 		  $('.slider5').bxSlider({
 			slideWidth: 300,
 			minSlides: 1,
-			maxSlides: 4,
+			maxSlides: 5,
 			moveSlides: 4,
 			slideMargin: 10,
 			preloadImages : 'all',
