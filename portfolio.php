@@ -57,7 +57,7 @@
     <p>Concurrents très présents sur le marché.
     De nouveaux logiciels arrivent sur le marché, comme les logiciels pour les PME entre autres.
     La protection des données. Comme toute entreprise centralisant et utilisant des data, SAP doit contrer la menace du piratage informatique et s’assurer qu’aucune donnée personnelle de ses clients ne soit divulguée.
-    Augmentation globale des ERP sur le marché.
+    Augmentation globale des ERP sur le marché. 
     Évolutions permanentes sur le marché des ERP : Cela oblige l'entreprise à faire évoluer ses logiciels et engendre donc des coûts supplémentaires.
     SAP a tardé avant de s'orienter vers le marché des PME.</p>
     
@@ -68,7 +68,8 @@
     
 <h2>Présentation de votre mission</h2>
     
-    <p>Des stakeholders, notamment les Product Owners et Product Experts remontaient des problématiques rencontrées par les utilisateurs. Ils présentaient des wireframes illustratifs des concepts puis c'était aux Designers de proposer des solutions en s'appuyant sur les guidelines internes de l'entreprise, avec comme outil, Sketch. Les product owners utilisent UML. <br>
+    <p>Des stakeholders, notamment les Product Owners et Product Experts remontaient des problématiques rencontrées par les utilisateurs. Ils présentaient des wireframes illustratifs des concepts puis c'était aux Designers de proposer des solutions en s'appuyant sur les guidelines internes de l'entreprise, avec comme outil, Sketch. Les product owners utilisent UML. 
+<br>
     Pour cela nous avions des réunions afin de discuter sur que faire pour la suite, parfois in English.<br>
     Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog. 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet.</p>
     
@@ -86,7 +87,7 @@
   			<div class="slide"><img src="images/sap4.png"></div>
 		</div>
 		
-		Ici uniquement le produit existant, sur lequel j'ai travaillé 
+		<p>Ici uniquement le produit existant, sur lequel j'ai travaillé</p> 
         
 <br>
 
@@ -205,9 +206,9 @@
     
 <h3>Above my Desk</h3>
     
- <div class="img">
-     <img src="images/Avatar.png" height="300" alt="Avatar Emmanuelle">
- </div>
+     <div class="img">
+         <img src="images/Avatar.png" height="300" alt="Avatar Emmanuelle">
+     </div>
     
 <br>	
 <br>
@@ -218,19 +219,19 @@
 
     <div id="contener">
         <div class="photos_serie">
-        <img src="images/sap_30.png" class="serieDWC" width="200" alt="Proposal 1">
+            <img src="images/sap_30.png" class="serieDWC" width="200" alt="Proposal 1">
         </div>
 
         <div class="photos_serie">
-        <img src="images/sap_31.png" class="serieDWC" width="200" alt="Proposal 2">
+            <img src="images/sap_31.png" class="serieDWC" width="200" alt="Proposal 2">
         </div>
 
         <div class="photos_serie">
-        <img src="images/sap_32.png" class="serieDWC" width="200" alt="Proposal 3">
+            <img src="images/sap_32.png" class="serieDWC" width="200" alt="Proposal 3">
         </div>
 
         <div class="photos_serie">
-        <img src="images/sap_33.png" class="serieDWC" width="200" alt="Proposal 4">
+            <img src="images/sap_33.png" class="serieDWC" width="200" alt="Proposal 4">
         </div>
     </div>
     
@@ -311,7 +312,8 @@
 <h1>PROJET</h1>
     
         <p id="projet_sap">
-        Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
+        Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. 
+<br>
         Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise ou ailleurs.</p>
 
 <br>
@@ -335,6 +337,7 @@
         Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
         Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX Design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
         Je suis très heureuse d'avoir participé à cette aventure !<br></p>
+
 
     <div class="flip-box">
       <div class="flip-box-inner">
