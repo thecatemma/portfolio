@@ -27,42 +27,57 @@
 	
  <h2>Forces</h2>
     
-    Nombre de collaborateurs. Belle répartition de tâches. Sait s’adapter aux besoins de ses clients. Logiciels qui permettent l'harmonisation de tous les logiciels dans une structure : avec un ERP SAP il n'y a pas besoin de saisir les données dans plusieurs logiciels, cela permet donc un gain de temps et une minimisation des erreurs humaines. L'ERP SAP est un moyen de renforcer la sécurité pour l'entreprise notamment grâce au paramétrage des droits d'accès. <br>
-    <br>
+    <p>Nombre de collaborateurs. Belle répartition de tâches. Sait s’adapter aux besoins de ses clients. Logiciels qui permettent l'harmonisation de tous les logiciels dans une structure : avec un ERP SAP il n'y a pas besoin de saisir les données dans plusieurs logiciels, cela permet donc un gain de temps et une minimisation des erreurs humaines. L'ERP SAP est un moyen de renforcer la sécurité pour l'entreprise notamment grâce au paramétrage des droits d'accès.</p>
+    
+<br>
+<br>
 	
 <h2>Opportunités</h2>
     
-    Entreprise présente dans le monde entier.
+    <p>Entreprise présente dans le monde entier.
     Leader sur le marché des logiciels d’entreprise (ERP).
-    Premier éditeur de logicel de gestion pour les grandes entreprises : SAP réalise 43% de PDM en France grâce à la filiére des grandes entreprises (qui représentent plus de 75% de son chiffre d’affaires).
-    Importance des logiciels CRM (Customer Relationship Management).<br><br>
+    Premier éditeur de logicel de gestion pour les grandes entreprises : SAP réalise 43% de PDM en France grâce à la filière des grandes entreprises (qui représentent plus de 75% de son chiffre d’affaires).
+    Importance des logiciels CRM (Customer Relationship Management).</p>
+    
+<br>
+<br>
 	
 <h2>Faiblesses</h2>
     
-    Les logiciels SAP doivent toujours évoluer pour répondre aux attentes des entreprises.
+    <p>Les logiciels SAP doivent toujours évoluer pour répondre aux attentes des entreprises.
     Durée d’implantation du logiciel longue : 6 à 12 mois.
     Coûts d'investissement élevés à répartir entre l'implantation du logiciel , la formation des salariés et la maintenance.
-    Maintenance évolutive ou corrective : cela coute à l’entreprise. <br><br>
+    Maintenance évolutive ou corrective : cela coute à l’entreprise.</p>
+    
+<br>
+<br>
 
 <h2>Menaces</h2>
     
-    Concurrents très présents sur le marché.
+    <p>Concurrents très présents sur le marché.
     De nouveaux logiciels arrivent sur le marché, comme les logiciels pour les PME entre autres.
     La protection des données. Comme toute entreprise centralisant et utilisant des data, SAP doit contrer la menace du piratage informatique et s’assurer qu’aucune donnée personnelle de ses clients ne soit divulguée.
     Augmentation globale des ERP sur le marché.
     Évolutions permanentes sur le marché des ERP : Cela oblige l'entreprise à faire évoluer ses logiciels et engendre donc des coûts supplémentaires.
-    SAP a tardé avant de s'orienter vers le marché des PME.<br>
-    <br>
+    SAP a tardé avant de s'orienter vers le marché des PME.</p>
+    
+<br>
+<br>
 	
 <h1>MISSION</h1>
     
-<h2>Présentation de votre mission</h2><br>
-    Des stakeholders, notamment les Product Owners et Product Experts remontaient des problématiques rencontrées par les utilisateurs. Ils présentaient des wireframes illustratifs des concepts puis c'était aux Designers de proposer des solutions en s'appuyant sur les guidelines internes de l'entreprise, avec comme outil, Sketch. Les product owners utilisent UML. <br>
-    Pour cela nous avions des réunions afin de discuter sur que faire pour la suite, parfois in English.<br>
-    Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog. 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet. <br>	
-    <br>
+<h2>Présentation de votre mission</h2>
     
-<h2>Smart Predict</h2><br>
+    <p>Des stakeholders, notamment les Product Owners et Product Experts remontaient des problématiques rencontrées par les utilisateurs. Ils présentaient des wireframes illustratifs des concepts puis c'était aux Designers de proposer des solutions en s'appuyant sur les guidelines internes de l'entreprise, avec comme outil, Sketch. Les product owners utilisent UML. <br>
+    Pour cela nous avions des réunions afin de discuter sur que faire pour la suite, parfois in English.<br>
+    Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog. 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet.</p>
+    
+<br>	
+<br>
+    
+<h2>Smart Predict</h2>
+    
+<br>
 
 	<section id="client-acc">
 		<div class="slider5">
@@ -71,7 +86,9 @@
   			<div class="slide"><img src="images/sap4.png"></div>
 		</div>
 		
-		Ici uniquement le produit existant, sur lequel j'ai travaillé <br>
+		Ici uniquement le produit existant, sur lequel j'ai travaillé 
+        
+<br>
 
         <script>
             $(document).ready(function(){
@@ -185,6 +202,7 @@
 </div>
 	
 <h2>Observation</h2><br>
+    
 <h3>Above my Desk</h3>
     
  <div class="img">
@@ -257,6 +275,7 @@
 <h2>Sketchings EBC</h2>
       
     <div id="contener">
+        
         <div class="photos_serie">
             <img src="images/EBC1.png" width="200" alt="Proposal 1">
         </div>
@@ -272,10 +291,12 @@
         <div class="photos_serie">
             <img src="images/EBC6.png" width="200" alt="Proposal 4">
         </div>
+        
     </div>
     
     
 <h1>Bilan et perspectives</h1><br>
+    
     <h2>Results</h2> <br>
     
         <p id="results_sap">
@@ -288,6 +309,7 @@
 <br>
     
 <h1>PROJET</h1>
+    
         <p id="projet_sap">
         Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. <br>
         Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise ou ailleurs.</p>
@@ -298,14 +320,17 @@
     
 <br>
     
-    <h2> Day by Day at SAP </h2>
+    <h2>Day by Day at SAP</h2>
 
 <br>
     
 <?php include('./index-articles.php'); ?>
 </div>
 
-<h1>Remerciements</h1><br>
+<h1>Remerciements</h1>
+
+<br>
+
         <p id="thanks_sap">
         Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
         Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX Design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
