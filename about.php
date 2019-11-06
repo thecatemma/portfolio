@@ -127,27 +127,31 @@
      <section id="client-acc">
 		
         <div class="slider5">
+            
 			<div class="slide"><img src="images/carrousel_1.jpg" alt="Vue"></div>
 			<div class="slide"><img src="images/carrousel_3.jpg" alt="Mails"></div>
   			<div class="slide"><img src="images/carrousel_4.jpg" alt="Data"></div>
 			<div class="slide"><img src="images/carrousel_5.jpg" alt="Connexion"></div>
+            
 		</div>
         
-    <script>
-        $(document).ready(function(){
-          $('.slider5').bxSlider({
-            slideWidth: 350,
-            minSlides: 1,
-            maxSlides: 5,
-            moveSlides: 4,
-            slideMargin: 10,
-            preloadImages : 'all',
-            auto:true,
-          });
-        });
-    </script>
+        <script>
+            $(document).ready(function(){
+              $('.slider5').bxSlider({
+                slideWidth: 350,
+                minSlides: 1,
+                maxSlides: 5,
+                moveSlides: 4,
+                slideMargin: 10,
+                preloadImages : 'all',
+                auto:true,
+              });
+            });
+        </script>
 	
-     </section>	 
+     </section>
+    
+<br>
 	 
 </div>
 </div>
