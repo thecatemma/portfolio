@@ -80,11 +80,11 @@ else
 
 			<form action="article.php?id=<?= $article->id ?>" method="post">
                 
-				<p> <label for="author">Pseudo</label> <br />
+				<p> <label for="author">Pseudo</label> <br>
                     
 				<input type="text" name="author" id="author" value="<?php if(isset($author)) echo $author ?>"/> </p>
                 
-				<p> <Label for="comment">Commentaire</Label> <br />
+				<p> <Label for="comment">Commentaire</Label> <br>
                     
 				<textarea name="comment" id="comment" cols="30" rows="5"><?php if(isset($comment)) echo $comment ?></textarea> </p>
                 

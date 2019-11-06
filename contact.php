@@ -80,16 +80,20 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
   }
 }
 ?>
-		<section id="contenu-accueil">
-			<article>
-				<h1>Inbox</h1>
-			</article>
-		</section>
 
-	</header>
 
-    <div id="formulaire" oui>
-     <h2 id="post_comment">Contact</h2>   
+    <section id="contenu-accueil">
+        <article>
+            <h1>Inbox</h1>
+        </article>
+    </section>
+
+</header>
+
+    <div id="formulaire">
+        
+     <h2 id="post_comment">Contact</h2>
+        
       <form method="post" action="mail.php">
 
         <p><label for="Name" id="author">Name</label> <br />
@@ -99,12 +103,13 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
         <input type="email" name="email" id="email" maxlength="50"/></p>
 
         <p><Label for="comment" id="text_comment">Message</Label><span class="etoile">*</span> <br />
-        <textarea name="message" id="message" cols="8" rows="5"></textarea></p>
+        <textarea name="message" id="message" cols="8" rows="3"></textarea></p>
 
         <p>Combien font 1+3 <span class="etoile">*</span> <input type="text" id="captcha" name="captcha" size="3" /></p>
 
          <p><input type="submit" name="submit" class="btn-success" value="Envoyer" /></p>
       </form>
+        
     </div>
 
 <br>
@@ -115,14 +120,18 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
 <h1>BYEWORLD</h1>
 
-<img src="images/map.png" id="world">
+    <img src="images/map.png" id="world">
 
 <br>
-<h2>A bientôt sur Terre 
+
+<h2>A bientôt sur Terre
+    
     <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-suitcase" alt="Facebook"></i></a>
+    
 </h2>
 
 <br>
+
 </div>
 
 <?php		
