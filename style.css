@@ -6,15 +6,18 @@ Author URL: https://hemasn.com
 Description: Portfolio
 */
 
-
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{
-	display:block;}
+	display:block;
+}
+
 audio,canvas,video{
 	display:inline-block;
 }
+
 audio:not([controls]){
 	display:none;height:0;
 }
+
 [hidden]{
 	display:none;
 }
@@ -27,6 +30,7 @@ html {
 a:focus{
 	outline:thin dotted;
 }
+
 a:active,a:hover{
 	outline:0;
 }
@@ -122,18 +126,22 @@ button,input {
 button,select {
 	text-transform:none;
 }
+
 button,html input[type="button"],input[type="reset"],input[type="submit"]
 {
 	-webkit-appearance:button;
 	cursor:pointer;
 }
+
 button[disabled],html input[disabled]{
 	cursor:default;
 }
+
 input[type="checkbox"],input[type="radio"]{
 	/*box-sizing:border-box;*/
 	padding:0;
 }
+
 input[type="search"]{
 	-webkit-appearance:textfield;
 	-moz-box-sizing:content-box;
@@ -145,7 +153,10 @@ input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit
 	-webkit-appearance:none;
 }
 
-button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
+button::-moz-focus-inner,input::-moz-focus-inner{
+    border:0;
+    padding:0;
+}
 
 textarea {
 	overflow:auto;
@@ -451,33 +462,6 @@ a:focus {
 
 /*---------- NAVBAR 
 
-.navbar {
-        position: fixed;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        height: 100px;
-        width: 100%;
-        z-index: 2;
-        background-color: #fff;
-        top: 0;
-}
-
-.navbar .navigator {
-        position: relative;
-        top: 2px;
-}
-
-.navbar a:hover {
-        border-top: 14px solid #5CABD1;
-        padding-top: 35px;
-        color: black;
-}
-
-.navbar .navigator {
-        position: relative;
-        top: 2px;
-    
 @media all and (max-width: 1024px){
     
 	.left-part img {

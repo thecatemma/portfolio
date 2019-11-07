@@ -6,16 +6,20 @@
 	</header>
 
 <div id="conteneur">
+    
+    <div>
+        <img src="images/root10.png" width="100%" alt="Profile">
+    </div>
 	    
   <h1>Profile</h1>
     
-  <br>
+<br>
 
     <div class="img">
         <img src="images/profile.png" height="175" alt="Profile">
     </div>    
 
-    <br>
+<br>
     
  <section id="CV">
 
@@ -150,6 +154,18 @@
         </script>
 	
      </section>
+    
+<br>
+    
+    <div>
+        <!--img src="images/Root3.png" width="100%" alt="Profile"-->
+    </div> 
+    
+    <div>
+        <img src="images/root10.png" width="100%" alt="Profile">
+    </div>
+    
+    <p>2019 - ©roots</p>
     
 <br>
 	 
