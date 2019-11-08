@@ -562,10 +562,10 @@ a:focus {
 /* BARS PAGE ABOUT */
 
 .html {width: 90%; background-color: darkseagreen; color: white;}
-.css {width: 85%; background-color: rebeccapurple;color: white;}
+.css {width: 85%; background-color: rebeccapurple; color: white;}
 .jss {width: 40%; background-color: mistyrose;}
-.php {width: 25%; background-color: rosybrown;color: white;}
-.node {width: 2%; background-color: midnightblue;color: white;}
+.php {width: 25%; background-color: rosybrown; color: white;}
+.node {width: 2%; background-color: purple; color: white;}
 
 /* IMG SHAKE */
 
@@ -573,7 +573,7 @@ a:focus {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 .img:hover {

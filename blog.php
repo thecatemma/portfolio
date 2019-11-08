@@ -111,7 +111,7 @@
 
 <br>
 
-<p> "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
+<p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
 
 <br>
 
@@ -119,7 +119,7 @@
         <img src="images/Root3.png" width="100%" alt="Profile">
     </div>
 
-<p>2019</p>
+    <p>2019 - ©roots</p>
 
 <br>
 
