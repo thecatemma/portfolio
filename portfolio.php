@@ -94,15 +94,11 @@
 			<div class="slide"><img src="images/sap1.png"></div>
   			<div class="slide"><img src="images/sap4.png"></div>
 		</div>
-		
-		<p>Ici uniquement le produit existant, sur lequel j'ai travaillé</p> 
-        
-<br>
 
         <script>
             $(document).ready(function(){
               $('.slider5').bxSlider({
-                slideWidth: 300,
+                slideWidth: 500,
                 minSlides: 1,
                 maxSlides: 5,
                 moveSlides: 4,
@@ -115,34 +111,23 @@
 	</section>	
 	
 <br>
-<br>
-<br>
     
 <h2>Illustrations</h2><br>
-	
-	<section id="client-acc">
-		<div class="slider5">
-			<div class="slide"><img src="images/sap6.png"></div>
-			<div class="slide"><img src="images/sap7.png"></div>
-  			<div class="slide"><img src="images/sap8.png"></div>
-		</div>
 
-	 <script>
-		$(document).ready(function(){
-		  $('.slider5').bxSlider({
-			slideWidth: 300,
-			minSlides: 1,
-			maxSlides: 5,
-			moveSlides: 4,
-			slideMargin: 10,
-			preloadImages : 'all',
-			auto:true,
-		  });
-		});
-	 </script>
-	</section>		
-	
-<br>
+    <div id="contener">
+        <div class="photos_serie">
+            <img src="images/sap6.png" width="300" alt="Proposal 1">
+        </div>
+        
+        <div class="photos_serie">
+            <img src="images/sap7.png" width="300" alt="Proposal 2">
+        </div>
+        
+        <div class="photos_serie">
+            <img src="images/sap8.png" width="300" alt="Proposal 3">
+        </div>
+        
+    </div>
 	
 <h2>Participation</h2><br>	
 	

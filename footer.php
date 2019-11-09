@@ -10,7 +10,7 @@
 	 </ul>
 		
 	   <ul>
-          <li><div class="titre-footer">Hiring<a href="" class="rs" title="paypal"><i class="fab fa-buromobelexperte" alt="Paypal"></i></a></div></li>
+          <li><div class="titre-footer"><a href="" class="rs" title="paytime"><i class="fab fa-buromobelexperte" alt="Paypal"></i></a></div></li>
          
           <li><p>UIUX | Design | Analytic Drawing | Art Direction | Code</p></li>
          
@@ -20,7 +20,7 @@
 		
 		 <ul>
              
-		  <li><div class="titre-footer">Follow <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs" title="globe"><i class="fa fa-globe" alt="Globe"></i></a></div></li>
+		  <li><div class="titre-footer">Follow <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs" title="Everywhere"><i class="fa fa-globe" alt="Globe"></i></a></div></li>
              
 		   <li id="img_footer">
                 <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/"><img src="images/icon-linkedin-footer.png" alt="Facebook"></a>
@@ -45,12 +45,13 @@
 			<li>©<b>HEMASN</b> | Digital Designer</li><br>
 		</ul>
 		
+<br>
 		<ul class="liens">
 			<li><a href="index.php">Hello</a> | </li>
 			<li><a href="about.php">About</a> | </li>
 			<li><a href="blog.php">Portfolio</a> | </li>
-			<li><a href="contact.php">Contact</a></li>
-			<!--<li><a href="#">Mentions légales</a></li>-->
+			<li><a href="contact.php">Contact</a> | </li>
+			<li><a href="#">Mentions légales</a></li>
 		</ul>
         
 	</div>

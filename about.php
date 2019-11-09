@@ -48,7 +48,9 @@
         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-graduation-cap" alt="Facebook"></i></a>
     </h1>
      
-	<h3><b>2019/2020</b><br>Second year Master Degree - Digital Creation UIUX<br>
+        
+	<h3>2020/2023<br>Projet de thèse ++<br>
+        <b>2019/2020</b><br>Second year Master Degree - Digital Creation UIUX<br>
 		2018/2019<br>First year Master Degree - Digital Creation UIUX<br>
 		2018/2019<br>Formation Web Development<br>
 		2016/2017<br>Numeric Year (UX, UI, Code, Management)<br>
@@ -186,7 +188,7 @@
         <img src="images/root10.png" width="100%" alt="Profile">
     </div>
     
-    <p>2019 - ©roots</p>
+    <p>2019 - ©roots by hemasn</p>
     
 <br>
 	 

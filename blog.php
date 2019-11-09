@@ -2,11 +2,12 @@
 	include 'header.php';
 
 ?>
-		<section id="contenu-accueil">
-			<article>
-				<h1>The eyes</h1>
-			</article>
-		</section>
+
+<h1>Galerie</h1>
+
+<br>
+
+<h1>The eyes</h1>
 		
 	</header>
 
@@ -113,13 +114,17 @@
 
 <p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
 
+<p>"58 95, ça c'est le plus bas c'est ça ?"</p>
+
+<p>"Come, no matter where you are, no matter how far"</p>
+
 <br>
 
     <div>
         <img src="images/Root3.png" width="100%" alt="Profile">
     </div>
 
-    <p>2019 - ©roots</p>
+    <p>2019 - ©roots by hemasn</p>
 
 <br>
 
