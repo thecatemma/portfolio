@@ -6,6 +6,7 @@
 <h1>Galerie</h1>
 
 <br>
+<br>
 
 <h1>The eyes</h1>
 		
