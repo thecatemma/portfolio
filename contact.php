@@ -119,7 +119,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <br>
 
 <h1>BYEWORLD</h1>
-
+<br>
     <img src="images/map.png" id="world">
 
 <br>
