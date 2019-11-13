@@ -41,14 +41,15 @@
     </div>
    </div>
 
-<h2>Digital Design</h2>
 
 <h1>Project example</h1>
+
+<br>
 
     <div id="contener">
 
         <div class="yt">
-            <video controls preload="metadata" height="250px">
+            <video controls preload="metadata" height="270px">
             <source src="images/HomePage.mp4">
             </video>
         </div>
