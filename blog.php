@@ -50,39 +50,40 @@
 
 <br>
 	
- <section id="client-acc">
-	<h1>works</h1>
-		
-		<div class="slider5">
-  			<div class="slide"><img src="images/logo-client-2.jpg"></div>
-			<div class="slide"><img src="images/logo-client-3.jpg"></div>
-			<div class="slide"><img src="images/portfolio-7.jpg"></div>
-  			<div class="slide"><img src="images/logo-client-4.jpg"></div>
-			<div class="slide"><img src="images/logo-client-5.jpg"></div>
-			<div class="slide"><img src="images/logo-client-6.jpg"></div>
-			<div class="slide"><img src="images/portfolio-8.jpg"></div>
-			<div class="slide"><img src="images/portfolio-9.jpg"></div>
-		</div>
-		
- <script>
-	$(document).ready(function(){
-	  $('.slider5').bxSlider({
-		slideWidth: 300,
-		minSlides: 1,
-		maxSlides: 5,
-		moveSlides: 4,
-		slideMargin: 10,
-		preloadImages : 'all',
-		auto:true,
-	  });
-	});
- </script>
-	
-</section>
+     <section id="client-acc">
+        <h1>works</h1>
+
+            <div class="slider5">
+                <div class="slide"><img src="images/logo-client-2.jpg"></div>
+                <div class="slide"><img src="images/logo-client-3.jpg"></div>
+                <div class="slide"><img src="images/portfolio-7.jpg"></div>
+                <div class="slide"><img src="images/logo-client-4.jpg"></div>
+                <div class="slide"><img src="images/logo-client-5.jpg"></div>
+                <div class="slide"><img src="images/logo-client-6.jpg"></div>
+                <div class="slide"><img src="images/portfolio-8.jpg"></div>
+                <div class="slide"><img src="images/portfolio-9.jpg"></div>
+            </div>
+
+     <script>
+        $(document).ready(function(){
+          $('.slider5').bxSlider({
+            slideWidth: 300,
+            minSlides: 1,
+            maxSlides: 5,
+            moveSlides: 4,
+            slideMargin: 10,
+            preloadImages : 'all',
+            auto:true,
+          });
+        });
+     </script>
+
+    </section>
 
 <h1>OTHER</h1>
 
-    <br>
+<br>
+
     <div class="contain">
 
         <div class="links">
@@ -113,11 +114,11 @@
 
 <br>
 
-<p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
+    <p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
 
-<p>"58 95, ça c'est le plus bas c'est ça ?"</p>
+    <p>"58 95, ça c'est le plus bas c'est ça ?"</p>
 
-<p>"Come, no matter where you are, no matter how far"</p>
+    <p>"Come, no matter where you are, no matter how far"</p>
 
 <br>
 
