@@ -46,8 +46,7 @@
     <p>
     Entreprise présente dans le monde entier.
     Leader sur le marché des logiciels d’entreprise (ERP).
-    Premier éditeur de logicel de gestion pour les grandes entreprises : SAP réalise 43% de PDM en France grâce à la filière des grandes entreprises (qui représentent plus de 75% de son chiffre d’affaires).
-    Importance des logiciels CRM (Customer Relationship Management).
+    Premier éditeur de logicel de gestion pour les grandes entreprises : SAP réalise 43% de PDM en France grâce à la filière des grandes entreprises (qui représentent plus de 75% de son chiffre d’affaires).Importance des logiciels CRM (Customer Relationship Management).
     </p>
     
 <br>

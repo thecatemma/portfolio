@@ -642,9 +642,8 @@
 			}
 		}
 
-		/**
-		 * Appends start / stop auto controls to the controls element
-		 */
+		/*Appends start / stop auto controls to the controls element */
+        
 		var appendControlsAuto = function(){
 			slider.controls.start = $('<div class="bx-controls-auto-item"><a class="bx-start" href="">' + slider.settings.startText + '</a></div>');
 			slider.controls.stop = $('<div class="bx-controls-auto-item"><a class="bx-stop" href="">' + slider.settings.stopText + '</a></div>');
@@ -671,9 +670,8 @@
 			updateAutoControls(slider.settings.autoStart ? 'stop' : 'start');
 		}
 
-		/**
-		 * Appends image captions to the DOM
-		 */
+		/* Appends image captions to the DOM */
+        
 		var appendCaptions = function(){
 			// cycle through each child
 			slider.children.each(function(index){
@@ -686,12 +684,10 @@
 			});
 		}
 
-		/**
-		 * Click next binding
-		 *
+		/* Click next binding
 		 * @param e (event)
-		 *  - DOM event object
-		 */
+		 *  - DOM event object */
+        
 		var clickNextBind = function(e){
 			// if auto show is running, stop it
 			if (slider.settings.auto) el.stopAuto();
@@ -699,12 +695,10 @@
 			e.preventDefault();
 		}
 
-		/**
-		 * Click prev binding
-		 *
+		/* Click prev binding
 		 * @param e (event)
-		 *  - DOM event object
-		 */
+		 *  - DOM event object */
+        
 		var clickPrevBind = function(e){
 			// if auto show is running, stop it
 			if (slider.settings.auto) el.stopAuto();
@@ -712,34 +706,28 @@
 			e.preventDefault();
 		}
 
-		/**
-		 * Click start binding
-		 *
+		/* Click start binding
 		 * @param e (event)
-		 *  - DOM event object
-		 */
+		 *  - DOM event object */
+        
 		var clickStartBind = function(e){
 			el.startAuto();
 			e.preventDefault();
 		}
 
-		/**
-		 * Click stop binding
-		 *
+		/* Click stop binding
 		 * @param e (event)
-		 *  - DOM event object
-		 */
+		 *  - DOM event object */
+        
 		var clickStopBind = function(e){
 			el.stopAuto();
 			e.preventDefault();
 		}
 
-		/**
-		 * Click pager binding
-		 *
+		/* Click pager binding
 		 * @param e (event)
-		 *  - DOM event object
-		 */
+		 *  - DOM event object */
+        
 		var clickPagerBind = function(e){
 			// if auto show is running, stop it
 			if (slider.settings.auto) el.stopAuto();
@@ -750,12 +738,10 @@
 			e.preventDefault();
 		}
 
-		/**
-		 * Updates the pager links with an active class
-		 *
+		/* Updates the pager links with an active class
 		 * @param slideIndex (int)
-		 *  - index of slide to make active
-		 */
+		 *  - index of slide to make active */
+        
 		var updatePagerActive = function(slideIndex){
 			// if "short" pager type
 			var len = slider.children.length; // nb of children
@@ -772,9 +758,8 @@
 			slider.pagerEl.each(function(i, el) { $(el).find('a').eq(slideIndex).addClass('active'); });
 		}
 
-		/**
-		 * Performs needed actions after a slide transition
-		 */
+		/* Performs needed actions after a slide transition */
+        
 		var updateAfterSlideTransition = function(){
 			// if infinte loop is true
 			if(slider.settings.infiniteLoop){
@@ -799,12 +784,10 @@
 			slider.settings.onSlideAfter(slider.children.eq(slider.active.index), slider.oldIndex, slider.active.index);
 		}
 
-		/**
-		 * Updates the auto controls state (either active, or combined switch)
-		 *
+		/*  Updates the auto controls state (either active, or combined switch)
 		 * @param state (string) "start", "stop"
-		 *  - the new state of the auto show
-		 */
+		 *  - the new state of the auto show */
+        
 		var updateAutoControls = function(state){
 			// if autoControlsCombine is true, replace the current control with the new state
 			if(slider.settings.autoControlsCombine){
@@ -816,9 +799,8 @@
 			}
 		}
 
-		/**
-		 * Updates the direction controls (checks if either should be hidden)
-		 */
+		/* Updates the direction controls (checks if either should be hidden) */
+        
 		var updateDirectionControls = function(){
 			if(getPagerQty() == 1){
 				slider.controls.prev.addClass('disabled');
@@ -840,9 +822,8 @@
 			}
 		}
 
-		/**
-		 * Initialzes the auto process
-		 */
+		/* Initialzes the auto process */
+        
 		var initAuto = function(){
 			// if autoDelay was supplied, launch the auto show using a setTimeout() call
 			if(slider.settings.autoDelay > 0){
@@ -874,9 +855,8 @@
 			}
 		}
 
-		/**
-		 * Initialzes the ticker process
-		 */
+		/* Initialzes the ticker process */
+        
 		var initTicker = function(){
 			var startPosition = 0;
 			// if autoDirection is "next", append a clone of the entire slider
@@ -917,9 +897,8 @@
 			tickerLoop();
 		}
 
-		/**
-		 * Runs a continuous loop, news ticker-style
-		 */
+		/* Runs a continuous loop, news ticker-style */
+        
 		var tickerLoop = function(resumeSpeed){
 			speed = resumeSpeed ? resumeSpeed : slider.settings.speed;
 			var position = {left: 0, top: 0};
@@ -937,9 +916,8 @@
 			setPositionProperty(animateProperty, 'ticker', speed, params);
 		}
 
-		/**
-		 * Initializes touch events
-		 */
+		/*  Initializes touch events */
+        
 		var initTouch = function(){
 			// initialize object to contain all touch values
 			slider.touch = {
@@ -949,12 +927,10 @@
 			slider.viewport.bind('touchstart', onTouchStart);
 		}
 
-		/**
-		 * Event handler for "touchstart"
-		 *
+		/* Event handler for "touchstart"
 		 * @param e (event)
-		 *  - DOM event object
-		 */
+		 *  - DOM event object */
+        
 		var onTouchStart = function(e){
 			if(slider.working){
 				e.preventDefault();
@@ -978,6 +954,7 @@
 		 * @param e (event)
 		 *  - DOM event object
 		 */
+        
 		var onTouchMove = function(e){
 			var orig = e.originalEvent;
 			// if scrolling on y axis, do not prevent default
@@ -1011,6 +988,7 @@
 		 * @param e (event)
 		 *  - DOM event object
 		 */
+        
 		var onTouchEnd = function(e){
 			slider.viewport.unbind('touchmove', onTouchMove);
 			var orig = e.originalEvent;
@@ -1056,6 +1034,7 @@
 		/**
 		 * Window resize event callback
 		 */
+        
 		var resizeWindow = function(e){
 			// get the new window dimens (again, thank you IE)
 			var windowWidthNew = $(window).width();
@@ -1183,6 +1162,7 @@
 		/**
 		 * Transitions to the next slide in the show
 		 */
+        
 		el.goToNextSlide = function(){
 			// if infiniteLoop is false and last page is showing, disregard call
 			if (!slider.settings.infiniteLoop && slider.active.last) return;
@@ -1193,6 +1173,7 @@
 		/**
 		 * Transitions to the prev slide in the show
 		 */
+        
 		el.goToPrevSlide = function(){
 			// if infiniteLoop is false and last page is showing, disregard call
 			if (!slider.settings.infiniteLoop && slider.active.index == 0) return;
@@ -1206,6 +1187,7 @@
 		 * @param preventControlUpdate (boolean)
 		 *  - if true, auto controls state will not be updated
 		 */
+        
 		el.startAuto = function(preventControlUpdate){
 			// if an interval already exists, disregard call
 			if(slider.interval) return;
@@ -1223,6 +1205,7 @@
 		 * @param preventControlUpdate (boolean)
 		 *  - if true, auto controls state will not be updated
 		 */
+        
 		el.stopAuto = function(preventControlUpdate){
 			// if no interval exists, disregard call
 			if(!slider.interval) return;
@@ -1236,6 +1219,7 @@
 		/**
 		 * Returns current slide index (zero-based)
 		 */
+        
 		el.getCurrentSlide = function(){
 			return slider.active.index;
 		}
@@ -1243,6 +1227,7 @@
 		/**
 		 * Returns number of slides in show
 		 */
+        
 		el.getSlideCount = function(){
 			return slider.children.length;
 		}
@@ -1250,6 +1235,7 @@
 		/**
 		 * Update all dynamic slider elements
 		 */
+        
 		el.redrawSlider = function(){
 			// resize all children in ratio to new screen size
 			slider.children.add(el.find('.bx-clone')).outerWidth(getSlideWidth());
@@ -1272,6 +1258,7 @@
 		/**
 		 * Destroy the current instance of the slider (revert everything back to original state)
 		 */
+        
 		el.destroySlider = function(){
 			// don't do anything if slider has already been destroyed
 			if(!slider.initialized) return;
@@ -1295,6 +1282,7 @@
 		/**
 		 * Reload the slider (revert all DOM changes, and re-initialize)
 		 */
+        
 		el.reloadSlider = function(settings){
 			if (settings != undefined) options = settings;
 			el.destroySlider();
