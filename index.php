@@ -42,12 +42,13 @@
    </div>
 
 <script src="js/jquery.cbpFWSlider.min.js"></script>
-<script>
-	$( function() {
-	$( '#cbp-fwslider' ).cbpFWSlider();
-		$( '#cbp-fwslider' ).cbpFWSlider('interval');
-		} );
-</script>
+
+    <script>
+        $( function() {
+        $( '#cbp-fwslider' ).cbpFWSlider();
+            $( '#cbp-fwslider' ).cbpFWSlider('interval');
+            } );
+    </script>
 
 
 <h1>Project example</h1>
