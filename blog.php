@@ -64,19 +64,19 @@
                 <div class="slide"><img src="images/portfolio-9.jpg"></div>
             </div>
 
-     <script>
-        $(document).ready(function(){
-          $('.slider5').bxSlider({
-            slideWidth: 300,
-            minSlides: 1,
-            maxSlides: 5,
-            moveSlides: 4,
-            slideMargin: 10,
-            preloadImages : 'all',
-            auto:true,
-          });
-        });
-     </script>
+         <script>
+            $(document).ready(function(){
+              $('.slider5').bxSlider({
+                slideWidth: 300,
+                minSlides: 1,
+                maxSlides: 5,
+                moveSlides: 4,
+                slideMargin: 10,
+                preloadImages : 'all',
+                auto:true,
+              });
+            });
+         </script>
 
     </section>
 
