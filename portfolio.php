@@ -220,6 +220,7 @@
 <br>
 
     <div id="contener">
+        
         <div class="photos_serie">
             <img src="images/sap_30.png" class="serieDWC" width="200" alt="Proposal 1">
         </div>
@@ -235,6 +236,7 @@
         <div class="photos_serie">
             <img src="images/sap_33.png" class="serieDWC" width="200" alt="Proposal 4">
         </div>
+        
     </div>
     
 <br>
@@ -248,15 +250,18 @@
      <section id="client-acc">
 
             <div class="slider5">
+                
                 <div class="slide"><img src="images/picto-1.png"></div>
                 <div class="slide"><img src="images/picto-2.png"></div>
                 <div class="slide"><img src="images/picto-3.png"></div>
                 <div class="slide"><img src="images/picto-4.png"></div>
                 <div class="slide"><img src="images/picto-5.png"></div>
                 <div class="slide"><img src="images/picto-6.png"></div>
+                
             </div>
 
             <script>
+                
                 $(document).ready(function(){
                   $('.slider5').bxSlider({
                     slideWidth: 300,
@@ -268,6 +273,7 @@
                     auto:true,
                   });
                 });
+                
             </script>
 
      </section>	
@@ -309,11 +315,16 @@
     <h2>Results</h2> <br>
     
         <p id="results_sap">
-            L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée. J'ai réalisé les pictos vectoriels juste au dessus qui ont été intégrés.<br>
-            Votre plus grande réussite: progresser + finir ce site <br>
-            Leçon: réussir à être autonome et rester focus<br>
-            Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème <br>
-            Qu’avez-vous appris équipe, management ? <br>
+            L'un des projets proposés à l'entreprise a été validé pour le développement. Les illustrations ont servi à des présentations de la UA mais ont fini par être remodelées de façon plus imagée, moins vectorisée. J'ai réalisé les pictos vectoriels juste au dessus qui ont été intégrés.
+<br>
+            Votre plus grande réussite: progresser + ce site 
+<br>
+            Leçon: réussir à être autonome et rester focus
+<br>
+            Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème
+<br>
+            Qu’avez-vous appris équipe, management ?
+<br>
             Les émotions qui m'ont le plus frappé, l'humeur de chaque individu varie chaque jour, il faut savoir conjuguer avec cela et petit à petit apprendre à s'affranchir et développer une sérénité intérieure. Plus forte, c'est formateur, montre que lorsque l'on est sûr de ses choix on trouve sa place et le reste suit: il faut fournir du travail perpétuel et être toujours informé sur les dernières news, fun et challenge quotidien. Pour l'alternance je ne sais pas si j'intègre une nouvelle équipe sur le même poste ou si je m'oriente vers quelque chose de plus tech et créa pure.
         </p>
 <br>
