@@ -56,7 +56,7 @@ else
 			
 	  <div class="container">
 		  
-<!--- ARTICLE Individuel - Liste --->
+<!--- Liste Article Individuel --->
 		
 			<h1><?= $article->title ?></h1>
 			<time><?= $article->date ?></time>		 	

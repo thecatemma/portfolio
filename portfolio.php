@@ -122,6 +122,7 @@
 <h2>Illustrations</h2><br>
 
     <div id="contener">
+        
         <div class="photos_serie">
             <img src="images/sap6.png" width="300" alt="Proposal 1">
         </div>
