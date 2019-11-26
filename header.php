@@ -32,6 +32,9 @@
 	<link rel="stylesheet" href="style/normalize.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="style/jquery.bxslider.css" />
     
+<!-- R Studio -->
+    <link rel="stylesheet" type="text/css" href="./start.R" />
+    
 <!-- Bootstrap  -->
 	<link rel="stylesheet" type="text/css" href="./bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="./bootstrap-theme.min.css" />

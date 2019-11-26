@@ -47,6 +47,7 @@ else
 <!DOCTYPE html>
 
 <html>
+    
 	<head>
 		<meta charset="utf-8" />
 		<title><?= $article->title ?></title>
@@ -100,5 +101,6 @@ else
 			<?php endforeach; ?>
 			  <a href="portfolio.php">Retour aux articles</a>
 		</div>
+        
 	</body>
 </html>
