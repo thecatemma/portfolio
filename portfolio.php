@@ -82,10 +82,14 @@
     
 <h2>Présentation de votre mission</h2>
     
-    <p>Des stakeholders, notamment les Product Owners et Product Experts remontaient des problématiques rencontrées par les utilisateurs. Ils présentaient des wireframes illustratifs des concepts puis c'était aux Designers de proposer des solutions en s'appuyant sur les guidelines internes de l'entreprise, avec comme outil, Sketch. Les product owners utilisent UML. 
+    <p>Des stakeholders, notamment les Product Owners et Product Experts remontaient des problématiques rencontrées par les utilisateurs. Ils présentaient des wireframes illustratifs des concepts puis c'était aux Designers de proposer des solutions en s'appuyant sur les guidelines internes de l'entreprise, avec comme outil, Sketch. Les product owners utilisent UML.
+        
 <br>
+        
     Pour cela nous avions des réunions afin de discuter sur que faire pour la suite, parfois in English.
+        
 <br>
+        
     Le product owner est l'unique responsable de l'actualisation du product backlog, priorise les user stories formulées dans le product backlog, prend des décisions structurantes à partir du product backlog, surveille le budget et le planning grâce au product backlog, participe à la transparence du projet avec le product backlog. 3 rôles de l'équipe Scrum (product owner, membre de l'équipe de développement et scrum master) des autres parties prenantes du projet.</p>
     
 <br>	

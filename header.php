@@ -93,12 +93,18 @@
 					
 					<a id="lock" href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
 
-					<div id="social">				
+					<div id="social">
+                        
                         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fab fa-facebook" alt="Facebook"></i></a>
+                        
                         <a href="https://github.com/thecatemma" class="rs" title="Github"><i class="fab fa-github" alt="GitHub"></i></a>
+                        
                         <a href="https://www.behance.net/hussonemmad23e" class="rs" title="Behance"><i class="fab fa-behance" alt="Behance"></i></a>
+                        
                         <a href="https://www.youtube.com/channel/UCHQyXitCjlQQrSXQCB-fn0w?" class="rs"><i class="fab fa-youtube"></i></a>
+                        
                         <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs"><i class="fab fa-linkedin"></i></a>
+                        
 					</div>
 			    </div>
 			 </div>	
@@ -112,14 +118,13 @@
 				    <span></span>
 				    <span></span>
 			
-			<ul class="nav">
-				<li><a href="index.php">Hello</a></li>
-				<li><a href="about.php">About</a></li>
-				<li><a href="portfolio.php">Internship</a></li>
-				<li><a href="blog.php">Waterfall</a></li>
-				<li><a href="contact.php">Keep in touch</a></li>
-			</ul>
+                <ul class="nav">
+                    <li><a href="index.php">Hello</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="portfolio.php">Internship</a></li>
+                    <li><a href="blog.php">Waterfall</a></li>
+                    <li><a href="contact.php">Keep in touch</a></li>
+                </ul>
 				
 			</div>
 		</nav>
-           
