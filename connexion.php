@@ -14,7 +14,7 @@ include('./header.php'); //contient le doctype, et head.
 		 <a href="index.php"> <h3>Retour</h3> </a>
         </form>
 
-	<?php
+<?php
 	include('./footer.php');
 
 //	mysql_close();
