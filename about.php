@@ -79,7 +79,7 @@
 			<td><h3>Principle</h3></td>
 			<td><h3>Zeplin</h3></td>
 		</tr>
-			<tr>
+        <tr>
 			<th><h2>Coding</h2></th>
 			<td><h3>html</h3></td>
 			<td><h3>css</h3></td>
