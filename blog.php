@@ -118,6 +118,12 @@
 
     <p>"58 95, ça c'est le plus bas c'est ça ?"</p>
 
+    <p>"HEMA toujours un coup d’avance"</p>
+
+    <p>"Une thèseeee"</p>
+
+    <p>"69€"</p>
+
     <p>"Come, no matter where you are, no matter how far"</p>
 
 <br>
