@@ -124,7 +124,17 @@
 
     <p>"69€"</p>
 
+    <p>"Les racines du mal" "Les fleurs du mal"</p>
+
     <p>"Come, no matter where you are, no matter how far"</p>
+
+    <p>02/12/19 : "Victime de son succès"</p>
+
+    <p>"Je sais pas où est-ce qu'on se connecte pour accéder à notre adresse mail"</p>
+
+    <p>"prenom.nom@mail-esd.com"</p>
+
+    <p>emmanuelle.husson@mail-esd.com</p>
 
 <br>
 
