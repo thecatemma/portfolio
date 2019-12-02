@@ -582,7 +582,7 @@ a:focus {
   width: 100%;
 }
 
-/*-- Bouton j'aime--*/	
+/* --- Bouton j'aime --- */	
 
 a.jaime { 
     display: inline-block; 
@@ -605,7 +605,7 @@ a.jaime-a-voter:hover {
         text-decoration: none; 
 }
 
-/*-- FORM --*/
+/* --- FORM --- */
 
 #article_bdd h3 {
 	text-align: center;
@@ -615,7 +615,7 @@ a.jaime-a-voter:hover {
 	color:#ff0000;
 }
 
-/*-- NAVBAR --*/
+/* --- NAVBAR --- */
 
 .nav {
 	font-family: 'Playfair Display SC', serif;
@@ -753,7 +753,6 @@ h1 {
 }
 
 h2 {
-	/*---font-size:24px;---*/
 	font-family: 'Pattaya', sans-serif;
 	color:rosybrown;
 	font-weight:300;
@@ -778,7 +777,7 @@ h4{
     color: mistyrose;
 }
 
-/*--- ARTICLE ---*/
+/* --- ARTICLE --- */
 
 #author {
     border-radius: 16px;
@@ -802,7 +801,7 @@ h4{
 	padding-left: 3%;
 }
 
-/* --- HEADER ---*/
+/* --- HEADER --- */
 
 #header	{
 	width: 100%; 
@@ -1130,7 +1129,7 @@ h4{
 	margin-bottom:20px;
 }
 
-/* --- PAGE APROPOS + portfolio --- */
+/* --- PAGE "A PROPOS" + Portfolio --- */
 
 #contener {
     display: flex;

@@ -11,7 +11,7 @@
 	display: block;
 }
 
-/* LOADER */
+/* --- LOADER --- */
 
 .bx-wrapper .bx-loading {
 	min-height: 50px;
@@ -24,7 +24,7 @@
 	z-index: 2000;
 }
 
-/* PAGER */
+/* --- PAGER --- */
 
 .bx-wrapper .bx-pager {
 	text-align: center;
@@ -60,7 +60,7 @@
 	background: #dfdfdd;
 }
 
-/* DIRECTION CONTROLS (NEXT / PREV) */
+/* --- DIRECTION CONTROLS (NEXT / PREV) --- */
 
 .bx-wrapper .bx-prev {
 	left: 10px;
@@ -143,7 +143,7 @@
 	width: 35px;
 }
 
-/* IMAGE CAPTIONS */
+/* --- IMAGE CAPTIONS --- */
 
 .bx-wrapper .bx-caption {
 	position: absolute;
