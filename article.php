@@ -1,5 +1,4 @@
 <?php
-
 // Controller servant pour afficher un article unique en fonction de son ID
 // Indiquer article.php?id=$id sinon redirige vers l'index.php
 
