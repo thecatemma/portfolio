@@ -87,23 +87,31 @@
     <div class="contain">
 
         <div class="links">
-            <h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2><br>
+            
+            <h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2>
+            
+<br>
         </div>
 
         <div class="links">
-            <h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2><br>
+            
+            <h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2>
+<br>
         </div>
 
         <div class="links">
-            <h2><img src="images/picto-graphic.png"> <a href="http://hemasn.000webhostapp.com/purple/purple.html" target="_blank">Landing Page</a></h2><br>
+            <h2><img src="images/picto-graphic.png"> <a href="http://hemasn.000webhostapp.com/purple/purple.html" target="_blank">Landing Page</a></h2>
+<br>
         </div>
 
         <div class="links">
-            <h2><img src="images/picto-pencil.png"> <a href="" target="_blank">Node.js try</a></h2><br>
+            <h2><img src="images/picto-pencil.png"> <a href="" target="_blank">Node.js try</a></h2>
+<br>
         </div>
 
         <div class="links">
-            <h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2><br>
+            <h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2>
+<br>
         </div>
 
     </div>	
@@ -134,15 +142,19 @@
 
     <p>"prenom.nom@mail-esd.com"</p>
 
-    <p>emmanuelle.husson@mail-esd.com</p>
+    <p>"emmanuelle.husson@mail-esd.com"</p>
 
-    <p>soeur Emmanuelle</p>
+    <p>"Soeur Emmanuelle"</p>
     
     <p>"L'idée c'est de pas faire comme l'Arbre, hyper réaliste"</p>
     
-    <p>Coeur photo story</p>
+    <p>"Coeur photo story"</p>
     
-    <p>Merci tu me fais économiser 100€</p>
+    <p>"Merci tu me fais économiser 100€"</p>
+
+    <p>"Y'avait une fosse, j'avais des potes bourés qui jetaient des bouteilles dedans"</p>
+
+    <p>"Moi je le paye pas je le vole" 4/12/2019</p>
 
 <br>
 
