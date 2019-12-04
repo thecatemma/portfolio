@@ -157,9 +157,12 @@
         <div class="slider5">
             
 			<div class="slide"><img src="images/carrousel_1.jpg" alt="Vue"></div>
-			<div class="slide"><img src="images/carrousel_3.jpg" alt="Mails"></div>
-  			<div class="slide"><img src="images/carrousel_4.jpg" alt="Data"></div>
-			<div class="slide"><img src="images/carrousel_5.jpg" alt="Connexion"></div>
+			<div class="slide"><img src="images/carrousel_2.jpg" alt="Mails"></div>
+  			<div class="slide"><img src="images/carrousel_3.jpg" alt="Data"></div>
+			<div class="slide"><img src="images/carrousel_4.jpg" alt="Connexion"></div>
+            <div class="slide"><img src="images/carrousel_5.jpg" alt="Connexion"></div>
+            <div class="slide"><img src="images/carrousel_6.jpg" alt="Connexion"></div>
+            <div class="slide"><img src="images/carrousel_7.jpg" alt="Connexion"></div>
             
 		</div>
         
