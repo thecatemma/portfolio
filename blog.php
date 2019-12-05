@@ -156,6 +156,8 @@
 
     <p>"Moi je le paye pas je le vole" 4/12/2019</p>
 
+    <p>"Je pensais partir mais j'attendais que quelqu'un revienne"</p>
+
 <br>
 
     <div>

@@ -392,74 +392,6 @@ a:focus {
 	line-height: 1;
 }
 
-@media screen and (min-width: 53em) {
-	.message {
-		display: none;
-	}
-	.frame {
-		position: fixed;
-		text-align: left;
-		z-index: 10000;
-		top: 0;
-		left: 0;
-		display: grid;
-		align-content: space-between;
-		width: 100%;
-		max-width: none;
-		height: 100vh;
-		padding: 3rem;
-		pointer-events: none;
-		grid-template-columns: 75% 25%;
-		grid-template-rows: auto auto auto;
-		grid-template-areas: 'title links'
-							'... ...'
-							'github demos';
-	}
-	.frame__title-wrap {
-		grid-area: title;
-		display: flex;
-	}
-	.frame__title {
-		margin: 0;
-	}
-	.frame__tagline {
-		position: relative;
-		margin: 0 0 0 1rem;
-		padding: 0 0 0 1rem;
-	}
-	.frame__github {
-		grid-area: github;
-		justify-self: start;
-		margin: 0;
-	}
-	.frame__demos {
-		margin: 0;
-		grid-area: demos;
-		justify-self: end;
-	}
-	.frame__links {
-		grid-area: links;
-		padding: 0;
-		justify-self: end;
-	}
-	.frame a {
-		pointer-events: auto;
-	}
-	.content {
-		height: 100vh;
-		justify-content: center;
-		width: 90%;
-	}
-	.grid {
-		padding: 70vh 4rem;
-		grid-template-columns: repeat(2,calc(50% - 10vw));
-		grid-row-gap: 50vh;
-	}
-	.grid__item:nth-child(even) {
-		margin-top: -45vh;
-	}
-}
-
 .contain {
     display: flex;
     flex-wrap: wrap;
@@ -546,6 +478,7 @@ a:focus {
 }
 
 /* This container is needed to position the front and back side */
+
 .flip-box-inner {
   position: relative;
   width: 100%;
@@ -556,22 +489,26 @@ a:focus {
 }
 
 /* Does an horizontal flip when you move the mouse over the flip box container */
+
 .flip-box:hover .flip-box-inner {
   transform: rotateX(180deg);
 }
 
 /* Position the front and back side */
+
 .flip-box-front, .flip-box-back {
   position: absolute;
   backface-visibility: hidden;
 }
 
 /* Style the front side */
+
 .flip-box-front {
   transform: rotateX(180deg);
 }
 
 /* Style the back side */
+
 .flip-box-back {
   background-image: radial-gradient(white 20%, transparent 20%),
      radial-gradient(rosybrown 20%, transparent 20%);
@@ -1404,7 +1341,7 @@ form {
 	margin-left: 50px;
 }
 
-/* --- Media Queries --- */
+/* --- MEDIA QUERIES --- */
 
 @media all and (min-width: 769px) {
 
@@ -1497,4 +1434,75 @@ h2 {
 .copyright {
 	text-align: center;
 }
+}
+
+/* MEDIA SCREEN CSS INDEX IMAGE JS */
+
+@media screen and (min-width: 53em) {
+	.message {
+		display: none;
+	}
+    
+	.frame {
+		position: fixed;
+		text-align: left;
+		z-index: 10000;
+		top: 0;
+		left: 0;
+		display: grid;
+		align-content: space-between;
+		width: 100%;
+		max-width: none;
+		height: 100vh;
+		padding: 3rem;
+		pointer-events: none;
+		grid-template-columns: 75% 25%;
+		grid-template-rows: auto auto auto;
+		grid-template-areas: 'title links'
+							'... ...'
+							'github demos';
+	}
+	.frame__title-wrap {
+		grid-area: title;
+		display: flex;
+	}
+	.frame__title {
+		margin: 0;
+	}
+	.frame__tagline {
+		position: relative;
+		margin: 0 0 0 1rem;
+		padding: 0 0 0 1rem;
+	}
+	.frame__github {
+		grid-area: github;
+		justify-self: start;
+		margin: 0;
+	}
+	.frame__demos {
+		margin: 0;
+		grid-area: demos;
+		justify-self: end;
+	}
+	.frame__links {
+		grid-area: links;
+		padding: 0;
+		justify-self: end;
+	}
+	.frame a {
+		pointer-events: auto;
+	}
+	.content {
+		height: 100vh;
+		justify-content: center;
+		width: 90%;
+	}
+	.grid {
+		padding: 70vh 4rem;
+		grid-template-columns: repeat(2,calc(50% - 10vw));
+		grid-row-gap: 50vh;
+	}
+	.grid__item:nth-child(even) {
+		margin-top: -45vh;
+	}
 }

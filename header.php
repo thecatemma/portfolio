@@ -75,7 +75,7 @@
     
 </head>
     
-  <!--  sécuriser mon site  google videos enlever les http sans S et commencer par un slash -->
+  <!--  sécuriser mon site  google videos enlever les http sans S et commencer par un / -->
 	
 <body>
 <div id="header"> </div>
