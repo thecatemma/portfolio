@@ -16,11 +16,11 @@
           
 	  </div>
 		
-		<section id="contenu-accueil">
-			<article>
-				<h1>HELLOWORLD</h1>
-			</article>
-		</section>
+    <section id="contenu-accueil">
+        <article>
+            <h1>HELLOWORLD</h1>
+        </article>
+    </section>
 		
 </header>
 
