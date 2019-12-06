@@ -6,6 +6,71 @@ Author URL: https://hemasn.com
 Description: Portfolio
 */
 
+/*--- BODY ---*/
+
+html, body{ 
+	height: 100%;
+}
+
+body { 
+    background:url()repeat-x;
+    background-color: #2b313e;
+	padding-top:5px; 
+	font-size: 14px;
+	margin:0;
+}
+
+a {
+	text-decoration:none; 
+	transition:0.5s;
+}
+
+a:hover {
+	color:#222; 
+	text-decoration: underline;
+}
+
+.clearboth {
+    clear:both
+}
+
+/*--- TITRES ---*/
+
+h1 {
+	font-family: 'Playfair Display SC', serif;
+	font-weight:200;
+	margin:0px 0px 5px 0px;
+	padding:10px;
+	border-bottom: 1px solid #59647e;
+}
+
+h2 {
+	font-family: 'Pattaya', sans-serif;
+	color:rosybrown;
+	font-weight:300;
+	margin:0px 0px 5px 0px;
+}
+
+h3 {
+	font-size:16px;
+	/*color:#324d5d;*/
+	font-weight:100;
+	margin:5px 0px 5px 5px;
+}
+
+h4{
+	font-size:16px;
+	color:#324d5d;
+	font-weight:100;
+	margin:5px 0px 5px 5px;
+}
+
+#p_article {
+    color: mistyrose;
+}
+
+/* OTHER CSS */
+
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{
 	display:block;
 }
@@ -312,6 +377,7 @@ a:focus {
 	/*position: relative;*/
 	width: 80%;
 	height: calc(100% - 13rem);
+    text-align: center;
 }
 
 .content__img {
@@ -433,7 +499,7 @@ a:focus {
 .php {width: 25%; background-color: rosybrown; color: white;}
 .node {width: 2%; background-color: purple; color: white;}
 
-/* IMG SHAKE */
+/*-- IMG SHAKE --*/
 
 .img {
     display: block;
@@ -649,69 +715,6 @@ a.jaime-a-voter:hover {
 	display: block;
 	display: flex;
     flex-wrap: wrap;
-}
-
-/*--- BODY ---*/
-
-html, body{ 
-	height: 100%;
-}
-
-body { 
-    background:url()repeat-x;
-    background-color: #2b313e;
-	padding-top:5px; 
-	font-size: 14px;
-	margin:0;
-}
-
-a {
-	text-decoration:none; 
-	transition:0.5s;
-}
-
-a:hover {
-	color:#222; 
-	text-decoration: underline;
-}
-
-.clearboth {
-    clear:both
-}
-
-/*--- TITRES ---*/
-
-h1 {
-	font-family: 'Playfair Display SC', serif;
-	font-weight:200;
-	margin:0px 0px 5px 0px;
-	padding:10px;
-	border-bottom: 1px solid #59647e;
-}
-
-h2 {
-	font-family: 'Pattaya', sans-serif;
-	color:rosybrown;
-	font-weight:300;
-	margin:0px 0px 5px 0px;
-}
-
-h3 {
-	font-size:16px;
-	/*color:#324d5d;*/
-	font-weight:100;
-	margin:5px 0px 5px 5px;
-}
-
-h4{
-	font-size:16px;
-	color:#324d5d;
-	font-weight:100;
-	margin:5px 0px 5px 5px;
-}
-
-#p_article {
-    color: mistyrose;
 }
 
 /* --- ARTICLE --- */
