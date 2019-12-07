@@ -14,7 +14,7 @@
          
           <li><p>UIUX | Design | Analytic Drawing | Art Direction | Code</p></li>
          
-          <li><p>Crête, Grèce, Ecosse, Maroc, Stockholm, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje. . . France. Suisse ?</p></li>
+          <li><p>Crête, Grèce, Ecosse, Maroc, Stockholm, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje. . . France. -> Suisse ?</p></li>
          
 	   </ul>	
 		
