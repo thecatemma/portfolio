@@ -40,7 +40,6 @@
 <footer id="footer2">
     
 	<div id="footer-bottom">
-        
 		<ul class="copyright">
 			<li>©<b>HEMASN</b> | Digital Designer</li><br>
 		</ul>
@@ -52,8 +51,7 @@
 			<li><a href="blog.php">Portfolio</a> | </li>
 			<li><a href="contact.php">Contact</a> | </li>
 			<li><a href="#">Mentions légales</a></li>
-		</ul>
-        
+		</ul>    
 	</div>
     
 </footer>
