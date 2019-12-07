@@ -12,6 +12,20 @@ html, body{
 	height: 100%;
 }
 
+body {
+	--color-text: #99a3bb;
+    background-color: #2b313e;
+    /* --color-link: #59647e; */
+    --color-link-hover: #cc8678;
+    --color-overlay: #451a11;
+    --color-tagline: #c69f64;
+	color: var(--color-text);
+	background-color: var(--color-bg);
+	font-family: Futura, 'IBM Plex Sans', Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
 body { 
     background:url()repeat-x;
     background-color: #2b313e;
@@ -71,7 +85,18 @@ h4{
 
 /* OTHER CSS */
 
-article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary{
 	display:block;
 }
 
@@ -243,20 +268,6 @@ table {
 	font-size: 16px;
 }
  
-body {
-	--color-text: #99a3bb;
-    background-color: #2b313e;
-    /* --color-link: #59647e; */
-    --color-link-hover: #cc8678;
-    --color-overlay: #451a11;
-    --color-tagline: #c69f64;
-	color: var(--color-text);
-	background-color: var(--color-bg);
-	font-family: Futura, 'IBM Plex Sans', Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
-
 .demo-2 {
 	--color-text: #000;
 	--color-bg: #a99894;
@@ -719,11 +730,6 @@ a.jaime-a-voter:hover {
 
 /* --- ARTICLE --- */
 
-#author {
-    border-radius: 16px;
-    border-color: lightblue;
-    background-color: #2b313e;
-}
 
 #comment {
     border-radius: 16px;
@@ -1183,7 +1189,7 @@ form {
 	border-color: lightblue;
 	padding: 10px;
 	width: 200px;
-	background-color: #2b313e;
+	background-color: transparent;
 }
 
 #pseudo {
@@ -1191,7 +1197,7 @@ form {
 	border-color: lightblue;
 	padding: 10px;
 	width: 200px;
-	background-color: #2b313e;
+	background-color: transparent;
 }
 
 #text_comment {
@@ -1203,7 +1209,7 @@ form {
 	border-radius: 3px;
 	border-color: lightblue;
 	width: 220px;
-	background-color: #2b313e;
+	background-color: transparent;
 }
 
 #captcha {

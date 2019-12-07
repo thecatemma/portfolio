@@ -103,10 +103,8 @@
                         
                         <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs"><i class="fab fa-linkedin"></i></a>
                         
-					</div>
-                    
+					</div> 
 			    </div>
-              
 			 </div>	
 
 		</div>
