@@ -5,6 +5,7 @@
     <?php    
     if ($_SERVER["SERVER_NAME"] != "localhost") {?>
     
+<!-- Sécuriser mon site - google videos - enlever les http sans S et commencer par un / -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143357752-1"></script>
     <?php } ?>
@@ -74,9 +75,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
     
 </head>
-    
-  <!--  sécuriser mon site - google videos - enlever les http sans S et commencer par un / -->
-	
+    	
 <body>
 <div id="header"> </div>
   <div id="conteneur">
