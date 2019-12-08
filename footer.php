@@ -10,7 +10,7 @@
 	 </ul>
 		
 	   <ul>
-          <li><div class="titre-footer"><a href="" class="rs" title="paytime"><i class="fab fa-buromobelexperte" alt="Paypal"></i></a></div></li>
+          <li><div class="titre-footer"><a href="" class="rs" title="paytime"><i class="fab fa-buromobelexperte" alt="Pay"></i></a></div></li>
          
           <li><p>UIUX | Design | Analytic Drawing | Art Direction | Code</p></li>
          
