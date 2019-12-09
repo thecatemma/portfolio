@@ -140,10 +140,6 @@
 
     <p>"Je sais pas où est-ce qu'on se connecte pour accéder à notre adresse mail"</p>
 
-    <p>"prenom.nom@mail-esd.com"</p>
-
-    <p>"emmanuelle.husson@mail-esd.com"</p>
-
     <p>"Soeur Emmanuelle"</p>
     
     <p>"L'idée c'est de pas faire comme l'Arbre, hyper réaliste"</p>
@@ -158,7 +154,9 @@
 
     <p>"Je pensais partir mais j'attendais que quelqu'un revienne"</p>
 
-    <p>"Je pensais partir mais j'attendais que quelqu'un revienne"</p>
+    <p>"Suite à cette blessure, stress post traumatique"</p>
+
+    <p>"Se sentir en sécurité pour avoir un nouveau comportement"</p>
 
 <br>
 
