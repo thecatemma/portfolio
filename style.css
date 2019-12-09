@@ -1009,6 +1009,7 @@ a.jaime-a-voter:hover {
 	height: auto; 
 	float:left;
 }
+
 .article-boucle ul {
 	padding:0;
 	margin:0; 
@@ -1016,6 +1017,7 @@ a.jaime-a-voter:hover {
 	float:left;
 	margin-right:13px;
 }
+
 .article-boucle ul:last-child {
 	padding:0;
 	margin:0; 
@@ -1023,11 +1025,13 @@ a.jaime-a-voter:hover {
 	float:left;
 	margin:0;
 }
+
 .article-boucle li {
 	padding:0;
 	margin:0;
 	list-style:none;
 }
+
 .article-boucle	img {
 	transition: opacity .4s; 
 	-moz-transition: all 0.3s ease-in-out 0s; 
