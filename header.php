@@ -86,7 +86,7 @@
 					
 			 <a id="logo" href="index.php"><b>HE</b>MASN.</a>
 				
-				<div id="droite">
+				<div id="top_right">
 					
 					<a id="lock" href="connexion.php" title="lock"><img src="images/header-lock.png" alt="Mon compte"></a>
 
