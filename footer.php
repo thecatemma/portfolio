@@ -19,7 +19,7 @@
 	   </ul>	
 		
         <ul>     
-		  <li><div class="titre-footer">Follow <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs" title="Everywhere"><i class="fa fa-globe" alt="Globe"></i></a></div></li>
+		  <li><div class="titre-footer"><a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs" title="Everywhere"><i class="fa fa-globe" alt="Globe"></i></a></div></li>
              
 		   <li id="img_footer">
                 <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/"><img src="images/icon-linkedin-footer.png" alt="Facebook"></a>

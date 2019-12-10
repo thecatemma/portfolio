@@ -278,7 +278,7 @@
                     auto:true,
                   });
                 });
-                
+       
             </script>
 
      </section>	
@@ -324,7 +324,7 @@
 <br>
             Votre plus grande réussite: progresser + ce site 
 <br>
-            Leçon: réussir à être autonome et rester focus
+            Leçon: réussir à être autonome et rester concentré
 <br>
             Compétences acquises: Décortiquer des composants UI UX, travailler avec des équipes, comprendre l'écosystème
 <br>
@@ -340,15 +340,12 @@
         Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et spécialité UIUX. 
 <br>
         Cela m'a ouvert sur de nouveaux horizons dans ce domaine, je vais peut-être évoluer comme Evoli dans cette entreprise ou ailleurs.</p>
-
 <br>
 
 <h1>Scroll for articles</h1>
     
-<br>
-    
+<br> 
     <h2>Day by Day at SAP</h2>
-
 <br>
     
 <?php include('./index-articles.php'); ?>
@@ -357,7 +354,6 @@
 <h1>Remerciements</h1>
 
 <br>
-
         <p id="thanks_sap">
             Je tenais à remercier Audrey et Assia sans qui cela n'aurait pas été possible<br>
             Je tiens aussi à remercier Cédric, mon Buddy, qui m'a guidé à mon arrivée dans l'entreprise et le temps consacré aux explications, et aussi toute l'équipe UX Design, UA Design et IRPA qui m'ont apporté beaucoup de choses ce qui m'a aidé a être propulsée plus haut que je n'imaginais (au 11e étage) <br>
