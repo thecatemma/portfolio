@@ -12,8 +12,7 @@
               <p>Welcome ! <br> I'm Emmanuelle, <br> A countryside's cat <br> Find here informations about me</p>
   		</div>
           
-         <a><i class="fa fa-cat" alt="cat"></i></a> 
-          
+         <a><i class="fa fa-cat" alt="cat"></i></a>  
 	  </div>
 		
     <section id="contenu-accueil">
@@ -29,14 +28,15 @@
    <div id="slide-accueil">
 	<div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
-            <li><a href="#"><img src="images/slider_11.png" alt="slide1"/></a></li>
-            <li><a href="#"><img src="images/slider_1.png" alt="slide2"/></a></li>
-            <li><a href="#"><img src="images/slide3.jpg" alt="slide3"/></a></li>
-            <li><a href="#"><img src="images/slide2.jpg" alt="slide4"/></a></li>
-            <li><a href="#"><img src="images/slide1.jpg" alt="slide5"/></a></li>
-            <li><a href="#"><img src="images/slider-7.png" alt="slide6"/></a></li>
-            <li><a href="#"><img src="images/slider_3.png" alt="slide7"/></a></li>
-            <li><a href="#"><img src="images/slider_5.png" alt="slide8"/></a></li>
+            <li><a href="#"><img src="images/slider_11.png" alt="dashboard"/></a></li>
+            <li><a href="#"><img src="images/slider_1.png" alt="webdesign"/></a></li>
+            <li><a href="#"><img src="images/slide3.jpg" alt="webdesign"/></a></li>
+            <li><a href="#"><img src="images/slider_12.png" alt="dashboard"/></a></li>
+            <li><a href="#"><img src="images/slide2.jpg" alt="poster"/></a></li>
+            <li><a href="#"><img src="images/slide1.jpg" alt="webdesign"/></a></li>
+            <li><a href="#"><img src="images/slider-7.png" alt="webdesign"/></a></li>
+            <li><a href="#"><img src="images/slider_3.png" alt="webdesign"/></a></li>
+            <li><a href="#"><img src="images/slider_5.png" alt="dashboard"/></a></li>
         </ul>
     </div>
    </div>

@@ -2,25 +2,26 @@
     
 	<div id="footer-top">
 	 <ul>
-          <li><div class="titre-footer">PORT<b>FOLIO</b></div></li>
+          <li><div class="footer-title">PORT<b>FOLIO</b></div></li>
 
           <li><p>Emmanuelle Husson, est née passionnée par l'Art, la création et le Design. Elle pense que l'humain ne doit créer que s'il arrive à hauteur de la nature en terme d'esthétisme. La nature n'a pas besoin de lui, elle se crée seule. Après exploration en informatique, elle souhaite poursuivre sa réalisation de projets artistiques.
             <br>"husson" est un nom de famille assez repandu en lorraine et dans l'est, represente une forme affective de hue, nom de personne d'origine germanique, issu de hug qui signifie intelligence, esprit .</p></li>
-
 	 </ul>
 		
 	   <ul>
-          <li><div class="titre-footer"><a href="" class="rs" title="paytime"><i class="fab fa-buromobelexperte" alt="Pay"></i></a></div></li>
+          <li><div class="footer-title"><a href="" class="rs" title="paytime"><i class="fab fa-buromobelexperte" alt="Pay"></i></a></div></li>
          
           <li><p>UIUX | Design | Analytic Drawing | Art Direction | Code</p></li>
          
-          <li><p>Crête, Grèce, Ecosse, Maroc, Stockholm, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje. . . France. Suisse ?</p></li>
-         
+          <li><p>Crête, Grèce, Ecosse, Maroc, Stockholm, Berlin, Amsterdam, Espagne, Tunisie, Sicile, Malte, Corse, Chypre, Londres, Prague, Vienne, Skopje, France. 
+<br>              
+          Suisse ?</p></li>
 	   </ul>	
 		
         <ul>     
-		  <li><div class="titre-footer"><a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs" title="Everywhere"><i class="fa fa-globe" alt="Globe"></i></a></div></li>
-             
+		   <li>
+              <div class="footer-title"><a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/" class="rs" title="Everywhere"><i class="fa fa-globe" alt="Globe"></i></a></div>
+           </li>
 		   <li id="img_footer">
                 <a href="https://www.linkedin.com/in/emmanuelle-husson-92709b130/"><img src="images/icon-linkedin-footer.png" alt="Facebook"></a>
                 <a href="https://hemasn.tumblr.com/"><img src="images/icon-twitter-footer.png" alt="Twitter"></a>
@@ -29,7 +30,6 @@
                 <a><img id="logo_footer" src="images/logo.png" alt="logo"></a>
 		   </li>
         </ul>
-
      <div class="clearboth"></div>		
 	</div>
     

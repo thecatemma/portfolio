@@ -121,9 +121,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <h1>BYEWORLD</h1>
 
 <br>
-
     <img src="images/map.png" id="world">
-
 <br>
 
 <h2>A bientôt sur Terre
