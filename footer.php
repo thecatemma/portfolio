@@ -1,6 +1,6 @@
 <footer id="footer">
     
-	<div id="footer-top">
+    <div id="footer-top">
 	 <ul>
           <li><div class="footer-title">PORT<b>FOLIO</b></div></li>
 

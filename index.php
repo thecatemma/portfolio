@@ -56,7 +56,6 @@
 <br>
 
     <div id="contener">
-
         <div class="yt">
             <video controls preload="metadata" height="270px">
             <source src="images/HomePage.mp4">

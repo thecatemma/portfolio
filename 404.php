@@ -13,13 +13,12 @@
         </h1>
       </header>
 
-     <div class="page-content">
-       <p><?php esc_html_e('It looks like nothing was found at this location. Maybe try one of the links below or a search?', ''); ?></p>
-
-        <br>
-        <br>
-           </div>
-        </section>
+        <div class="page-content">
+            <p><?php esc_html_e('It looks like nothing was found at this location. Maybe try one of the links below or a search?', ''); ?></p>
+<br>
+<br>
+        </div>
+      </section>
     </div>
  </main>
 </div>

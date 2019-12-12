@@ -88,8 +88,8 @@
 			<td><h3>mysql</h3></td>
 		</tr>
 
-	</table><br>
-     
+	</table>
+<br> 
      <h1>SKILLS        
         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-bookmark" alt="Facebook"></i></a>  
      </h1>
