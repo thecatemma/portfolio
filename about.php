@@ -182,7 +182,7 @@
 	
      </section>
     
-
+<br>
     
     <div>
         <img src="images/root10.png" width="100%" alt="Profile">
