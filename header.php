@@ -118,9 +118,9 @@
                 <ul class="nav">
                     <li><a href="index.php">Hello</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="portfolio.php">Internship</a></li>
-                    <li><a href="blog.php">Waterfall</a></li>
-                    <li><a href="contact.php">Keep in touch</a></li>
+                    <li><a href="portfolio.php">Experience</a></li>
+                    <li><a href="blog.php">Portfolio</a></li>
+                    <li><a href="contact.php">Touch</a></li>
                 </ul>
 				
 			</div>

@@ -6,7 +6,7 @@ Author URL: https://hemasn.com
 Description: Portfolio
 */
 
-/* BODY */
+/*--- BODY ---*/
 
 html, body{ 
 	height: 100%;
@@ -489,7 +489,7 @@ a:focus {
     font-size: 24px !important;
 }
 
-/*-- LABELS --*/
+/*--- LABELS ---*/
 
 .label {
   color: white;
@@ -503,7 +503,7 @@ a:focus {
 .danger {background-color: #f44336;}
 .other {background-color: #e7e7e7; color: black;}
 
-/* BARS PAGE ABOUT */
+/*--- BARS PAGE ABOUT ---*/
 
 .html {width: 90%; background-color: darkseagreen; color: white;}
 .css {width: 85%; background-color: rebeccapurple; color: white;}
@@ -539,7 +539,7 @@ a:focus {
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
-/* Flip box Page Portfolio */
+/*--- Flip box Page Portfolio ---*/
 
 .flip-box {
     background-color: transparent;
@@ -555,7 +555,7 @@ a:focus {
     border-width: 10px;
 }
 
-/* This container is needed to position the front and back side */
+/*--- This container is needed to position the front and back side ---*/
 
 .flip-box-inner {
   position: relative;
@@ -566,26 +566,26 @@ a:focus {
   transform-style: preserve-3d;
 }
 
-/* Does an horizontal flip when you move the mouse over the flip box container */
+/*--- Does an horizontal flip when you move the mouse over the flip box container ---*/
 
 .flip-box:hover .flip-box-inner {
   transform: rotateX(180deg);
 }
 
-/* Position the front and back side */
+/*--- Position the front and back side ---*/
 
 .flip-box-front, .flip-box-back {
   position: absolute;
   backface-visibility: hidden;
 }
 
-/* Style the front side */
+/*--- Style the front side ---*/
 
 .flip-box-front {
   transform: rotateX(180deg);
 }
 
-/* Style the back side */
+/*--- Style the back side ---*/
 
 .flip-box-back {
   background-image: radial-gradient(white 20%, transparent 20%),
@@ -597,7 +597,7 @@ a:focus {
   width: 100%;
 }
 
-/* Bouton j'aime */	
+/*--- Bouton j'aime ---*/	
 
 a.jaime { 
     display: inline-block; 
@@ -620,7 +620,7 @@ a.jaime-a-voter:hover {
         text-decoration: none; 
 }
 
-/* --- FORM --- */
+/*--- FORM ---*/
 
 #article_bdd h3 {
 	text-align: center;
@@ -630,7 +630,7 @@ a.jaime-a-voter:hover {
 	color:#ff0000;
 }
 
-/* --- NAVBAR --- */
+/*--- NAVBAR ---*/
 
 .nav {
 	font-family: 'Playfair Display SC', serif;
@@ -693,20 +693,8 @@ a.jaime-a-voter:hover {
 
 /*--- PAGE  ---*/
 
-#texte_sap {
+#text_sap {
 	text-align: center;
-}
-
-#results_sap {
-  text-align: center;  
-}
-
-#projet_sap {
-   text-align: center;  
-}
-
-#thanks_sap {
-   text-align: center;  
 }
 
 #article_bdd {
@@ -729,7 +717,7 @@ a.jaime-a-voter:hover {
     flex-wrap: wrap;
 }
 
-/* --- ARTICLE --- */
+/*--- ARTICLE ---*/
 
 
 #comment {
@@ -883,7 +871,7 @@ a.jaime-a-voter:hover {
 	margin-top: 60px;
 }
 
-/* --- SLIDER --- */
+/*--- SLIDER ---*/
 
 #slide-accueil {
 	margin-bottom: 30px;
@@ -1080,7 +1068,153 @@ a.jaime-a-voter:hover {
 	margin-bottom:20px;
 }
 
-/* --- PAGE "A PROPOS" + Portfolio --- */
+/* --- PAGE Portfolio --- */
+
+.portfolio {
+    margin: 1%;
+    display: inline-block;
+}
+
+.first-part {
+ 	display: flex;
+    justify-content: center;
+}
+
+.title-section {
+	text-align:center;
+}
+
+.title-section h2 {
+	margin-bottom: 0;
+    position: relative;
+    bottom: 10%;
+}
+
+.title-section .separation {
+	border-bottom: 1px solid darkgray;
+    width:130px;
+    display:inline-block;
+    position:relative;
+    z-index:0;
+}
+
+.title-section .separation::before {
+	content: "\f111";
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #5CABD1;
+    position: absolute;
+	top: -10px;
+    left: 50%;
+	padding:0;
+	-webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+    z-index: 5;
+}
+
+.title-section .separation::after {
+	content: "\f111";
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    padding:0;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    justify-content: center;
+}
+
+.portfolio {
+    margin: 1%;
+    display: inline-block;
+}
+
+.eye {
+    position: relative;
+    width: 50px;
+    left: 75%;
+    bottom: 60px;
+    height: 50px;
+    border: 1.5px solid;
+    border-radius: 50%;
+    z-index: 1;
+    background-color: #5CABD1;
+	color: white;
+}
+
+.oeil {
+    width: 22px;
+    position: absolute;
+    left: 55%;
+    top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#info {
+    background-color: #5CABD1;
+    color: white;
+	margin-top: 30px;
+    padding: 15px;
+    border-radius: 3px 3px 3px 3px;
+	width: 60px;
+    border-bottom: 3px solid steelblue;
+}
+
+/*---------- IMAGES PORTFOLIO ----------*/
+
+figure {
+    position: relative;
+    width: 280px;
+    height: 200px;
+    overflow: hidden;
+}
+
+figcaption {
+    position: absolute;
+    top: 53%;
+    padding-top: 5px;
+    padding-left: 15px;
+    margin-left: 0px;
+    background: rgba(0, 0, 0, 0.38);
+    color: white;
+    transition:  top 1s;
+    opacity: 0;
+    width: 100%;
+	height: 40.5%;
+	bottom: 0px;
+}
+
+figcaption p {
+    position: absolute;
+    top: 35px;
+    color: white;
+	font-size: 15px;
+}
+
+figure.portfolio:hover figcaption {
+	opacity: 1;
+    -webkit-animation: up 2s; 
+    animation: up 2s; 
+}
+
+figure img {
+	width:100%;
+}
+
+/*--- PAGE 4---*/
 
 #contener {
     display: flex;
@@ -1093,7 +1227,7 @@ a.jaime-a-voter:hover {
 }
 
 .serie {
-    border-radius: 50px;
+    border-radius: 5px;
 }
 
 .photos_serie {
@@ -1108,7 +1242,7 @@ a.jaime-a-voter:hover {
     border-radius: 100px;
 }
 
-/* --- PAGE ABOUT --- */
+/*--- PAGE ABOUT ---*/
 
 #CV h1 {
 	color:#59647e;
@@ -1142,7 +1276,7 @@ tr {
     border-bottom: 1px dotted BLANCHEDALMOND;
 }
 
-/* --- MAP --- */
+/*--- MAP ---*/
 
 #map {
 	width: 95%;
@@ -1164,7 +1298,7 @@ tr {
     border-width: 10px;
 }
 
-/* --- FORMULAIRE --- */
+/*--- FORMULAIRE ---*/
 
 form { 
 	text-align: center;
@@ -1174,10 +1308,6 @@ form {
 	text-align: center;
 	margin: none;
 	padding-bottom: 30px;
-}
-
-#post_comment {
-	color: rosybrown;
 }
 
 #author {
@@ -1231,7 +1361,7 @@ form {
 	font-size: 15px;
 }
 
-/* --- FOOTER --- */
+/*--- FOOTER ---*/
 
 #footer	{
 	width:100%; 

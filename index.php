@@ -23,6 +23,13 @@
 		
 </header>
 
+    <div class="first-part">
+        <div class="title-section">
+            <h2>Last Projects</h2>
+            <span class="separation"></span>
+        </div>
+    </div>
+
 <br>
 
    <div id="slide-accueil">
@@ -51,7 +58,14 @@
     </script>
 
 
-<h1>Project example</h1>
+<h1>Example</h1>
+
+    <div class="first-part">
+        <div class="title-section">
+            <h2>Animation</h2>
+            <span class="separation"></span>
+        </div>
+    </div>
 
 <br>
 

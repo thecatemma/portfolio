@@ -13,6 +13,13 @@
 	    
   <h1>Profile</h1>
     
+    <div class="first-part">
+        <div class="title-section">
+            <h2>Mood</h2>
+            <span class="separation"></span>
+        </div>
+    </div>
+    
 <br>
 
     <div id="contener">
@@ -47,8 +54,17 @@
 	<h1>EDUCATION
         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-graduation-cap" alt="Facebook"></i></a>
     </h1>
+    
+    <div class="first-part">
+        <div class="title-section">
+            <h2>Ascending</h2>
+            <span class="separation"></span>
+        </div>
+    </div>
      
-        
+<br>
+     
+   <div id="text_sap">     
 	<h3>2020/2023<br>Projet de thèse ++<br>
         <b>2019/2020</b><br>Second year Master Degree - Digital Creation UIUX<br>
 		2018/2019<br>First year Master Degree - Digital Creation UIUX<br>
@@ -57,38 +73,41 @@
 		2014/2015<br>Graphic Design<br>
 		2013/2014<br>Foundation Year in Applied Arts MANAA<br>
 	</h3>
+   </div>
 
 	<h1>TOOLS
         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-mouse-pointer" alt="Mouse"></i></a>
     </h1>
 
-	<table>
-		<tr>
-			<th><h2>Programs</h2></th>
-			<td><h3>Photoshop</h3></td>
-			<td><h3>Illustrator</h3></td>
-			<td><h3>InDesign</h3></td>
-			<td><h3>After Effect</h3></td>
-			<td><h3>Premiere</h3></td>
-		</tr>
-		<tr>
-			<th><h2>Sketching</h2></th>
-			<td><h3>Adobe XD</h3></td>
-			<td><h3>Sketch</h3></td>
-			<td><h3>Figma</h3></td>
-			<td><h3>Principle</h3></td>
-			<td><h3>Zeplin</h3></td>
-		</tr>
-        <tr>
-			<th><h2>Coding</h2></th>
-			<td><h3>html</h3></td>
-			<td><h3>css</h3></td>
-			<td><h3>js</h3></td>
-			<td><h3>php</h3></td>
-			<td><h3>mysql</h3></td>
-		</tr>
+    <div id="text_sap">
+        <table>
+            <tr>
+                <th><h2>Programs</h2></th>
+                <td><h3>Photoshop</h3></td>
+                <td><h3>Illustrator</h3></td>
+                <td><h3>InDesign</h3></td>
+                <td><h3>After Effect</h3></td>
+                <td><h3>Premiere</h3></td>
+            </tr>
+            <tr>
+                <th><h2>Sketching</h2></th>
+                <td><h3>Adobe XD</h3></td>
+                <td><h3>Sketch</h3></td>
+                <td><h3>Figma</h3></td>
+                <td><h3>Principle</h3></td>
+                <td><h3>Zeplin</h3></td>
+            </tr>
+            <tr>
+                <th><h2>Coding</h2></th>
+                <td><h3>html</h3></td>
+                <td><h3>css</h3></td>
+                <td><h3>js</h3></td>
+                <td><h3>php</h3></td>
+                <td><h3>mysql</h3></td>
+            </tr>
 
-	</table>
+        </table>
+     </div>
 <br> 
      <h1>SKILLS        
         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-bookmark" alt="Facebook"></i></a>  
@@ -119,31 +138,28 @@
           <div class="skills node">1%</div>
         </div>
 	
-     <h1>EXPERIENCE
-         
-        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-cat" alt="Facebook"></i></a>
-         
+     <h1>EXPERIENCE 
+        <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-cat" alt="Facebook"></i></a> 
      </h1>
-     
-    <h3>Three internships<br>
-    Free-lance<br>Projects<br>Life<br></h3> <span class="voir-portfolio"><a href="portfolio.php"></a></span> <br>
+    <div id="text_sap">
+        <h3>Three internships<br>
+        Free-lance<br>Projects<br>Life<br></h3> <span class="voir-portfolio"><a href="portfolio.php"></a></span>
+    </div>
 
      <h1>INTERESTS
-         
-         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-heartbeat" alt="Facebook"></i></a>        
-         
+         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-heartbeat" alt="Facebook"></i></a>          
      </h1>
-     
+     <div id="text_sap">
         <h3>Travels <br> Environment <br> Nature</h3>
+     </div>
 
      <h1>LANGUAGES
-         
           <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="comment"><i class="fa fa-comment" alt="Comment"></i></a>         
-         
      </h1>
-     
+     <div id="text_sap">
         <h3>French<br>English<br>++</h3>
-        
+     </div>
+     
 	  <h1>ON BOARD
           
          <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="eye"><i class="fa fa-eye" alt="Eye"></i></a> 

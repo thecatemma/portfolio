@@ -92,7 +92,12 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
     <div id="formulaire">
         
-     <h2 id="post_comment">Contact</h2>
+        <div class="first-part">
+            <div class="title-section">
+                <h2>Contact</h2>
+                <span class="separation"></span>
+            </div>
+        </div>
         
       <form method="post" action="mail.php">
 
