@@ -3,6 +3,9 @@
 
 ?>
 
+</header>
+
+
       <div id="Infos">
   		<div>
             <img src="images/emma.jpg" alt="profile_photo">
@@ -14,14 +17,10 @@
           
          <a><i class="fa fa-cat" alt="cat"></i></a>  
 	  </div>
-		
-    <section id="contenu-accueil">
-        <article>
+
+<div id="conteneur">
+    
             <h1>HELLOWORLD</h1>
-        </article>
-    </section>
-		
-</header>
 
     <div class="first-part">
         <div class="title-section">
@@ -68,16 +67,6 @@
     </div>
 
 <br>
-
-    <div id="contener">
-        <div class="yt">
-            <video controls preload="metadata" height="270px">
-            <source src="images/HomePage.mp4">
-            </video>
-        </div>
-    </div>
-
-<br>
 		
 	<section id="articles">
 		<h1>Number</h1>
@@ -103,7 +92,7 @@
         <script src="js2/materials/liquidDistortMaterial.js"></script>
 		<script src="js2/imagesloaded.pkgd.min.js"></script>
 		<script src="js2/demo2.js"></script>
-</div> 
+</div>
 
 <?php		
 	include 'footer.php';

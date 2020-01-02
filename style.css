@@ -1098,6 +1098,20 @@ a.jaime-a-voter:hover {
     z-index:0;
 }
 
+/*
+.title-section .separation i {
+    z-index:5;
+    top: -50px !important;
+    color: white;
+}
+*/
+
+.separation i {
+    z-index:5;
+    color: white;
+}
+
+/*
 .title-section .separation::before {
 	content: "\f111";
     font-family: 'FontAwesome';
@@ -1129,6 +1143,7 @@ a.jaime-a-voter:hover {
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
 }
+*/
 
 #container {
     display: flex;

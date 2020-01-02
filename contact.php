@@ -81,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 }
 ?>
 
-
+<div id="conteneur">
     <section id="contenu-accueil">
         <article>
             <h1>Inbox</h1>
@@ -137,6 +137,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
 <br>
 
+</div>
 </div>
 
 <?php		

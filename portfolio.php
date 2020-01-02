@@ -4,6 +4,8 @@
 
 </header>
 
+<div id="conteneur">
+
 <h1>SAP</h1>
 
         <div class="first-part">
@@ -12,8 +14,6 @@
                 <span class="separation"></span>
             </div>
         </div>
-
-<div id="conteneur">
     
         <p id="text_sap">
             Mes dates de contrat de stage étaient du 18 février au 17 août, à Levallois. 
@@ -102,7 +102,7 @@
             <div class="title-section">
                 <h2>Smart Predict</h2>
                 <span class="separation"></span>
-                <p>Conquérir de nouveaux territoires d'expression. Voici nos dernières vidéos...</p>
+                <p>Produit sur lequel j'ai travaillé</p>
             </div>
         </div>
         
@@ -129,7 +129,7 @@
               <div class="title-section">
                   <h2>Illustrations</h2>
                   <span class="separation"></span>
-                   <p>Conquérir de nouveaux territoires d'expression. Voici nos dernières vidéos...</p>
+                   <p>Illustrations pour la UA</p>
               </div>
           </div>
     
@@ -153,7 +153,7 @@
               <div class="title-section">
                   <h2>Participation</h2>
                   <span class="separation"></span>
-                   <p>Conquérir de nouveaux territoires d'expression. Voici nos dernières vidéos...</p>
+                   <p>Diverses photos</p>
               </div>
           </div>
         
@@ -266,6 +266,7 @@
     </div>
 
 <br>
+<br>
         
         <div class="first-part">
             <div class="title-section">
@@ -307,7 +308,7 @@
      </section>
         
 <br>
-
+<br>
         <div class="first-part">
             <div class="title-section">
                 <h2>Sketchings EBC</h2>

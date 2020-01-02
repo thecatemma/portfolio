@@ -5,13 +5,15 @@
 
 </header>
 
+<div id="conteneur">
+
 <h1>Galerie</h1>
 
     <section id="portfolio" class="our-projets">
           <div class="first-part">
               <div class="title-section">
                   <h2>Nos Projets</h2>
-                  <span class="separation"></span>
+                  <span class="separation"><i class="fas fa-circle"></i></span>
                    <p>Voici nos dernières réalisations</p>
               </div>
           </div>
@@ -52,12 +54,12 @@
                     <div class="eye"><i class="fa fa-eye oeil"></i></div>
                   </figcaption>
               </figure>
-
+              
               <figure class="portfolio">
-                    <img src="images/portfolio-8.jpg" alt="Shopping">
+                    <img src="images/slider_1.png" alt="Space">
                   <figcaption>
-                    <h3>Photoshop</h3>
-                    <p>Nature</p>
+                    <h3>Design</h3>
+                    <p>Jewel</p>
                     <div class="eye"><i class="fa fa-eye oeil"></i></div>
                   </figcaption>
               </figure>
@@ -70,11 +72,11 @@
                     <div class="eye"><i class="fa fa-eye oeil"></i></div>
                   </figcaption>
               </figure>
-
+              
               <figure class="portfolio">
-                    <img src="images/slider_1.png" alt="Space">
+                    <img src="images/slide1.jpg" alt="Shopping">
                   <figcaption>
-                    <h3>Design</h3>
+                    <h3>Mockup</h3>
                     <p>Jewel</p>
                     <div class="eye"><i class="fa fa-eye oeil"></i></div>
                   </figcaption>
@@ -108,10 +110,6 @@
         <div id="contener">
 
             <div class="yt">
-                <iframe width="400" height="200" src="https://www.youtube.com/embed/C9dP2YIgNRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-
-            <div class="yt">
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
@@ -130,14 +128,12 @@
             <div class="yt">
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/-49fwbsFe_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-
+            
             <div class="yt">
-                <iframe width="400" height="200" src="https://www.youtube.com/embed/x05ibXMXBLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-
-            <div class="yt">
-                <iframe width="400" height="200" src="https://www.youtube.com/embed/e1PylBR1flU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+              <video controls preload="metadata" width="400" height="200">
+                 <source src="images/HomePage.mp4">
+              </video>
+             </div>
 
         </div>
     </section>
