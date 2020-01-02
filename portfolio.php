@@ -87,7 +87,7 @@
     <section>
           <div class="first-part">
               <div class="title-section">
-                  <h2>Mission</h2>
+                  <h2>Organisation</h2>
                   <span class="separation"></span>
                    <p>Presentation</p>
               </div>
