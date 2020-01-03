@@ -161,7 +161,7 @@
 			<div class="slide"><img src="images/carrousel_4.jpg" alt="Data"></div>
             <div class="slide"><img src="images/carrousel_5.jpg" alt="Connexion"></div>
             <div class="slide"><img src="images/carrousel_6.jpg" alt="Exhibition"></div>
-            <div class="slide"><img src="images/carrousel_7.jpg" alt="Origin_Dream"></div>
+            <div class="slide"><img src="images/carrousel_7.jpg" alt="Origin"></div>
             
 		</div>
         
