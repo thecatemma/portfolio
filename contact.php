@@ -125,6 +125,13 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
 <h1>BYEWORLD</h1>
 
+    <div class="first-part">
+        <div class="title-section">
+            <h2>Dotted</h2>
+            <span class="separation"></span>
+        </div>
+    </div>
+
 <br>
     <img src="images/map.png" id="world">
 <br>
