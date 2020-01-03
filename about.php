@@ -8,7 +8,7 @@
 <div id="conteneur">
     
     <div>
-        <img src="images/root10.png" width="100%" alt="Profile">
+        <img src="images/root10.png" width="100%" alt="Root">
     </div>
 	    
   <h1>Profile</h1>
