@@ -96,7 +96,7 @@
 
 <br>
 
-<h1>The eyes</h1><br>
+ <h1>The eyes</h1><br>
 
     <section>
           <div class="first-part">
