@@ -123,7 +123,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 
 <br>
 
-<h1>BYEWORLD</h1>
+ <h1>BYEWORLD</h1>
 
     <div class="first-part">
         <div class="title-section">
