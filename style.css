@@ -1585,10 +1585,13 @@ table,
     width: auto!important;
 }
 
+<<<<<<< HEAD
 h2 {
 	text-align: center;
 }
 
+=======
+>>>>>>> parent of 0c29ad5... responsive + tri
 .copyright {
 	text-align: center;
 }

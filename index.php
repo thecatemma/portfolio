@@ -12,7 +12,7 @@
             
              <h3><b>HE</b>MASN</h3>
             
-              <p>Welcome ! <br> I'm Emmanuelle, <br> A countryside's cat <br> Find here informations about me</p>
+              <p>Welcome ! <br> I'm Emmanuelle, <br> Find here information about me</p>
   		</div>
           
          <a><i class="fa fa-cat" alt="cat"></i></a>  
@@ -47,7 +47,7 @@
     </div>
    </div>
 
-<script src="js/jquery.cbpFWSlider.min.js"></script>
+    <script src="js/jquery.cbpFWSlider.min.js"></script>
 
     <script>
         $( function() {
@@ -56,15 +56,16 @@
             } );
     </script>
 
+<br>
 
-<h1>Example</h1>
+ <h1>Example</h1>
 
-    <div class="first-part">
-        <div class="title-section">
-            <h2>Animation</h2>
-            <span class="separation"></span>
-        </div>
-    </div>
+     <div class="first-part">
+         <div class="title-section">
+             <h2>Animation</h2>
+             <span class="separation"></span>
+         </div>
+     </div>
 
 <br>
 		
@@ -76,7 +77,7 @@
 		<main>
 			<div class="frame">
 			</div>
-			 <div class="content">
+			<div class="content">
 				<div class="content__img-wrap">
 					<div class="content__img"></div>
 					<div class="content__img"></div>
@@ -85,7 +86,7 @@
 				<div class="content__text">
 					<span class="content__text-inner">.011</span>
 				</div>
-			 </div>
+			</div>
 		</main>
 
 		<script src="js2/blotter.min.js"></script>
