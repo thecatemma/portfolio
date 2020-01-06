@@ -136,11 +136,11 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
     <img src="images/map.png" id="world">
 <br>
 
-<h2>A bientôt sur Terre
+  <h2>A bientôt sur Terre
     
     <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-suitcase" alt="Facebook"></i></a>
     
-</h2>
+  </h2>
 
 <br>
 
