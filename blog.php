@@ -7,7 +7,7 @@
 
 <div id="conteneur">
 
-<h1>Galerie</h1>
+ <h1>Galerie</h1>
 
     <section id="portfolio" class="our-projets">
           <div class="first-part">
