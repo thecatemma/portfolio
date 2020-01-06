@@ -363,7 +363,7 @@
         </p>
 <br>
     
-<h1>PROJET</h1>
+ <h1>PROJET</h1>
     
         <p id="text_sap">
         Passionnée de design, j'ai de l'expérience technique. J'ai débuté mes études en Arts, Design Graphique puis Web et Création Digitale UIUX. 
