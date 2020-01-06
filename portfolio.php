@@ -343,7 +343,7 @@
     
     </section>
     
-<h1>Bilan et perspectives</h1><br>
+ <h1>Bilan et perspectives</h1><br>
     
         <div class="first-part">
             <div class="title-section">
