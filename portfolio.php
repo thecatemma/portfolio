@@ -82,7 +82,7 @@
     
 <br>
 	
-<h1>MISSION</h1>
+ <h1>MISSION</h1>
     
     <section>
           <div class="first-part">
