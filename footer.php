@@ -36,12 +36,10 @@
 </footer>
 	
 <footer id="footer2">
-    
 	<div id="footer-bottom">
 		<ul class="copyright">
 			<li>©<b>HEMASN</b> | Digital Designer</li><br>
 		</ul>
-		
 <br>
 		<ul class="liens">
 			<li><a href="index.php">Hello</a> | </li>
@@ -51,7 +49,6 @@
 			<li><a href="#">Mentions légales</a></li>
 		</ul>    
 	</div>
-    
 </footer>
 
 </body>
