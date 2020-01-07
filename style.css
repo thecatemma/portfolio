@@ -51,6 +51,11 @@ a:hover {
 /*--- TITRES ---*/
 
 h1 {
+	font-size:2em;
+	margin:0.67em 0;
+}
+
+h1 {
 	font-family: 'Playfair Display SC', serif;
 	font-weight:200;
 	margin:0px 0px 5px 0px;
@@ -125,40 +130,37 @@ a:active,a:hover{
 	outline:0;
 }
 
-h1{
-	font-size:2em;
-	margin:0.67em 0;
-}
-
-abbr[title]{
+abbr[title] {
 	border-bottom:1px dotted;
 }
 
-b,strong{
+b,strong {
 	font-weight:bold;
 }
 
-dfn{
+dfn {
 	font-style:italic;
 }
 
-hr{
+hr {
 	-moz-box-sizing:content-box;
 	box-sizing:content-box;
 	height:0;
 }
 
-mark{
+mark {
 	background:#ff0;color:#000;
 }
 
-code,kbd,pre,samp{
+code,kbd,pre,samp {
 	font-family:monospace,serif;font-size:1em;
 }
-pre{
+
+pre {
 	white-space:pre-wrap;
 }
-q{
+
+q {
 	quotes:"\201C" "\201D" "\2018" "\2019";
 }
 
@@ -307,10 +309,10 @@ table {
 }
 
 @keyframes loaderAnim {
-	to {
-		opacity: 1;
-		transform: scale3d(0.5,0.5,1);
-	}
+to {
+    opacity: 1;
+    transform: scale3d(0.5,0.5,1);
+}
 }
 
 a {
