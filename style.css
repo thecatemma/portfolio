@@ -333,13 +333,13 @@ a:focus {
 }
 
 /*
-
 .frame {
 	padding: 3rem 5vw;
 	text-align: center;
 	position: relative;
 	z-index: 1000;
-} */
+}
+*/
 
 .frame__title {
 	font-size: 1rem;
@@ -1188,7 +1188,7 @@ a.jaime-a-voter:hover {
     border-bottom: 3px solid steelblue;
 }
 
-/*---------- IMAGES PORTFOLIO ----------*/
+/*--- IMAGES PORTFOLIO ---*/
 
 figure {
     position: relative;
