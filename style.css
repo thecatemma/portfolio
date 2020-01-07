@@ -34,16 +34,6 @@ body {
 	margin:0;
 }
 
-a {
-	text-decoration:none; 
-	transition:0.5s;
-}
-
-a:hover {
-	color:#222; 
-	text-decoration: underline;
-}
-
 .clearboth {
     clear:both
 }
@@ -51,16 +41,17 @@ a:hover {
 /*--- TITRES ---*/
 
 h1 {
-	font-size:2em;
-	margin:0.67em 0;
+	font-family: 'Playfair Display SC', serif;
+	font-weight:200;
+	padding:10px;
+	border-bottom: 1px solid #59647e;
+    font-size:2em;
+	margin:0.7em 0;
 }
 
 h1 {
-	font-family: 'Playfair Display SC', serif;
-	font-weight:200;
-	margin:0px 0px 5px 0px;
-	padding:10px;
-	border-bottom: 1px solid #59647e;
+	font-size:2em;
+	margin:0.67em 0;
 }
 
 h2 {
@@ -130,6 +121,17 @@ a:active,a:hover{
 	outline:0;
 }
 
+a {
+	text-decoration:none; 
+	transition:0.5s;
+}
+
+a:hover {
+	color:#222; 
+	text-decoration: underline;
+}
+
+
 abbr[title] {
 	border-bottom:1px dotted;
 }
@@ -187,7 +189,7 @@ img {
 	border:0;
 }
 
-svg:not(:root){
+svg:not(:root) {
 	overflow:hidden;
 }
 
@@ -219,33 +221,32 @@ button,select {
 	text-transform:none;
 }
 
-button,html input[type="button"],input[type="reset"],input[type="submit"]
-{
+button,html input[type="button"],input[type="reset"],input[type="submit"] {
 	-webkit-appearance:button;
 	cursor:pointer;
 }
 
-button[disabled],html input[disabled]{
+button[disabled],html input[disabled] {
 	cursor:default;
 }
 
-input[type="checkbox"],input[type="radio"]{
+input[type="checkbox"],input[type="radio"] {
 	/*box-sizing:border-box;*/
 	padding:0;
 }
 
-input[type="search"]{
+input[type="search"] {
 	-webkit-appearance:textfield;
 	-moz-box-sizing:content-box;
 	-webkit-box-sizing:content-box;
 	box-sizing:content-box;
 }
 
-input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration {
 	-webkit-appearance:none;
 }
 
-button::-moz-focus-inner,input::-moz-focus-inner{
+button::-moz-focus-inner,input::-moz-focus-inner {
     border:0;
     padding:0;
 }
@@ -333,15 +334,6 @@ a:focus {
 	padding: 1rem;
 	text-align: center;
 }
-
-/*
-.frame {
-	padding: 3rem 5vw;
-	text-align: center;
-	position: relative;
-	z-index: 1000;
-}
-*/
 
 .frame__title {
 	font-size: 1rem;
@@ -720,7 +712,6 @@ a.jaime-a-voter:hover {
 }
 
 /*--- ARTICLE ---*/
-
 
 #comment {
     border-radius: 16px;
