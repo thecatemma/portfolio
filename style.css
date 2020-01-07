@@ -63,11 +63,11 @@ h2 {
 	color:rosybrown;
 	font-weight:300;
 	margin:0px 0px 5px 0px;
+    text-align: center;
 }
 
 h3 {
 	font-size:16px;
-	/*color:#324d5d;*/
 	font-weight:100;
 	margin:5px 0px 5px 5px;
 }
@@ -1584,13 +1584,6 @@ table,
     width: auto!important;
 }
 
-<<<<<<< HEAD
-h2 {
-	text-align: center;
-}
-
-=======
->>>>>>> parent of 0c29ad5... responsive + tri
 .copyright {
 	text-align: center;
 }
