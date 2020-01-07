@@ -47,10 +47,10 @@ else
 
 <html>
     
-	<head>
-		<meta charset="utf-8" />
-		<title><?= $article->title ?></title>
-	</head>
+<head>
+    <meta charset="utf-8" />
+    <title><?= $article->title ?></title>
+</head>
 	
 	<body>
 			
