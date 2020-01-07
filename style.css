@@ -91,17 +91,19 @@ summary{
 	display:block;
 }
 
-audio,canvas,video{
+audio,canvas,video {
 	display:inline-block;
 }
 
-audio:not([controls]){
-	display:none;height:0;
+audio:not([controls]) {
+	display:none;
+    height:0;
 }
 
-[hidden]{
+[hidden] {
 	display:none;
 }
+
 html {
 	font-family:sans-serif;
 	-ms-text-size-adjust:100%;
@@ -275,7 +277,7 @@ table {
 	overflow: hidden;
 }
 
-/* Page Loader */
+/*--- Page Loader ---*/
 
 .js .loading::before {
 	content: '';
