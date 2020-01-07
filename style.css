@@ -1652,28 +1652,28 @@ h2 {
 }
 	
 .frame__links {
-		grid-area: links;
-		padding: 0;
-		justify-self: end;
-	}
+    grid-area: links;
+    padding: 0;
+    justify-self: end;
+}
     
 .frame a {
     pointer-events: auto;
-	}
+}
     
 .content {
-		height: 100vh;
-		justify-content: center;
-		width: 90%;
-	}
+    height: 100vh;
+    justify-content: center;
+    width: 90%;
+}
     
 .grid {
-		padding: 70vh 4rem;
-		grid-template-columns: repeat(2,calc(50% - 10vw));
-		grid-row-gap: 50vh;
-	}
+    padding: 70vh 4rem;
+    grid-template-columns: repeat(2,calc(50% - 10vw));
+    grid-row-gap: 50vh;
+}
     
 .grid__item:nth-child(even) {
-		margin-top: -45vh;
-	}
+    margin-top: -45vh;
+}
 }
