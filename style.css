@@ -560,8 +560,6 @@ a:focus {
   transform: rotateX(180deg);
 }
 
-/*--- Position the front and back side ---*/
-
 .flip-box-front, .flip-box-back {
   position: absolute;
   backface-visibility: hidden;
