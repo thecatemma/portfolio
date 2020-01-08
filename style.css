@@ -545,8 +545,6 @@ a:focus {
     border-width: 10px;
 }
 
-/*--- This container is needed to position the front and back side ---*/
-
 .flip-box-inner {
   position: relative;
   width: 100%;
