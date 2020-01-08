@@ -557,8 +557,6 @@ a:focus {
   transform-style: preserve-3d;
 }
 
-/*--- Does an horizontal flip when you move the mouse over the flip box container ---*/
-
 .flip-box:hover .flip-box-inner {
   transform: rotateX(180deg);
 }
