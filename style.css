@@ -570,13 +570,9 @@ a:focus {
   backface-visibility: hidden;
 }
 
-/*--- Style the front side ---*/
-
 .flip-box-front {
   transform: rotateX(180deg);
 }
-
-/*--- Style the back side ---*/
 
 .flip-box-back {
   background-image: radial-gradient(white 20%, transparent 20%),
