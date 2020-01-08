@@ -1088,21 +1088,6 @@ a.jaime-a-voter:hover {
     z-index:0;
 }
 
-/*
-.title-section .separation i {
-    z-index:5;
-    top: -50px !important;
-    color: white;
-}
-
-
-.separation i {
-    z-index:5;
-    color: white;
-}
-
-*/
-
 #container {
     display: flex;
     flex-wrap: wrap;
