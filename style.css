@@ -1094,45 +1094,13 @@ a.jaime-a-voter:hover {
     top: -50px !important;
     color: white;
 }
-*/
+
 
 .separation i {
     z-index:5;
     color: white;
 }
 
-/*
-.title-section .separation::before {
-	content: "\f111";
-    font-family: 'FontAwesome';
-    font-style: normal;
-    font-weight: normal;
-    text-decoration: inherit;
-    color: #5CABD1;
-    position: absolute;
-	top: -10px;
-    left: 50%;
-	padding:0;
-	-webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-    z-index: 5;
-}
-
-.title-section .separation::after {
-	content: "\f111";
-    font-family: 'FontAwesome';
-    font-style: normal;
-    font-weight: normal;
-    text-decoration: inherit;
-    color: white;
-    font-size: 24px;
-    position: absolute;
-    top: -15px;
-    left: 50%;
-    padding:0;
-    -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-}
 */
 
 #container {
