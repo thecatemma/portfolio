@@ -1356,10 +1356,6 @@ form {
     border-bottom: 0px;
 }
 
-#footer-top	li p a {
-    color:#38b39c;
-}
-
 #footer-top	a img {
     transition: opacity .4s;
 }
