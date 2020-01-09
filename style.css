@@ -1440,8 +1440,8 @@ form {
 }
 
 @media screen and (min-width: 1440px) {
-	#conteneur {
-	}	
+#conteneur {
+}	
 }
 
 @media screen and (max-device-width: 375px) {
