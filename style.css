@@ -1011,7 +1011,8 @@ a.jaime-a-voter:hover {
 	-moz-transform: rotate(5deg) scale(1.20) 
 	-webkit-transform: rotate(5deg) scale(1.20); 
 	-o-transform: rotate(5deg) scale(1.20); 
-	-zms-transform: rotate(5deg) scale(1.20);}
+	-zms-transform: rotate(5deg) scale(1.20);
+}
 
 #article p {
 	font-size: 14px;
