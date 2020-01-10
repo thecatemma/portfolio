@@ -277,9 +277,7 @@
         </div>
 
      <section id="client-acc">
-
-            <div class="slider5">
-                
+            <div class="slider5"> 
                 <div class="slide"><img src="images/picto-1.png"></div>
                 <div class="slide"><img src="images/picto-2.png"></div>
                 <div class="slide"><img src="images/picto-3.png"></div>
@@ -288,9 +286,7 @@
                 <div class="slide"><img src="images/picto-6.png"></div>
                 
             </div>
-
-            <script>
-                
+            <script> 
                 $(document).ready(function(){
                   $('.slider5').bxSlider({
                     slideWidth: 300,
@@ -302,9 +298,7 @@
                     auto:true,
                   });
                 });
-       
             </script>
-
      </section>
         
 <br>
