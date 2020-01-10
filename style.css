@@ -22,9 +22,6 @@ body {
 	font-family: Futura, 'IBM Plex Sans', Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-}
-
-body { 
     background:url()repeat-x;
     background-color: #2b313e;
 	padding-top:5px; 
