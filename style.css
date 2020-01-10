@@ -126,7 +126,6 @@ a:hover {
 	text-decoration: underline;
 }
 
-
 abbr[title] {
 	border-bottom:1px dotted;
 }
@@ -199,7 +198,8 @@ fieldset {
 }
 
 legend {
-	border:0;padding:0;
+	border:0;
+    padding:0;
 }
 
 button,input,select,textarea {
@@ -486,11 +486,26 @@ a:focus {
   border-radius: 10px;
 }
 
-.success {background-color: #4CAF50;}
-.info {background-color: #2196F3;}
-.warning {background-color: #ff9800;}
-.danger {background-color: #f44336;}
-.other {background-color: #e7e7e7; color: black;}
+.success {
+    background-color: #4CAF50;
+}
+
+.info {
+    background-color: #2196F3;
+}
+
+.warning {
+    background-color: #ff9800;
+}
+
+.danger {
+    background-color: #f44336;
+}
+
+.other {
+    background-color: #e7e7e7;
+    color: black;
+}
 
 /*--- BARS PAGE 2 ---*/
 
