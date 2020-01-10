@@ -245,29 +245,21 @@
             </div>
         </div>    
   
-    <div id="contener">
-        
+    <div id="contener"> 
         <div class="photos_serie">
             <img src="images/sap_30.png" class="serieDWC" width="200" alt="Proposal 1">
         </div>
-
         <div class="photos_serie">
             <img src="images/sap_31.png" class="serieDWC" width="200" alt="Proposal 2">
         </div>
-
         <div class="photos_serie">
             <img src="images/sap_32.png" class="serieDWC" width="200" alt="Proposal 3">
         </div>
-
         <div class="photos_serie">
             <img src="images/sap_33.png" class="serieDWC" width="200" alt="Proposal 4">
         </div>
-        
     </div>
-
 <br>
-<br>
-        
         <div class="first-part">
             <div class="title-section">
                 <h2>User Assistance</h2>
@@ -300,8 +292,6 @@
                 });
             </script>
      </section>
-        
-<br>
 <br>
         <div class="first-part">
             <div class="title-section">
