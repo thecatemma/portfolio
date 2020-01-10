@@ -231,7 +231,6 @@
  <h1> Quotes </h1>
 
     <section>
-
           <div class="first-part">
               <div class="title-section">
                   <h2>Nos Citations</h2>
@@ -240,42 +239,24 @@
           </div>
         
         <div id ="text_sap">
-            <p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
-
-            <p>"58 95, ça c'est le plus bas c'est ça ?"</p>
-
-            <p>"HEMA toujours un coup d’avance"</p>
-
+            <p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"<br>
+            "58 95, ça c'est le plus bas c'est ça ?"<br>
+            "HEMA toujours un coup d’avance"</p>
             <p>"Une thèseeee"</p>
-
             <p>"69€"</p>
-
             <p>"Les racines du mal" "Les fleurs du mal"</p>
-
             <p>"Come, no matter where you are, no matter how far"</p>
-
             <p>02/12/19 : "Victime de son succès"</p>
-
             <p>"Je sais pas où est-ce qu'on se connecte pour accéder à notre adresse mail"</p>
-
             <p>"Soeur Emmanuelle"</p>
-
             <p>"L'idée c'est de pas faire comme l'Arbre, hyper réaliste"</p>
-
             <p>"Coeur photo story"</p>
-
             <p>"Merci tu me fais économiser 100€"</p>
-
             <p>"Y'avait une fosse, j'avais des potes bourés qui jetaient des bouteilles dedans"</p>
-
             <p>"Moi je le paye pas je le vole" 4/12/2019</p>
-
             <p>"Je pensais partir mais j'attendais que quelqu'un revienne"</p>
-
             <p>"Suite à cette blessure, stress post traumatique"</p>
-
             <p>"Se sentir en sécurité pour avoir un nouveau comportement"</p>
-            
             <p>"Retrouver l'ordonnée à l'origine"</p>
         </div>
 
@@ -284,7 +265,6 @@
         </div>
 
         <p>2019 - ©roots by hemasn</p>
-
     </section>
 
 <br>
