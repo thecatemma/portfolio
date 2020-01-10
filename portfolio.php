@@ -6,7 +6,7 @@
 
 <div id="conteneur">
 
-<h1>SAP</h1>
+ <h1>SAP</h1>
 
         <div class="first-part">
             <div class="title-section">
@@ -25,7 +25,7 @@
             Valeurs: transparence, sérieux, fiabilité...</p>
         <p><a href="#" title="Intro" class="jaime">J&rsquo;aime</a></p>
 	
-<h1>SWOT</h1>
+ <h1>SWOT</h1>
     
         <div class="first-part">
             <div class="title-section">
