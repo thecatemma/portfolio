@@ -194,35 +194,25 @@
           </div>
         
         <div class="contain">
-
             <div class="links">
-
-                <h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2>
-
-    <br>
+                <h2><img src="images/picto-search.png"> <a href="http://hemasn.000webhostapp.com/onePage" target="_blank">Site OnePage</a></h2><br>
             </div>
 
             <div class="links">
-
-                <h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2>
-    <br>
+                <h2><img src="images/picto-brain.png"> <a href="http://hemasn.000webhostapp.com/projetBabyCat" target="_blank">Application</a></h2><br>
             </div>
 
             <div class="links">
-                <h2><img src="images/picto-graphic.png"> <a href="http://hemasn.000webhostapp.com/purple/purple.html" target="_blank">Landing Page</a></h2>
-    <br>
+                <h2><img src="images/picto-graphic.png"> <a href="http://hemasn.000webhostapp.com/purple/purple.html" target="_blank">Landing Page</a></h2><br>
             </div>
 
             <div class="links">
-                <h2><img src="images/picto-pencil.png"> <a href="" target="_blank">Node.js try</a></h2>
-    <br>
+                <h2><img src="images/picto-pencil.png"> <a href="" target="_blank">Node.js try</a></h2><br>
             </div>
 
             <div class="links">
-                <h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2>
-    <br>
+                <h2><img src="images/picto-flag.png"> <a href="" target="_blank">New Website !</a></h2><br>
             </div>
-
         </div>
     </section>
 
@@ -241,23 +231,23 @@
         <div id ="text_sap">
             <p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"<br>
             "58 95, ça c'est le plus bas c'est ça ?"<br>
-            "HEMA toujours un coup d’avance"</p>
-            <p>"Une thèseeee"</p>
-            <p>"69€"</p>
-            <p>"Les racines du mal" "Les fleurs du mal"</p>
-            <p>"Come, no matter where you are, no matter how far"</p>
-            <p>02/12/19 : "Victime de son succès"</p>
-            <p>"Je sais pas où est-ce qu'on se connecte pour accéder à notre adresse mail"</p>
-            <p>"Soeur Emmanuelle"</p>
-            <p>"L'idée c'est de pas faire comme l'Arbre, hyper réaliste"</p>
-            <p>"Coeur photo story"</p>
-            <p>"Merci tu me fais économiser 100€"</p>
-            <p>"Y'avait une fosse, j'avais des potes bourés qui jetaient des bouteilles dedans"</p>
-            <p>"Moi je le paye pas je le vole" 4/12/2019</p>
-            <p>"Je pensais partir mais j'attendais que quelqu'un revienne"</p>
-            <p>"Suite à cette blessure, stress post traumatique"</p>
-            <p>"Se sentir en sécurité pour avoir un nouveau comportement"</p>
-            <p>"Retrouver l'ordonnée à l'origine"</p>
+            "HEMA toujours un coup d’avance"<br>
+            "Une thèseeee"<br>
+            "69€"</p>
+            "Les racines du mal" "Les fleurs du mal"<br>
+            "Come, no matter where you are, no matter how far"<br>
+            02/12/19 : "Victime de son succès"<br>
+            "Je sais pas où est-ce qu'on se connecte pour accéder à notre adresse mail"<br>
+            "Soeur Emmanuelle"<br>
+            "L'idée c'est de pas faire comme l'Arbre, hyper réaliste"<br>
+            "Coeur photo story"<br>
+            "Merci tu me fais économiser 100€"<br>
+            "Y'avait une fosse, j'avais des potes bourés qui jetaient des bouteilles dedans"<br>
+            "Moi je le paye pas je le vole" 4/12/2019<br>
+            "Je pensais partir mais j'attendais que quelqu'un revienne"<br>
+            "Suite à cette blessure, stress post traumatique"<br>
+            "Se sentir en sécurité pour avoir un nouveau comportement"<br>
+            "Retrouver l'ordonnée à l'origine"<br>
         </div>
 
         <div>
