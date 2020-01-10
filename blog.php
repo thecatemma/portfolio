@@ -233,7 +233,7 @@
             "58 95, ça c'est le plus bas c'est ça ?"<br>
             "HEMA toujours un coup d’avance"<br>
             "Une thèseeee"<br>
-            "69€"</p>
+            "69€"<br>
             "Les racines du mal" "Les fleurs du mal"<br>
             "Come, no matter where you are, no matter how far"<br>
             02/12/19 : "Victime de son succès"<br>
