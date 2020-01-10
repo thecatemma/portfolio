@@ -240,7 +240,6 @@
           </div>
         
         <div id ="text_sap">
-
             <p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"</p>
 
             <p>"58 95, ça c'est le plus bas c'est ça ?"</p>
@@ -276,7 +275,8 @@
             <p>"Suite à cette blessure, stress post traumatique"</p>
 
             <p>"Se sentir en sécurité pour avoir un nouveau comportement"</p>
-        
+            
+            <p>"Retrouver l'ordonnée à l'origine"</p>
         </div>
 
         <div>

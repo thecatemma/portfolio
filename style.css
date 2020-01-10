@@ -492,7 +492,7 @@ a:focus {
 .danger {background-color: #f44336;}
 .other {background-color: #e7e7e7; color: black;}
 
-/*--- BARS PAGE ABOUT ---*/
+/*--- BARS PAGE 2 ---*/
 
 .html {width: 90%; background-color: darkseagreen; color: white;}
 .css {width: 85%; background-color: rebeccapurple; color: white;}
@@ -528,7 +528,7 @@ a:focus {
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
-/*--- Flip box Page Portfolio ---*/
+/*--- Flip box Page 3 ---*/
 
 .flip-box {
     background-color: transparent;
@@ -614,7 +614,7 @@ a.jaime-a-voter:hover {
 .nav {
 	font-family: 'Playfair Display SC', serif;
 	color: ghostwhite;
-	}
+}
 
 #menu {
 	margin-bottom:45px;
@@ -969,7 +969,8 @@ a.jaime-a-voter:hover {
 	font-weight:400px; 
 	padding:0; 
 	margin:0; 
-	background:url() no-repeat O 0px; padding-left: 40px;}
+	background:url() no-repeat O 0px; padding-left: 40px;
+}
 
 .article-boucle {
 	width:510px;
@@ -1004,7 +1005,8 @@ a.jaime-a-voter:hover {
 	-moz-transition: all 0.3s ease-in-out 0s; 
 	-webkit-transition: all 0.3s ease-in-out 0s; 
 	-o-transition: all 0.3s ease-in-out 0s; 
-	-ms-transition: all 0.3s ease-in-out 0s;}
+	-ms-transition: all 0.3s ease-in-out 0s;
+}
 
 .article-boucle	img:hover {
 	opacity: 0.5; 
@@ -1017,15 +1019,15 @@ a.jaime-a-voter:hover {
 #article p {
 	font-size: 14px;
 	padding-left: 40px;
-	color:#222;
 	margin-top:30px;
+	color:#222;
 }
 
 #articles .meta-acc {
 	font-size:12px; 
 	padding-left:40px;
+    margin-top:20px;
 	color:#999;
-	margin-top:20px;
 }
 
 #client-acc	{
