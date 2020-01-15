@@ -505,11 +505,34 @@ a:focus {
 
 /*--- BARS PAGE 2 ---*/
 
-.html {width: 90%; background-color: darkseagreen; color: white;}
-.css {width: 85%; background-color: rebeccapurple; color: white;}
-.jss {width: 40%; background-color: mistyrose;}
-.php {width: 25%; background-color: rosybrown; color: white;}
-.node {width: 2%; background-color: purple; color: white;}
+.html {
+    width: 90%; 
+    background-color: darkseagreen; 
+    color: white;
+}
+
+.css {
+    width: 85%; 
+    background-color: rebeccapurple; 
+    color: white;
+}
+
+.jss {
+    width: 40%; 
+    background-color: mistyrose;
+}
+
+.php {
+    width: 25%; 
+    background-color: rosybrown; 
+    color: white;
+}
+
+.node {
+    width: 2%; 
+    background-color: purple; 
+    color: white;
+}
 
 /*--- IMG SHAKE ---*/
 
@@ -1060,7 +1083,7 @@ a.jaime-a-voter:hover {
 	margin-bottom:20px;
 }
 
-/*--- PAGE Portfolio ---*/
+/*--- Page Portfolio ---*/
 
 .portfolio {
     margin: 1%;
@@ -1133,7 +1156,7 @@ a.jaime-a-voter:hover {
     border-bottom: 3px solid steelblue;
 }
 
-/*--- IMAGES PORTFOLIO ---*/
+/*--- Images Portfolio ---*/
 
 figure {
     position: relative;
@@ -1174,7 +1197,7 @@ figure img {
 	width:100%;
 }
 
-/*--- PAGE 4 ---*/
+/*--- Page 4 ---*/
 
 #contener {
     display: flex;
@@ -1202,7 +1225,7 @@ figure img {
     border-radius: 100px;
 }
 
-/*--- PAGE ABOUT ---*/
+/*--- Page About ---*/
 
 #CV h1 {
 	color:#59647e;
