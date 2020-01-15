@@ -88,10 +88,11 @@
                 <td><h3>php</h3></td>
                 <td><h3>mysql</h3></td>
             </tr>
-
         </table>
      </div>
-<br> 
+     
+<br>
+
      <h1>SKILLS        
         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-bookmark" alt="Facebook"></i></a>  
      </h1>
@@ -145,7 +146,7 @@
      
 	  <h1>ON BOARD
           
-         <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="eye"><i class="fa fa-eye" alt="Eye"></i></a> 
+         <a href="#" class="rs" title="eye"><i class="fa fa-eye" alt="Eye"></i></a> 
         
       </h1>
      
