@@ -966,7 +966,7 @@ a.jaime-a-voter:hover {
 	display: inline-block;
 	width: 8px;
 	height: 8px;
-	background: #ddd;
+	background: grey;
 	margin: 10px;
 	border-radius: 50%;
 	cursor: pointer;
