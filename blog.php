@@ -1,6 +1,5 @@
 <?php		
 	include 'header.php';
-
 ?>
 
 </header>
@@ -93,7 +92,6 @@
           </div>
     </section>
 
-
 <br>
 
  <h1>The eyes</h1><br>
@@ -108,7 +106,6 @@
           </div>
 
         <div id="contener">
-
             <div class="yt">
                 <iframe width="400" height="200" src="https://www.youtube.com/embed/1LvL__JC8Yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
@@ -134,7 +131,6 @@
                  <source src="images/HomePage.mp4">
               </video>
              </div>
-
         </div>
     </section>
 
@@ -152,9 +148,7 @@
           </div>
 	
          <div id="client-acc">
-
                 <div class="slider5">
-                    <div class="slide"><img src="images/logo-client-2.jpg"></div>
                     <div class="slide"><img src="images/logo-client-3.jpg"></div>
                     <div class="slide"><img src="images/portfolio-7.jpg"></div>
                     <div class="slide"><img src="images/logo-client-4.jpg"></div>
@@ -177,7 +171,6 @@
                       });
                     });
                  </script>
-
         </div>
     </section>
 
