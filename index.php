@@ -5,7 +5,6 @@
 
 </header>
 
-
       <div id="Infos">
   		<div>
             <img src="images/emma.jpg" alt="profile_photo">
@@ -28,9 +27,7 @@
             <span class="separation"></span>
         </div>
     </div>
-
 <br>
-
    <div id="slide-accueil">
 	<div id="cbp-fwslider" class="cbp-fwslider">
         <ul>
