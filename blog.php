@@ -222,7 +222,6 @@
           </div>
         
         <div id ="text_sap">
-            <p> *Showing Terminal Skills* "Elle n'a que 20 ans et elle en sait plus que nous regarde"<br>
             "58 95, ça c'est le plus bas c'est ça ?"<br>
             "HEMA toujours un coup d’avance"<br>
             "Une thèseeee"<br>
