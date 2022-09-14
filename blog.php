@@ -233,8 +233,6 @@
             "Soeur Emmanuelle"<br>
             "L'idée c'est de pas faire comme l'Arbre, hyper réaliste"<br>
             "Coeur photo story"<br>
-            "Merci tu me fais économiser 100€"<br>
-            "Y'avait une fosse, j'avais des potes bourés qui jetaient des bouteilles dedans"<br>
             "Moi je le paye pas je le vole" 4/12/2019<br>
             "Je pensais partir mais j'attendais que quelqu'un revienne"<br>
             "Suite à cette blessure, stress post traumatique"<br>
