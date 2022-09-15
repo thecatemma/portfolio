@@ -232,8 +232,7 @@
             "Je sais pas où est-ce qu'on se connecte pour accéder à notre adresse mail"<br>
             "Soeur Emmanuelle"<br>
             "L'idée c'est de pas faire comme l'Arbre, hyper réaliste"<br>
-            "Coeur photo story"<br>
-            "Moi je le paye pas je le vole" 4/12/2019<br>
+            "Coeur photo story"<b>
             "Je pensais partir mais j'attendais que quelqu'un revienne"<br>
             "Suite à cette blessure, stress post traumatique"<br>
             "Se sentir en sécurité pour avoir un nouveau comportement"<br>
