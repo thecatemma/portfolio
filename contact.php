@@ -137,9 +137,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 <br>
 
   <h2>A bientôt sur Terre
-    
     <a href="https://www.facebook.com/emmanuelle.husson" class="rs" title="facebook"><i class="fa fa-suitcase" alt="Facebook"></i></a>
-    
   </h2>
 
 <br>
